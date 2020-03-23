@@ -22,5 +22,5 @@ Ett exempel är hur vissa företagare roffar åt sig så många platser som möj
 
 **<span style="font-size:21px;">Jag råder er som har en Google My Business profil</span>** att se över samtliga konkurrenter i er bransch för att luska ut vilka som fular sig. Ibland kan det vara så enkelt som att hemsidan de har angett för den falska profilen omdirigeras till deras riktiga hemsida men ofta så får man leta lite djupare för att få reda på sanningen. 
 
-* Har du inte tid för sådant här tjafs så kan du överlåta det till ett proffs. Jag sköter företags GMB-profiler i löpande form och tar hand om allt från söktmotoroptimering till att hitta de som fuskar i er bransch. [Kontakta mig nu](http://localhost:1313/kontakt/) eller släng iväg en fråga i chatten.
+* Har du inte tid för sådant här tjafs så kan du överlåta det till ett proffs. Jag sköter företags GMB-profiler i löpande form och tar hand om allt från söktmotoroptimering till att hitta de som fuskar i er bransch. [Kontakta mig nu](/kontakt/) eller släng iväg en fråga i chatten.
 
