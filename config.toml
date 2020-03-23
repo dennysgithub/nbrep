@@ -106,7 +106,7 @@ description = "**ENORM RABATT** i dessa tider, **adaptera och väx ifrån konkur
 [params.cta.button]
 enable = true
 label = "mer info"
-link = "http://localhost:1313/seo-analys/"
+link = "/seo-analys/"
 
 
 ############################## Social Site ##########################
