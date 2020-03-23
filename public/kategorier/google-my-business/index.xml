@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google My Business on Nordberg Media</title>
+    <link>https://examplesite.com/kategorier/google-my-business/</link>
+    <description>Recent content in Google My Business on Nordberg Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2020 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/kategorier/google-my-business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stjäl dina konkurrenter kunder från dig på Google Maps?</title>
+      <link>https://examplesite.com/stjal-konkurrenter-dina-kunder/</link>
+      <pubDate>Tue, 17 Mar 2020 05:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/stjal-konkurrenter-dina-kunder/</guid>
+      <description>Det finns många som sysslar med fulspel när det kommer till Google Maps.</description>
+    </item>
+    
+    <item>
+      <title>Guide: Hur du optimerar din Google My Business profil 2020</title>
+      <link>https://examplesite.com/optimera-din-google-my-business-profil/</link>
+      <pubDate>Sun, 15 Mar 2020 05:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/optimera-din-google-my-business-profil/</guid>
+      <description>Varför lägga tid på att optimera din Google My Business profil?</description>
+    </item>
+    
+    <item>
+      <title>Påverkar coronaviruset (COVID-19) ditt företag?</title>
+      <link>https://examplesite.com/paverkar-coronaviruset-ditt-foretag/</link>
+      <pubDate>Sat, 14 Mar 2020 05:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/paverkar-coronaviruset-ditt-foretag/</guid>
+      <description>Google vill att företag som påverkas av COVID-19 (coronaviruset) skall uppdatera detta så korrekt som möjligt i sina Google My Business profiler.</description>
+    </item>
+    
+    <item>
+      <title>Får man använda ett virtuellt kontor för Google My Business?</title>
+      <link>https://examplesite.com/far-man-anvanda-ett-virtuellt-kontor/</link>
+      <pubDate>Fri, 13 Mar 2020 05:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/far-man-anvanda-ett-virtuellt-kontor/</guid>
+      <description>Har du ett serviceföretag som utför tjänster hos kunder? Skulle du vilja ta fördel av att ha en Google My Business profil i ett mer centralt läge för att få fler besökare från Google?</description>
+    </item>
+    
+    <item>
+      <title>Bilhandlare får nu ha flera Google My Business profiler</title>
+      <link>https://examplesite.com/bilhandlare-gmb-profiler/</link>
+      <pubDate>Thu, 12 Mar 2020 05:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/bilhandlare-gmb-profiler/</guid>
+      <description>Google har uppdaterat sina riktlinjer för att tillåta bilhandlare ha flera olika Google My Business profiler.</description>
+    </item>
+    
+    <item>
+      <title>Kan jag stoppa folk från att lägga till foton på min GMB profil?</title>
+      <link>https://examplesite.com/kan-jag-stoppa-folk-ladda-upp-foton/</link>
+      <pubDate>Wed, 25 Dec 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/kan-jag-stoppa-folk-ladda-upp-foton/</guid>
+      <description>Ibland råkar personer lägga upp upp foton på helt fel profil utan att veta om det, ibland kan det vara direkt opassande foton - kanske uppladdade av en konkurrent som vill förstöra.</description>
+    </item>
+    
+  </channel>
+</rss>

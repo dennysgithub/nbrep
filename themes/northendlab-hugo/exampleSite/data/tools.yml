@@ -1,0 +1,41 @@
+tools:
+# tool category
+- title: Annat
+  tool:
+   # tool loop in tool category
+  - name: Sublime Text
+    image: "/images/tools/sublime.png"
+    link: https://www.sublimetext.com/
+      # tool loop in tool category
+  - name: Mailchimp
+    image: "/images/tools/MailChimp.jpg"
+    link: https://mailchimp.com/
+  # tool loop in tool category
+
+# tool category
+- title: SEO Verktyg
+  tool:
+  # tool loop in tool category
+  - name: Ahrefs
+    image: "/images/tools/Ahrefs.jpg"
+    link: https://ahrefs.com/
+  # tool loop in tool category
+  - name: Mailchimp
+    image: "/images/tools/MailChimp.jpg"
+    link: https://mailchimp.com/
+  # tool loop in tool category
+  - name: Bitly Link
+    image: "/images/tools/Bitly.jpg"
+    link: https://bitly.com/
+  # tool loop in tool category
+  - name: Hotjar
+    image: "/images/tools/Hotjar.jpg"
+    link: https://www.hotjar.com/
+  # tool loop in tool category
+  - name: Google Trends
+    image: "/images/tools/GoogleTrends.jpg"
+    link: https://trends.google.com/trends/
+  # tool loop in tool category
+  - name: Google Analytics
+    image: "/images/tools/Google-Analytics.jpg"
+    link: https://analytics.google.com/analytics/web

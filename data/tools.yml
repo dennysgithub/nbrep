@@ -1,0 +1,37 @@
+tools:
+  # tool category
+- title: SEO Verktyg
+  tool:
+  # tool loop in tool category
+  - name: Ahrefs
+    image: "/images/tools/Ahrefs.jpg"
+    link: https://ahrefs.com/
+  # tool loop in tool category
+  - name: Google Analytics
+    image: "/images/tools/Google-Analytics.jpg"
+    link: https://analytics.google.com/analytics/web
+  # tool loop in tool category
+  - name: Google Trends
+    image: "/images/tools/GoogleTrends.jpg"
+    link: https://trends.google.com/trends/
+  # tool loop in tool category
+  - name: MozBar
+    image: "/images/tools/mozbar.jpg"
+    link: https://moz.com/products/pro/seo-toolbar
+  # tool loop in tool category
+
+
+# tool category
+- title: Annat
+  tool:
+    # tool loop in tool category
+  - name: Mailchimp
+    image: "/images/tools/MailChimp.jpg"
+    link: https://mailchimp.com/
+    # tool loop in tool category
+  - name: Bitly Link
+    image: "/images/tools/Bitly.jpg"
+    link: https://bitly.com/
+  # tool loop in tool category
+
+

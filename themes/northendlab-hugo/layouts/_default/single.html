@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto block shadow mb-5">
+        <h2>{{ .Title | markdownify }}</h2>
+        <div class="mb-3 post-meta">
+          <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title | humanize }}</a>,
+          {{ .PublishDate.Format "2006-01-02" }}, {{ range .Params.Kategorier }}
+          <a href="{{ `kategorier/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
+          {{ end }}
+          {{ partial "share-buttons.html" . }}
+        </div>
+        {{ if .Params.Image }}
+        <img src="{{ .Params.Image | relURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+        {{ end }}
+        <div class="content mb-5">
+          {{ .Content }}
+        </div>
+        {{ partial "share-buttons.html" . }}
+      </div>
+      {{ if .Site.DisqusShortname}}
+      <div class="col-lg-8 mx-auto block shadow">
+        <!-- comments -->
+        {{ template "_internal/disqus.html" . }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- cta -->
+{{ if .Site.Params.cta.enable }}
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="row shadow bg-white p-5">
+          <div class="col-md-4 text-center text-md-left mb-4 mb-lg-0">
+            <img src="{{ .Site.Params.cta.image | relURL }}" class="mr-4" alt="..."></div>
+          <div class="col-md-8 text-center text-md-left">
+            <h3 class="mt-0">{{ .Site.Params.cta.title | markdownify }}</h3>
+            <p>{{ .Site.Params.cta.description | markdownify }}</p>
+            {{ if .Site.Params.cta.button.enable }}
+            <a href="{{ .Site.Params.cta.button.link | absURL }}"
+              class="btn btn-primary">{{ .Site.Params.cta.button.label }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /cta -->
+{{ end }}
+

@@ -1,0 +1,126 @@
+
+############################ Default configuration #########################
+baseURL = "https://examplesite.com/"
+languageCode = "en-us"
+# site title 
+title = "Nordberg Media"
+# theme
+theme = "northendlab-hugo"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+enableEmoji = true
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "kontakt"
+name = "Kontakt"
+weight = 1
+
+[[menu.main]]
+URL = "verktyg"
+name = "Verktyg"
+weight = 2
+
+# footer menu
+[[menu.footer]]
+URL = "kontakt"
+name = "Kontakt"
+weight = 1
+
+[[menu.footer]]
+URL = "verktyg"
+name = "Verktyg"
+weight = 2
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Hem"
+# logo
+logo = "images/logo.png"
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+# google tag manager
+google_tag_manager = "" # your id
+# google analitycs ID
+google_analitycs_id = "" # your id
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "Nordberg Media &copy; 2020 Alla rättigheter reserverade"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = false
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Nyheter, trender & tips för alla som vill synas bättre på Google."
+image = "images/banner/illustration.svg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/hugo-muscot.png"
+title = "<mark>Just Nu! 75% på SEO-analys ~~15000:-~~ 3750:-</mark>"
+description = "**ENORM RABATT** i dessa tider, **adaptera och väx ifrån konkurrenterna medan de står still** med en SEO-analys av er hemsida. **Erbjudandet gäller tills 2020-03-31.*"
+[params.cta.button]
+enable = true
+label = "mer info"
+link = "http://localhost:1313/seo-analys/"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
+link = "https://instagram.com"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+    category = "kategorier"
+
+    
