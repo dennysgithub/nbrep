@@ -315,8 +315,6 @@ Målet med beskrivningen ska vara <mark>att informera besökarna om era USPs (Un
 
 När du skriver företagsbeskrivningen vill du också se till att **optimera texten för de nyckelord du vill ranka för.** Har du en firma där du utför golvslipning av parkettgolv så bör du få med det i beskrivningen. Du vill även få med de geografiska platserna där du utför dina tjänster.
 
-Igen, det är inte givet att nyckelorden garanterat kommer generera bättre ranking i dagsläget, det tvistas fortfarande om detta, men varför inte vara väl förberedd?
-
 När du känner dig nöjd med vad du har skrivit så öppnar du din <a href="https://www.google.com/intl/sv_se/business/" target="_blank">Google My Business profil</a> och klickar på "Information" i menyn. Nästan längst ned på sidan hittar du rutan där du kan klistra in din text. Ibland kan det ta lite tid innan ändringen går igenom men du är nu färdig, **bra jobbat!**
 \
 \
