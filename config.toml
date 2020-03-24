@@ -2,36 +2,14 @@
 
 
 ############################ Default configuration #########################
-baseURL = "https://nordbergmedia.se/"
-title = "Nordberg Media"
-...
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-
-[author]
-  name = "Mr. Nordberg"
-
-[params]
-  description = "SEO nörd bloggar om nyheter, trender, guider & tips för alla som vill synas bättre på Google."
-  ...
-
-  [params.publisher]
-    name = "Nordberg Media"
-
-    [params.publisher.logo]
-      url = "/img/logo.png"
-      width = 127
-      height = 40
-
-  [params.logo]
-    url = "/img/logo.png"
-    width = 127
-    height = 40
-
-  [params.image]
-    url = "/img/cover.png"
-    width = 800
-    height = 600
-    
+ [params]
+# home
+home = "Hem"
+# logo
+logo = "images/logo.png"
+# meta data
+author = "Themefisher"
+description = "This is meta description" 
 baseURL = "https://nordbergmedia.se"
 languageCode = "en-us"
 # site title 
