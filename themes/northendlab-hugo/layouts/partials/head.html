@@ -4,8 +4,7 @@
   <title>{{ .Site.Title }}</title>
 {{- else -}}
   <title>{{ .Title }} – {{ .Site.Title }}</title>
-    {{ partial schema.html . }}
-{{- end }}
+  {{- end }}
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -48,5 +47,6 @@
   </script>
   {{ end }}
   <!-- End Google Tag Manager -->
-
+<!-- schema -->
+{{ partial schema.html . }}
 </head>
