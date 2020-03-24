@@ -9,15 +9,15 @@
   "dateModified": {{ .Lastmod }},
   "author": {
     "@type": "Person",
-    "name": {{ .Site.Params.author }}
+    "name": {{ with .Site.Params.author }}
   },
   "mainEntityOfPage": { "@type": "WebPage" },
    "publisher": {
     "@type": "Organization",
-    "name": {{ .Site.Params.header }},
+    "name": {{ with .Site.Params.header }},
     "logo": {
       "@type": "ImageObject",
-      "url": {{ .Site.Params.logo }}
+      "url": {{ with .Site.Params.logo }}
     }
   },
   "description": {{ .Summary | plainify | safeHTML }},
@@ -27,8 +27,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": {{ .Site.Params.header }},
-  "url": {{ .Site.BaseURL }},
+  "name": {{ with .Site.Params.header }},
+  "url": {{ with .Site.BaseURL }},
   "sameAs": [
     "https://www.facebook.com/{{ .Site.Params.facebook }}",
     "https://www.instagram.com/{{ .Site.Params.instagram }}",
