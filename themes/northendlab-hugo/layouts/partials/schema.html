@@ -3,7 +3,7 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": {{ if .Title }},
+  "headline": {{ .Title }},
   "image": {{ .Params.featuredImage | absURL }},
   "datePublished": {{ .PublishDate }},
   "dateModified": {{ .Lastmod }},
