@@ -1,4 +1,12 @@
+[params]
+author = "Nordberg Media"
+logo = "images/logo.png"
+header = "Nordberg Media"
 
+facebook = "weekinmemes"
+twitter = "weekinmemes"
+instagram = "weekinmemes"
+github = "weekinmemes"
 ############################ Default configuration #########################
 baseURL = "https://nordbergmedia.se/"
 languageCode = "en-us"
