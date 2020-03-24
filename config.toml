@@ -1,4 +1,32 @@
+baseURL = "https://code.luasoftware.com/"
+title = "Lua Software Code"
+...
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
+[author]
+  name = "Mr. Nordberg"
+
+[params]
+  description = "Seo nörd bloggar om nyheter, trender, tips & guider för alla som vill synas bättre i Google."
+  ...
+
+  [params.publisher]
+    name = "Nordberg Media"
+
+    [params.publisher.logo]
+      url = "/img/logo.png"
+      width = 127
+      height = 40
+
+  [params.logo]
+    url = "/img/logo.png"
+    width = 127
+    height = 40
+
+  [params.image]
+    url = "/img/cover.png"
+    width = 800
+    height = 600
 
 
 ############################ Default configuration #########################
