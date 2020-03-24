@@ -93,12 +93,6 @@ preloader = "" # use png, jpg, svg or gif format
 [params.search]
 enable = false
 
-############################ SCHEMA MARKUP ##############################
-baseURL = "https://nordbergmedia.se/"
-title = "Nordberg Media"
-
-
-
 [author]
   name = "Nordberg Media"
 
