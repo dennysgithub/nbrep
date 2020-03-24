@@ -8,8 +8,8 @@ home = "Hem"
 # logo
 logo = "images/logo.png"
 # meta data
-author = "Themefisher"
-description = "This is meta description" 
+author = "Nordberg Media"
+description = "SEO nörd bloggar om nyheter, trender, guider & tips för alla som vill synas bättre på Google." 
 baseURL = "https://nordbergmedia.se"
 languageCode = "en-us"
 # site title 
@@ -117,7 +117,7 @@ link = "/seo-analys/"
 ############################## Social Site ##########################
 [[params.social]]
 icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
-link = "https://instagram.com"
+link = "https://instagram.com/nordbergmedia"
 
 
 [markup]
