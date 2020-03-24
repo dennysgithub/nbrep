@@ -1,7 +1,6 @@
 
-
 ############################ Default configuration #########################
-baseURL = "https://nordbergmedia.se/"
+baseURL = "nordbergmedia.se"
 languageCode = "en-us"
 # site title 
 title = "Nordberg Media"
@@ -16,6 +15,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 enableEmoji = true
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
+
 
 
 ########################## Plugings ######################################
@@ -71,7 +71,7 @@ home = "Hem"
 # logo
 logo = "images/logo.png"
 # meta data
-author = "Nordberg Media"
+author = "Themefisher"
 description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
