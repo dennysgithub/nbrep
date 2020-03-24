@@ -3,11 +3,7 @@
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "url": "{{ .Site.BaseURL }}",
-  {{ if .Site.Author.name -}}
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Site.Author.name }}"
+  "url": "{{ .Site.BaseURL }}"
   },
   {{- end }}
   {{ if .Site.Params.description -}}
