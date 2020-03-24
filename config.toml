@@ -5,6 +5,7 @@ baseURL = "https://nordbergmedia.se/"
 languageCode = "en-us"
 # site title 
 title = "Nordberg Media"
+author = "D.N"
 # theme
 theme = "northendlab-hugo"
 # post pagination
