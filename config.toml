@@ -100,7 +100,7 @@ title = "Nordberg Media"
 
 [params]
   description = "Nyheter, trender, guider & tips för alla som vill synas bättre på Google."
-  
+  ..
 
   [params.publisher]
     name = "Nordberg Media"
