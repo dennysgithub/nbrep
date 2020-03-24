@@ -9,10 +9,6 @@
       width = 127
       height = 40
 
-  [params.logo]
-    url = "/img/logo.png"
-    width = 127
-    height = 40
 
   [params.image]
     url = "/img/cover.png"
