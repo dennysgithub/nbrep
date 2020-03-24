@@ -66,6 +66,8 @@ weight = 2
 
 ######################### Default Parameters ###########################
 [params]
+[author]
+  name = "Desmond Lua"
 # home
 home = "Hem"
 # logo
