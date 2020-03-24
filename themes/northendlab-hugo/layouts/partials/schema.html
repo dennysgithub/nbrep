@@ -17,7 +17,7 @@
     "name": {{ .Site.Params.header }},
     "logo": {
       "@type": "ImageObject",
-      "url": {{ .Site.Params.logo }}
+      "url": {{ .Site.Params.logo | jsonify}}
     }
   },
   "description": {{ .Summary | plainify | safeHTML }},
@@ -28,7 +28,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": {{ .Site.Params.header }},
-  "url": {{ .Site.BaseURL }},
+  "url": {{ .Site.BaseURL | jsonify}},
   "sameAs": [
     "https://www.facebook.com/{{ .Site.Params.facebook }}",
     "https://www.instagram.com/{{ .Site.Params.instagram }}",
