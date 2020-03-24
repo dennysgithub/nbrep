@@ -69,7 +69,7 @@ weight = 2
 # home
 home = "Hem"
 # logo
-logo = "/images/logo.png"
+logo = "images/logo.png"
 # meta data
 author = "Themefisher"
 description = "This is meta description"
