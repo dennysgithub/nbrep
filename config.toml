@@ -1,21 +1,3 @@
-[author]
-  name = "Mr. Nordberg"
-
-  [params.publisher]
-    name = "Nordberg Media"
-
-    [params.publisher.logo]
-      url = "/img/logo.png"
-      width = 127
-      height = 40
-
-
-  [params.image]
-    url = "/img/cover.png"
-    width = 800
-    height = 600
-
-
 ############################ Default configuration #########################
  [params]
 # home
@@ -98,7 +80,7 @@ google_analitycs_id = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "Nordberg Media &copy; 2020 Alla rättigheter reserverade | [ Policy](/privacy-policy)"
+copyright = "Nordberg Media &copy; 2020 Alla rättigheter reserverade | [Privacy Policy](/privacy-policy)"
 
 # preloader
 [params.preloader]
