@@ -5,6 +5,7 @@ date = 2020-03-17T05:00:00Z
 description = "Det finns många som sysslar med fulspel när det kommer till Google Maps. Ett exempel är hur vissa företagare roffar åt sig så många platser som möjligt i sökresultatet i Google Maps genom att skapa en hel drös med s.k fake profiler"
 type = "post"
 kategorier = ["Google My Business"]
+author: "D.N"
 
 +++
   
