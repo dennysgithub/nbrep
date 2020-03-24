@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://nordbergmedia.se/"
+baseURL = "https://www.nordbergmedia.se/"
 languageCode = "en-us"
 # site title 
 title = "Nordberg Media"
