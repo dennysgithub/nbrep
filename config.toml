@@ -16,9 +16,6 @@ enableEmoji = true
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 
-[params]
-header = "Nordberg Media"
-instagram = "NordbergMedia"
 
 ########################## Plugings ######################################
 
