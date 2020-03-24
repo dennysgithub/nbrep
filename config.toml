@@ -5,7 +5,6 @@ baseURL = "https://nordbergmedia.se/"
 languageCode = "en-us"
 # site title 
 title = "Nordberg Media"
-author = "D.N"
 # theme
 theme = "northendlab-hugo"
 # post pagination
@@ -91,35 +90,8 @@ preloader = "" # use png, jpg, svg or gif format
 # search
 [params.search]
 enable = false
-#################################################### schema #####################################
-baseURL = "https://nordbergmedia.se/"
-title = "Nordberg Media"
-...
 
-[author]
-  name = "D.N"
 
-[params]
-  description = "Nyheter, trender, guider & tips för alla som vill synas bättre på Google."
-  ...
-
-  [params.publisher]
-    name = "Nordberg Media"
-
-    [params.publisher.logo]
-      url = "/img/logo.png"
-      width = 127
-      height = 40
-
-  [params.logo]
-    url = "/images/logo.png"
-    width = 127
-    height = 40
-
-  [params.image]
-    url = "/img/cover.png"
-    width = 800
-    height = 600
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
