@@ -1,12 +1,6 @@
 
 
 ############################ Default configuration #########################
-[params]
-author = "Nordberg Media"
-logo = "images/logo.png"
-header = "Nordberg Media"
-
-instagram = "nordbergmedia"
 baseURL = "https://nordbergmedia.se/"
 languageCode = "en-us"
 # site title 
