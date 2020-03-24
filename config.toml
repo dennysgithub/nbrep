@@ -66,8 +66,6 @@ weight = 2
 
 ######################### Default Parameters ###########################
 [params]
-[author]
-  name = "Desmond Lua"
 # home
 home = "Hem"
 # logo
@@ -93,7 +91,36 @@ preloader = "" # use png, jpg, svg or gif format
 [params.search]
 enable = false
 
+######### schema ############
+baseURL = "https://code.luasoftware.com/"
+title = "Lua Software Code"
+...
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
+[author]
+  name = "Desmond Lua"
+
+[params]
+  description = "Tutorials and snippets for programming languages, frameworks, tools, etc."
+  ...
+
+  [params.publisher]
+    name = "Lua Software"
+
+    [params.publisher.logo]
+      url = "/img/logo.png"
+      width = 127
+      height = 40
+
+  [params.logo]
+    url = "/img/logo.png"
+    width = 127
+    height = 40
+
+  [params.image]
+    url = "/img/cover.png"
+    width = 800
+    height = 600
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
