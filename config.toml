@@ -90,17 +90,17 @@ preloader = "" # use png, jpg, svg or gif format
 # search
 [params.search]
 enable = false
-
-######### schema ############
+#################################################### schema #####################################
 baseURL = "https://nordbergmedia.se/"
 title = "Nordberg Media"
+...
 
 [author]
-  name = "Nordberg Media"
+  name = "D.N"
 
 [params]
   description = "Nyheter, trender, guider & tips för alla som vill synas bättre på Google."
-  ..
+  ...
 
   [params.publisher]
     name = "Nordberg Media"
