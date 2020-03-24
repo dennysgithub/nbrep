@@ -16,6 +16,10 @@ enableEmoji = true
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 
+[params]
+header = "Nordberg Media"
+instagram = "NordbergMedia"
+
 ########################## Plugings ######################################
 
 # css plugins
@@ -69,7 +73,7 @@ home = "Hem"
 # logo
 logo = "images/logo.png"
 # meta data
-author = "Themefisher"
+author = "Nordberg Media"
 description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
