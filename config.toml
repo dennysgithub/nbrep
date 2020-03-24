@@ -1,3 +1,30 @@
+############################ SCHEMA MARKUP ##############################
+baseURL = "https://nordbergmedia.se/"
+title = "Nordberg Media"
+...
+
+
+[author]
+  name = "Nordberg Media"
+
+[params]
+  description = "SEO nörd bloggar om nyheter, trender, guider & tips för alla som vill synas bättre på Google."
+  ...
+
+  [params.publisher]
+    name = "Nordberg Media"
+
+    [params.publisher.logo]
+      url = "/images/logo.png"
+      
+
+  [params.logo]
+    url = "/images/logo.png"
+   
+
+  [params.image]
+    url = "/images/cover.png"
+
 
 ############################ Default configuration #########################
 baseURL = "https://nordbergmedia.se"
