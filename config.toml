@@ -1,11 +1,12 @@
+
+
+############################ Default configuration #########################
 [params]
 author = "Nordberg Media"
 logo = "images/logo.png"
 header = "Nordberg Media"
 
 instagram = "nordbergmedia"
-
-############################ Default configuration #########################
 baseURL = "https://nordbergmedia.se/"
 languageCode = "en-us"
 # site title 
