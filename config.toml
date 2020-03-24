@@ -1,16 +1,8 @@
 ############################ Default configuration #########################
- [params]
-# home
-home = "Hem"
-# logo
-logo = "images/logo.png"
-# meta data
-author = "Nordberg Media"
-description = "SEO nörd bloggar om nyheter, trender, guider & tips för alla som vill synas bättre på Google." 
-baseURL = "https://nordbergmedia.se"
+baseURL = "https://nordbergmedia.se/"
 languageCode = "en-us"
 # site title 
-title = "Nordberg Media"
+title = "Northendlab | Blog Template"
 # theme
 theme = "northendlab-hugo"
 # post pagination
@@ -19,11 +11,9 @@ paginate = "5"
 summaryLength = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
-enableEmoji = true
+
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
-
-
 
 ########################## Plugings ######################################
 
@@ -50,29 +40,36 @@ link = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-URL = "kontakt"
-name = "Kontakt"
+URL = "contact"
+name = "Contact"
 weight = 1
 
 [[menu.main]]
-URL = "verktyg"
-name = "Verktyg"
+URL = "tools"
+name = "tools"
 weight = 2
 
 # footer menu
 [[menu.footer]]
-URL = "kontakt"
-name = "Kontakt"
+URL = "contact"
+name = "Contact"
 weight = 1
 
 [[menu.footer]]
-URL = "verktyg"
-name = "Verktyg"
+URL = "tools"
+name = "tools"
 weight = 2
 
 
 ######################### Default Parameters ###########################
-
+[params]
+# home
+home = "Home"
+# logo
+logo = "images/logo.svg"
+# meta data
+author = "Themefisher"
+description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
@@ -80,7 +77,7 @@ google_analitycs_id = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "Nordberg Media &copy; 2020 Alla rättigheter reserverade | [Privacy Policy](/privacy-policy)"
+copyright = "&copy; 2020 All Rights Reserved"
 
 # preloader
 [params.preloader]
@@ -89,39 +86,38 @@ preloader = "" # use png, jpg, svg or gif format
 
 # search
 [params.search]
-enable = false
+enable = true
 
 
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Nyheter, trender & tips för alla som vill synas bättre på Google."
+title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
 image = "images/banner/illustration.svg"
 
 
 ######################## call to action ###############################
 [params.cta]
 enable = true
-image = "images/hugo-muscot.png"
-title = "<mark>Just Nu! 75% på SEO-analys ~~15000:-~~ 3750:-</mark>"
-description = "**ENORM RABATT** i dessa tider, **adaptera och väx ifrån konkurrenterna medan de står still** med en SEO-analys av er hemsida. **Erbjudandet gäller tills 2020-03-31.*"
+image = "images/hugo-muscot.svg"
+title = "Get the best hugo templates"
+description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 [params.cta.button]
 enable = true
-label = "mer info"
-link = "/seo-analys/"
+label = "Visit Here"
+link = "https://gethugothemes.com/shop/"
 
 
 ############################## Social Site ##########################
 [[params.social]]
-icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
-link = "https://instagram.com/nordbergmedia"
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-[taxonomies]
-    category = "kategorier"
-    
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "#"	
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+link = "#"
