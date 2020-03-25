@@ -41,7 +41,7 @@ sections:
   match: "*.toml"
   new_doc_ext: toml
 upload_dir: static/images/post
-public_path: "/images"
+public_path: "/images/post"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
