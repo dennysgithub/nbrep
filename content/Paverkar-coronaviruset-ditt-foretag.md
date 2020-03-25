@@ -22,7 +22,7 @@ För mer detaljerad information kan ni läsa [här](https://support.google.com/b
 
 Pga covid-19 så lägger Google till möjligheten att visa profiler som temporärt stängda.
 
-![Mark-profil-som-tillfalligt-stangd](/images/Mark-profil-som-tillfalligt-stangd.png "Mark-profil-som-tillfalligt-stangd")
+![](/images/post/Mark-profil-som-tillfalligt-stangd.png)
 
 {{< tweet 1242862170720702464>}}<br></br>
 
