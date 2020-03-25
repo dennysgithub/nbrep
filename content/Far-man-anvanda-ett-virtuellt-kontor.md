@@ -13,7 +13,7 @@ Då har du säkert funderat på att skaffa ett virtuellt kontor. Men det finns l
 
 Det här är en fråga som varit uppe på tapeten länge hos Google och riktlinjerna har ändrats fram och tillbaka. För att inte göra det här till ett långt inlägg så summerar jag det så här:
 
-**<h2 style="font-size:18px;">Om du har personal på plats i det virtuella kontoret under de timmar du säger att du har öppet enligt din Google My Business profil, då är det ok att använda den adressen för din GMB profil.**</h2> 
+**<h2 style="font-size:18px;">Om du har personal på plats i det virtuella kontoret under de timmar du säger att du har öppet enligt din Google My Business profil, då är det ok att använda den adressen för din GMB profil.</h2>** 
 
 **Har du inte någon personal på plats så får du helt enkelt inte utnyttja den adressen.**
 
