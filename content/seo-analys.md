@@ -12,6 +12,8 @@ type = "post"
 
 <span style="font-size:22px;">Om du aldrig "besiktigar" din hemsida så skapar du ett sjunkande skepp och tvingas se dina konkurrenter åka förbi, en efter en.</span>
 
+<span style="font-size:22px;">En SEO analys hjälper företag förstå de digitala problemen och hur de löser dem = **Fler kunder**</span> 
+
 **<span style="font-size:22px;">Det finns hundratals faktorer som avgör vilken ranking du får.</span>**
 
 <span style="font-size:22px;">Jag identifierar **alla existerande problem** och levererar resultatet till dig i en excel rapport som vi går igenom tillsammans. **Givetvis så går vi även igenom vilka problem som är akuta och skall prioriteras först samt tillvägagångssätt för att åtgärda samtliga identifierade problem.</span>**
