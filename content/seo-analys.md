@@ -6,7 +6,7 @@ description = "Varför är en SEO analys värdefull? Skulle du åka runt i en bi
 type = "post"
 
 +++
-**<span style="font-size:23px;">Skulle du åka runt i en gammal bil som aldrig någonsin blivit besiktigad?</span>**
+**<span style="font-size:25px;">Skulle du åka runt i en gammal bil som aldrig någonsin blivit besiktigad?</span>**
 
 <span style="font-size:22px;">Troligtvis inte eftersom risken finns att bilen rasar sönder på motorvägen och orsakar en olycka.</span>
 
