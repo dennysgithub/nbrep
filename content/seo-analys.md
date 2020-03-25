@@ -10,7 +10,7 @@ type = "post"
 
 <span style="font-size:22px;">Troligtvis inte eftersom risken finns att bilen rasar sönder på motorvägen och orsakar en olycka.</span>
 
-<span style="font-size:22px;">Om du aldrig "besiktigar" din hemsida och ser över din digitala profil överhuvudtaget så skapar du ett sjunkande skepp och tvingas se dina konkurrenter åka förbi, en efter en.</span>
+<span style="font-size:22px;">Om du aldrig "besiktigar" din hemsida så skapar du ett sjunkande skepp och tvingas se dina konkurrenter åka förbi, en efter en.</span>
 
 **<span style="font-size:22px;">Det finns hundratals faktorer som avgör vilken ranking du får.</span>**
 
