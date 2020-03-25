@@ -57,7 +57,7 @@ Detta kanske låter svårare än vad det är för somliga, allt du behöver gör
 <a name="steg2"></a>  
 
 <br></br>  
-**<span style="font-size:25px;">Steg 2: Se till så att din NAP är korrekt!</span>** <a href="#steg3">(hoppa till steg 3 om du inte är ett lokalt företag)</a>  
+**<h2 style="font-size:25px;">Steg 2: Se till så att din NAP är korrekt!</h2>** <a href="#steg3">(hoppa till steg 3 om du inte är ett lokalt företag)</a>  
 
 Vad är NAP för något kanske du undrar?
 
@@ -98,7 +98,7 @@ Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt 
 \
 \
 \
-**<span style="font-size:25px;">Steg 3: Välj rätt företagskategori och under-kategori(er).</span>** 
+**<h2 style="font-size:25px;">Steg 3: Välj rätt företagskategori och under-kategori(er).</h2>** 
 
 Vilken kategori ska du välja? Ska du bara ha en primär kategori? Eller måste du ha underkategorier också?
 
@@ -112,7 +112,7 @@ Eftersom "advokatbyrå" **beskriver din verksamhet i helhet bäst så ska detta 
 
 Många struntar i detta för att de är rädda att de "förlorar ranking" från sin primära kategori, <mark>men flera tester har visat att så inte är fallet.</mark> Den enda gången du ska akta dig från att ha underkategorier är om du har en verksamhet som sysslar med två helt olika tjänster.
 
-**<span style="font-size:21px;">Tips från coachen:</span>** 
+**<h3 style="font-size:23px;">Tips från coachen:</h3>** 
 Ta en titt på dina konkurrenter som rankar bäst. Vilken kategori har de valt? Om de första fem företagen alla har valt samma kategori så är det med största sannolikhet den du också vill använda. 
 
 Du ser enkelt vilken kategori dina konkurrenter har valt  genom att titta på deras profiler
@@ -145,7 +145,7 @@ Hängde du med? **Grymt jobbat!** Nu har du förhoppningsvis en god idé om hur 
 \
 \
 \
-**<span style="font-size:25px;">Steg 4: Utnyttja Google Inlägg till fullo!</span>** 
+**<h2 style="font-size:25px;">Steg 4: Utnyttja Google Inlägg till fullo!</h2>** 
 
 Google Inlägg är en väldigt effektiv funktion för att förmedla saker som pågående erbjudanden, kommande evenemang, produkter och tjänster ni tillhandahåller eller generella inlägg om vad som helst. 
 
@@ -177,7 +177,7 @@ Nu vet du varför du ska pyssla med GMB inlägg och hur du gör det! Har du någ
 \
 \
 \
-**<span style="font-size:25px;">Steg 5: Generera & hantera recensioner för ditt företag.</span>**  
+**<h2 style="font-size:25px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
 ![gmb-recensioner](/images/post/gmb-recensioner.png)  
 Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? **Då är det dags att ändra på det!**
 
@@ -250,7 +250,7 @@ Här har du chansen att verkligen visa vad för slags företag ni är. Bemöt ne
  * Skulle du tröttna på det här så går det alltid att anställa mig så sköter jag allt från optimering och hantering av recensioner till tråkiga och utdragna dispyter som dessa så du kan fokusera på det du gör bäst. Är det något du undrar så är det bara att [ta kontakt](http://localhost:1313/kontakt/) eller slänga iväg en fråga i chatten. :thumbsup:
  <a name="steg6"></a><br></br><br></br>   
   
-**<span style="font-size:25px;">Steg 6: Fyll din profil med foton för fler kunder.</span>** 
+**<h2 style="font-size:25px;">Steg 6: Fyll din profil med foton för fler kunder.</h2>** 
 ![gmb-foton](/images/post/gmb-foton.png)
 
 <a href="https://support.google.com/business/answer/3038063" target="_blank">Google har rapporterat</a> att företag med foton får 42% fler förfrågningar för köransvisningar och 35% fler genomklickningar till deras hemsidor. **Bara från att ha laddat upp foton!** :camera:
@@ -289,7 +289,7 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 \
 \
 \
-**<span style="font-size:25px;">Steg 7: Företagsbeskrivning, Q&A och Öppettider.</span>** 
+**<h2 style="font-size:25px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>** 
 ![last-pic](/images/post/battre-ranking-gmb.png)
 
 Jag valde att ta med de här punkterna i slutet av guiden då tester inte har kunnat visa att Googles algoritm genererar en märkbar effekt på rankingen för de här funktionerna. (med undantag för öppettider som kan ha en betydande effekt i vissa fall)
