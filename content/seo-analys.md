@@ -26,12 +26,11 @@ type = "post"
 = <mark>20 000 kr</mark>   
 **<span style="font-size:27px;">Med COVID-19 Erbjudande = <span class="highlight">3 750 kr</span></span>**
 
-<span style="font-size:27px;">Fyll ut [formuläret](google-formulär) för en chans på erbjudandet.</span>
+<span style="font-size:27px;">Först till kvarn gäller. (10st SEO analyser)</span>  
+* <span style="font-size:23px;">Fyll i [formuläret](länk) för en chans på erbjudandet.</span>
 
-
-<span style="font-size:13px;">*gäller endast för hemsidor med färre än 15 sidor*  
-först till kvarn (20st seo analyser)  
-*erbjudandet går ut 2020-03-31 23.59*</span> 
+<span style="font-size:14px; font-style:italic;">*gäller endast för hemsidor med färre än 15 sidor  
+</span> 
 
 
 
