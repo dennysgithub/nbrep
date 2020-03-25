@@ -24,8 +24,6 @@ Pga covid-19 så lägger Google till möjligheten att visa profiler som temporä
 
 ![Mark-profil-som-tillfalligt-stangd](/images/mark-som-tillfalligt-stangt.png "Mark-profil-som-tillfalligt-stangd")
 
-{{< tweet 1242862170720702464>}}
-
-<br></br>
+{{< tweet 1242862170720702464>}}<br></br>
 
 Om du är en av de som tvingas till detta pga de rådande omständigheterna: **Håll ut och var stark!** 
