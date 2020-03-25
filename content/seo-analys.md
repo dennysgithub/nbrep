@@ -1,7 +1,6 @@
 +++
 title = "Vad är en SEO analys bra för egentligen?"
 image = "/images/post/vad-ar-en-seo-analys-bra-for.png"
-date = 0000-00-00T05:00:00Z
 description = "Varför är en SEO analys värdefull? Skulle du åka runt i en bil som aldrig blivit besiktigad?"
 type = "post"
 
