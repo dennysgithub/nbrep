@@ -20,7 +20,7 @@ type = "post"
 
 <span style="font-size:22px;">Under de rådande omständigheterna förlorar många företag kunder & affärer och gör inget annat än att sitta tillbaka och se på, väntandes på att det ska gå över.</span>
 
-<span style="font-size:22px;">Gör inte som alla andra, det är nu du ska passa på att förbättra dig. För att hjälpa småföretagare går jag därför ut med ett helt galet erbjudande. Passa på innan det tar slut.  </span>
+<span style="font-size:22px;">Var inte som alla andra, det är nu du ska passa på att förbättra dig. För att hjälpa småföretagare går jag därför ut med ett helt galet erbjudande. Passa på innan det tar slut.  </span>
  
 **<span style="font-size:27px;"><mark>BEGRÄNSAT COVID-19 ERBJUDANDE:</mark></span>**  
 <span style="font-size:23px;">**75% Rabatt** på Teknisk SEO Analys (ord. pris 15 000 kr)   
