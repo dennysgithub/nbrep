@@ -34,7 +34,7 @@ Den här guiden är tänkt att ge grundläggande kunskaper i hur man optimerar G
 * <a href="#steg8">Steg 8: Avslutande ord.</a><a name="steg1"></a>  
 <br></br>    
 
-**<span style="font-size:25px;">Steg 1: Gör anspråk på din GMB profil och verifiera den.</span>**<a href="#steg2">(hoppa till steg 2 om du redan gjort detta)</a>  
+**<h2 style="font-size:25px;">Steg 1: Gör anspråk på din GMB profil och verifiera den.</h2>**<a href="#steg2">(hoppa till steg 2 om du redan gjort detta)</a>  
 > ***Uppdatering 2020-03-21:** Pga covid-19 så kan verifieringar av profiler dröja längre än normalt. Så fort saker börjar rulla på som normalt i Google igen så skriver jag om det i bloggen.*
 
 Att inte ha lagt anspråk på sin GMB profil innebär att vem som helst kan göra det, med katastrofala följder. Låt inte det ske. 
