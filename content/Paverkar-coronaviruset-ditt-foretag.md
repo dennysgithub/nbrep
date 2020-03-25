@@ -22,8 +22,10 @@ För mer detaljerad information kan ni läsa [här](https://support.google.com/b
 
 Pga covid-19 så lägger Google till möjligheten att visa profiler som temporärt stängda. 
 
-![](/images/mark-som-tillfalligt-stangt.png)
+![Mark-profil-som-tillfalligt-stangd](/images/mark-som-tillfalligt-stangt.png "gmb-tillfalligt-stangt")
 
 {{< tweet 1242862170720702464>}}
 
-Om du är en av de som tvingas till detta pga de rådande omständigheterna: Håll ut och var stark! 
+<br></br>
+
+Om du är en av de som tvingas till detta pga de rådande omständigheterna: **Håll ut och var stark!** 
