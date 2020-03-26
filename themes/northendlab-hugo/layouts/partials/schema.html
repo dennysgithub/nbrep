@@ -11,6 +11,7 @@
     {{ with .Params.tags -}}
     "keywords": {{ . }},
     {{ end -}}
+    "wordcount": {{ .WordCount }}
     {{ else -}}
     "@type": "WebPage",
     "url" : {{ .Permalink }},
