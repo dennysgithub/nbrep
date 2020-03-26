@@ -10,8 +10,8 @@
     "description": {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . }}{{ end }},
     {{ with .Params.tags -}}
     "keywords": {{ . }},
-    {{ end -}}
     "wordcount": {{ .WordCount }}
+    {{ end -}}
     {{ else -}}
     "@type": "WebPage",
     "url" : {{ .Permalink }},
