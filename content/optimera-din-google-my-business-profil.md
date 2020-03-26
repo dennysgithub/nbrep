@@ -113,7 +113,7 @@ Eftersom "advokatbyrå" **beskriver din verksamhet i helhet bäst så ska detta 
 Många struntar i detta för att de är rädda att de "förlorar ranking" från sin primära kategori, <mark>men flera tester har visat att så inte är fallet.</mark> Den enda gången du ska akta dig från att ha underkategorier är om du har en verksamhet som sysslar med två helt olika tjänster.
 
 **<h3 style="font-size:23px;">Tips från coachen:</h3>** 
-Ta en titt på dina konkurrenter som rankar bäst. Vilken kategori har de valt? Om de första fem företagen alla har valt samma kategori så är det med största sannolikhet den du också vill använda. 
+<span style="font-size:20px;">Ta en titt på dina konkurrenter som rankar bäst. Vilken kategori har de valt? Om de första fem företagen alla har valt samma kategori så är det med största sannolikhet den du också vill använda.</span> 
 
 Du ser enkelt vilken kategori dina konkurrenter har valt  genom att titta på deras profiler
 ![gmb-kategorier](/images/post/gmb-kategori.png)
