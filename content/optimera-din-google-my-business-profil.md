@@ -179,7 +179,7 @@ Nu vet du varför du ska pyssla med GMB inlägg och hur du gör det! Har du någ
 \
 **<h2 style="font-size:25px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
 ![gmb-recensioner](/images/post/gmb-recensioner.png)  
-<h3 style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? **Då är det dags att ändra på det!</h3>**
+<h3 style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? Då är det dags att ändra på det!</h3>
 
 Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa företaget väljer ofta det med flest och bäst recensioner och även Google älskar företag med många bra recensioner och ger de bättre ranking tack vare dem.
 
