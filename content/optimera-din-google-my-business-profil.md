@@ -179,7 +179,7 @@ Nu vet du varför du ska pyssla med GMB inlägg och hur du gör det! Har du någ
 \
 **<h2 style="font-size:25px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
 ![gmb-recensioner](/images/post/gmb-recensioner.png)  
-<h3 style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? **Då är det dags att ändra på det!**</h3>
+<h3 style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? **Då är det dags att ändra på det!</h3>**
 
 Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa företaget väljer ofta det med flest och bäst recensioner och även Google älskar företag med många bra recensioner och ger de bättre ranking tack vare dem.
 
@@ -221,7 +221,7 @@ Och där har du din länk.
 
 Kopiera den och spara. **När någon använder länken så kommer de till din Google My Business profil och rutan för att lämna en recension poppar upp direkt.** Enklare blir det inte för en kund att lämna en recension. Testa länken själv! 
 
-**<span style="font-size:23px;">Hur ska vi implementera det här nu då?</span>**
+**<h3 style="font-size:23px;">Hur ska vi implementera det här nu då?</h3>**
 
 Det finns många vägar att gå men jag ska nämna några stycken. 
 
@@ -239,10 +239,10 @@ Det ser inte bara bra ut för användare som kikar på din profil utan Google ä
 
 Allt du behöver göra är att svara på en positiv recension med ett simpelt **"Tack så mycket [namn] för din fina recension!"** Försök att inte svara identiskt på varje recension utan ge det en liten twist hela tiden så folk ser att du bryr dig.
 
-**<span style="font-size:22px;">Negativa recensioner då?</span>**  
+**<h3 style="font-size:22px;">Negativa recensioner då?</h3>**  
 Här har du chansen att verkligen visa vad för slags företag ni är. Bemöt negativa recensioner på bästa möjliga sätt, be om ursäkt när något gått fel, be dem ringa dig för att arbeta fram en lösning, osv. Detta kommer inge en sån otrolig tillit hos dina framtida kunder så du anar inte!
 
-**<span style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</span>**  
+**<h3 style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</h3>**  
  Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="https://twitter.com/googlemybiz?lang=sv" target="_blank">@GoogleMyBiz</a> eller via deras <a href="https://www.facebook.com/GoogleMyBusiness/Facebook" target="_blank">Facebook sida.</a>  
    
  Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De brukar svara inom en vecka och det kan dröja längre än så innan något händer, ibland kan det tyvärr vara svårt att få något att hända alls så man kan behöva jobba fram och tillbaka med Google ett tag.
@@ -259,7 +259,7 @@ Men det betyder givetvis inte att du kan slänga upp ett foto på en entré och 
 
 Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité när det gäller skärpa och exponering. Många strävar efter att få de där perfekta företagsfotona som man ser i broschyrer och reklamer men det ser nästan fejk ut och inger inte alls samma tillit som mer avslappnade genuina foton skapar.
 
-**<span style="font-size:22px;">Några grundläggande saker att tänka på:</span>**
+**<h3 style="font-size:22px;">Några grundläggande saker att tänka på:</h3>**
 
 * Ladda inte upp foton som heter *"CANON85212391_1233"*, det namnet säger Google ingenting. Om det är ett gruppfoto av er personal så döp då fotot till "personal_gruppfoto" exempelvis.
 
@@ -268,7 +268,7 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 * Använd **INTE** stockfoton under några som helst omständigheter! Google kommer hitta dem och radera dem!
   
 \
-**<span style="font-size:22px;">Generella riktlinjer <a href="https://support.google.com/business/answer/6123536" target="_blank">från Google</a> gällande antal och typer av foton:</span>**
+**<h3 style="font-size:22px;">Generella riktlinjer <a href="https://support.google.com/business/answer/6123536" target="_blank">från Google</a> gällande antal och typer av foton:</h3>**
 
 * Minst tre foton från utsidan och tre foton från insidan. Gärna vid olika tidpunkter på dygnet och från de vanligaste perspektiven.
 
@@ -301,7 +301,7 @@ Google är dessutom kända för att ständigt uppdatera sin algoritm vilket bety
 Så låt oss köra vidare lite till bara, <span style="font-size:20px;">har du hängt med hela vägen hit är du grym!</span> :muscle:
 
 \
-**<span style="font-size:22px;">Företagsbeskrivningen:</span>**   
+**<h3 style="font-size:22px;">Företagsbeskrivningen:</h3>**   
 Du har säkert redan skrivit en företagsbeskrivning, **men hur mycket tid & energi lade du på det egentligen?**
 
 Det är lätt att tro att "det är ändå ingen som läser där", men det är fel. Det kan vara en avgörande faktor när en potentiell kund ska välja företag. 
@@ -318,7 +318,7 @@ När du skriver företagsbeskrivningen vill du också se till att **optimera tex
 När du känner dig nöjd med vad du har skrivit så öppnar du din <a href="https://www.google.com/intl/sv_se/business/" target="_blank">Google My Business profil</a> och klickar på "Information" i menyn. Nästan längst ned på sidan hittar du rutan där du kan klistra in din text. Ibland kan det ta lite tid innan ändringen går igenom men du är nu färdig, **bra jobbat!**
 \
 \
-**<span style="font-size:22px;">Q&A:</span>**  
+**<h3 style="font-size:22px;">Skapa en Q&A:</h3>**  
 > ***Uppdatering 2020-03-21:** Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte möjligheten att "ställa en fråga" så är det inte fel hos dig, utan det är Google som försöker underlätta arbetet för sina anställda under rådande omständigheter. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen.*
 
 Du har säkert sett att användare kan ställa frågor på Google My Business profiler och du som ägare eller andra användare som vet svaren kan svara på frågorna. 
@@ -338,7 +338,7 @@ På det här viset tar du kontroll över din Q&A och slipper ha en massa konstig
 För mer läsning gällande riktlinjerna för Q&A's kan du klicka <a href="https://support.google.com/maps/answer/7421661?co=GENIE.Platform%3DAndroid&hl=sv" target="_blank">här.</a>
 \
 \
-**<span style="font-size:22px;">Öppettider:</span>**   
+**<h3 style="font-size:22px;">>Lägg till särskilda öppettider:</h3>**   
 Sista punkten, jag ska hålla det här kort för det finns egentligen inte mycket att säga.
 
 Att lägga till öppettider har du med största sannolikhet gjort. 
