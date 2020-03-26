@@ -69,7 +69,7 @@ home = "Hem"
 logo = "images/logo.png"
 # meta data
 author = "Nordberg Media"
-description = "SEO nörd bloggar om nyheter, trender, guider & tips för alla som vill synas bättre på Google."
+description = "En SEO nörd som hjälper lokala företagare få fler kunder från Google."
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
