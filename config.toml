@@ -92,7 +92,7 @@ enable = false
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Nyheter, trender & tips för alla som vill synas bättre på Google."
+title = "SEO nörd bloggar om nyheter, trender, guider & tips för alla som vill få fler kunder från Google."
 image = "images/banner/illustration.svg"
 
 
