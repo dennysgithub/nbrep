@@ -1,13 +1,12 @@
 +++
-title = "Guide: Hur du optimerar din Google My Business profil 2020"
-image = "/images/post/gmb-thumbnail.png"
 date = 2020-03-15T05:00:00Z
 description = "Ta stegen dina konkurrenter inte gör och optimera din Google My Business profil och håva in fler nya kunder än vad du någonsin gjort från Google tidigare."
-type = "post"
+image = "/images/post/gmb-thumbnail.png"
 kategorier = ["Google My Business"]
+title = "GUIDE: Hur du optimerar din Google My Business profil 2020"
+type = "post"
 
 +++
-
 **<span style="font-size:21px;">Varför lägga tid på att optimera din Google My Business profil?</span>**  
 
 Enkelt, det är gratis och om du optimerar din profil korrekt så har du chansen att få minst lika mycket kunder om inte fler från din Google My Business profil som du hade fått från en annons för tiotusentals kronor.  
@@ -371,4 +370,4 @@ Det kan mycket väl komma en uppföljning av den här guiden någon gång i fram
 
 Tack så mycket för att ni tog er tid att läsa! Nu är det bara att implementera allt om ni inte redan har gjort det och sedan se på när rankingen stiger och fler kunder börjar ringa in!
 
-**<span style="font-size:25px;">På återseende! :wave:</span>**  
+**<span style="font-size:25px;">På återseende! :wave:</span>**
