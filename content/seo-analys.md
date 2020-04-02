@@ -21,11 +21,11 @@ type = "post"
 
 <span style="font-size:22px;">Var inte som alla andra, det är nu du ska passa på att förbättra dig. För att hjälpa småföretagare går jag därför ut med ett helt galet erbjudande. Passa på innan det tar slut.  </span>
 
-**<span style="font-size:27px;"><mark>BEGRÄNSAT #VIFIXARDET ERBJUDANDE:</mark></span>**  
+**<span style="font-size:27px;"><mark>BEGRÄNSAT #UPPRUSTNING:</mark></span>**  
 <span style="font-size:23px;">**75% Rabatt** på Teknisk SEO Analys (ord. pris 15 000 kr)  
 **+ Helt Gratis** Granskning av Sociala Medier (värde 5 000 kr)  
 = <mark>20 000 kr</mark>  
-**<span style="font-size:27px;">Med #VIFIXARDET Erbjudande = <span class="highlight">3 750 kr</span></span>**
+**<span style="font-size:27px;">Med #UPPRUSTNING Erbjudande = <span class="highlight">3 750 kr</span></span>**
 
 <span style="font-size:27px;">Först till kvarn gäller. (10st SEO analyser)</span>
 
