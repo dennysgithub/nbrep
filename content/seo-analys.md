@@ -1,7 +1,7 @@
 +++
-title = "Vad är en SEO analys bra för egentligen?"
-image = "/images/post/vad-ar-en-seo-analys-bra-for.png"
 description = "Varför är en SEO analys värdefull? Skulle du åka runt i en bil som aldrig blivit besiktigad?"
+image = "/images/post/vad-ar-en-seo-analys-bra-for.png"
+title = "Vad är en SEO analys bra för egentligen?"
 type = "post"
 
 +++
@@ -11,7 +11,7 @@ type = "post"
 
 <span style="font-size:22px;">Om du aldrig "besiktigar" din hemsida så skapar du ett sjunkande skepp och tvingas se dina konkurrenter åka förbi, en efter en.</span>
 
-<span style="font-size:22px;">En SEO analys hjälper företag förstå de digitala problemen och hur de löser dem = **Fler kunder!</span>** 
+<span style="font-size:22px;">En SEO analys hjälper företag förstå de digitala problemen och hur de löser dem = **Fler kunder!</span>**
 
 <span style="font-size:22px;">Det finns hundratals faktorer som avgör hur många kunder som kommer hitta dig.</span>
 
@@ -20,27 +20,16 @@ type = "post"
 <span style="font-size:22px;">Under de rådande omständigheterna förlorar många företag kunder & affärer och gör inget annat än att sitta tillbaka och se på, väntandes på att det ska gå över.</span>
 
 <span style="font-size:22px;">Var inte som alla andra, det är nu du ska passa på att förbättra dig. För att hjälpa småföretagare går jag därför ut med ett helt galet erbjudande. Passa på innan det tar slut.  </span>
- 
-**<span style="font-size:27px;"><mark>BEGRÄNSAT COVID-19 ERBJUDANDE:</mark></span>**  
-<span style="font-size:23px;">**75% Rabatt** på Teknisk SEO Analys (ord. pris 15 000 kr)   
-**+ Helt Gratis** Granskning av Sociala Medier (värde 5 000 kr)   
-= <mark>20 000 kr</mark>   
-**<span style="font-size:27px;">Med COVID-19 Erbjudande = <span class="highlight">3 750 kr</span></span>**
 
-<span style="font-size:27px;">Först till kvarn gäller. (10st SEO analyser)</span>  
+**<span style="font-size:27px;"><mark>BEGRÄNSAT #VIFIXARDET ERBJUDANDE:</mark></span>**  
+<span style="font-size:23px;">**75% Rabatt** på Teknisk SEO Analys (ord. pris 15 000 kr)  
+**+ Helt Gratis** Granskning av Sociala Medier (värde 5 000 kr)  
+= <mark>20 000 kr</mark>  
+**<span style="font-size:27px;">Med #VIFIXARDET Erbjudande = <span class="highlight">3 750 kr</span></span>**
+
+<span style="font-size:27px;">Först till kvarn gäller. (10st SEO analyser)</span>
+
 * <span style="font-size:23px;">Fyll i [formuläret](länk) för en chans på erbjudandet.</span>
 
 <span style="font-size:14px; font-style:italic;">*gäller endast för hemsidor med färre än 15 sidor  
-</span> 
-
-
-
-
-
-
-
-
-
-
-
-
+</span>
