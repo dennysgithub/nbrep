@@ -25,7 +25,7 @@ type = "post"
 <span style="font-size:23px;">**75% Rabatt** på Teknisk SEO Analys (ord. pris 15 000 kr)  
 **+ Helt Gratis** Granskning av Sociala Medier (värde 5 000 kr)  
 = <mark>20 000 kr</mark>  
-**<span style="font-size:27px; font color:black;">Med Erbjudande = <span class="highlight">3 750 kr</span></span>**
+**<span style="font-size:27px; color:black;">Med Erbjudande = <span class="highlight">3 750 kr</span></span>**
 
 <span style="font-size:27px;">Först till kvarn gäller. (10st SEO analyser)</span>
 
