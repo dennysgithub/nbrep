@@ -88,8 +88,7 @@ Igen, samma företag, men Google kommer se det som två olika = **sämre ranking
 
 Så var noga när du går igenom dina citations, och se till så du inte glömmer någon sida där du lagt till din företagsinformation. Detta gäller allt från din hemsida, din Google My Business profil, Eniro, etc, det ska se identiskt ut på samtliga plattformar.
 
-Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!**
-<a name="steg3"></a>
+Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!** <a name="steg3"></a><br><br>
 
 **<h2 style="font-size:25px;">Steg 3: Välj rätt företagskategori och under-kategori(er).</h2>**
 
