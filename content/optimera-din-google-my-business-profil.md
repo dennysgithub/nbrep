@@ -249,7 +249,7 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 
 * Minst tre foton från utsidan och tre foton från insidan. Gärna vid olika tidpunkter på dygnet och från de vanligaste perspektiven.
 * Produktfoton för dina mest populära produkter och/eller tjänster.
-* Ett foto från diverse gemensamma ytor, uteplatser, lunchrum, reception, etc.
+* Ett foto från diverse gemensamma ytor, vänterum, mötesrum, uteplatser, lunchrum, reception, etc.
 * Minst tre foton på företagets medarbetare.
 * För hotell bör foton av de olika rummen laddas upp.
 * För restauranger, barer och dylikt så rekommenderas foton av de populäraste maträtterna och drinkarna.
