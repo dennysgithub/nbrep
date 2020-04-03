@@ -226,7 +226,7 @@ Allt du behöver göra är att svara på en positiv recension med ett simpelt **
 
 Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De brukar svara inom en vecka och det kan dröja längre än så innan något händer, ibland kan det tyvärr vara svårt att få något att hända alls så man kan behöva jobba fram och tillbaka med Google ett tag.
 
-* Skulle du tröttna på det här så går det alltid att anställa mig så sköter jag allt från optimering och hantering av recensioner till tråkiga och utdragna dispyter som dessa så du kan fokusera på det du gör bäst. Är det något du undrar så är det bara att [ta kontakt](http://localhost:1313/kontakt/) eller slänga iväg en fråga i chatten. :thumbsup:
+* Skulle du tröttna på det här så går det alltid att anställa mig så sköter jag allt från optimering och hantering av recensioner till tråkiga och utdragna dispyter som dessa så du kan fokusera på det du gör bäst. Är det något du undrar så är det bara att [ta kontakt](https://www.nordbergmedia.se/kontakt/) eller slänga iväg en fråga i chatten. :thumbsup:
   <a name="steg6"></a><br></br><br></br>
 
 **<h2 style="font-size:25px;">Steg 6: Fyll din profil med foton för fler kunder.</h2>**
