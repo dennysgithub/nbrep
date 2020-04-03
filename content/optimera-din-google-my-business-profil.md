@@ -90,9 +90,7 @@ Så var noga när du går igenom dina citations, och se till så du inte glömme
 
 Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!**
 <a name="steg3"></a>
-  
-  
-  
+
 **<h2 style="font-size:25px;">Steg 3: Välj rätt företagskategori och under-kategori(er).</h2>**
 
 Vilken kategori ska du välja? Ska du bara ha en primär kategori? Eller måste du ha underkategorier också?
@@ -125,17 +123,14 @@ Låt säga att vi vill veta vad **"Snickarn' i Göteborg"** har använt för und
   ![gmb-visa-sidkalla](/images/post/visa-sidkalla.png)
 * Håll inne **CTRL + F (PC)** eller **COMMAND + F för MAC** och sök efter den primära kategorin, i det här fallet "snickare".
 * Gå igenom resultaten som dyker upp och se om du kan hitta ett ställe där den primära kategorin efterföljs av en eller flera kategorier.
-    
-    
+
   ![gmb-sok-sidkalla](/images/post/sok-sidkalla.png)
 
 Som vi ser ovan så använder de sig av en primär kategori (snickare) **och en underkategori (byggföretag).**
 
 Hängde du med? **Grymt jobbat!** Nu har du förhoppningsvis en god idé om hur du väljer rätt i kategori-soppan! :thumbsup:
 <a name="steg4"></a>
-  
-  
-  
+
 **<h2 style="font-size:25px;">Steg 4: Utnyttja Google Inlägg till fullo!</h2>**
 
 Google Inlägg är en väldigt effektiv funktion för att förmedla saker som pågående erbjudanden, kommande evenemang, produkter och tjänster ni tillhandahåller eller generella inlägg om vad som helst.
@@ -163,9 +158,7 @@ _Simpelt exempel visas nedan_
 
 Nu vet du varför du ska pyssla med GMB inlägg och hur du gör det! Har du några frågor så är det bara att [kontakta mig](http://localhost:1313/kontakt/) eller slänga iväg en fråga i chatten.
 <a name="steg5"></a>
-  
-  
-  
+
 **<h2 style="font-size:25px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
 ![gmb-recensioner](/images/post/gmb-recensioner.png)  
 <h3 style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? Då är det dags att ändra på det!</h3>
@@ -191,7 +184,6 @@ _OBS! Om din Google My Business profil inte är verifierad ännu så kommer du i
   ![dela-din-foretagsprofil](/images/post/dela-foretagsprofil.png)
 * **Klicka på redigerings-ikonen.**
 
-  
 ![redigera-profil-namn](/images/post/redigera-namn.png)
 
 * **Välj ditt namn och klicka på tillämpa. Använd ert företagsnamn, en förkortning av det eller kanske något som kunder brukar kalla er. Håll det kort och simpelt.**
@@ -215,7 +207,7 @@ Kopiera den och spara. **När någon använder länken så kommer de till din Go
 
 Det finns många vägar att gå men jag ska nämna några stycken.
 
-* Börja med att skapa en plats på din hemsida där du uppmanar kunder att lämna en recension och inkludera länken, gör samma sak på dina sociala medier, se till så du uppmanar folk att lämna recensioner på alla plattformar.
+* Börja med att skapa en plats på din hemsida där du uppmanar kunder att lämna en recension/berätta vad de tyckte och inkludera länken, gör samma sak på dina sociala medier, se till så du uppmanar folk att lämna recensioner på alla plattformar.
 * Skapa en QR-kod för länken och ha med den på alla slags lämpliga papper du skickar ut till kunder, fakturor, etc. Självklart med en uppmaning om att lämna recension så folk förstår vad det är för något.
 * Använd samma QR-kod och designa en snygg skylt/plakat som du kan ha i receptionen i ditt hotell, ovanpå kassan i frisörsalongen, etc. **Var kreativ!**
 
@@ -253,7 +245,6 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 * <a href="https://support.google.com/business/answer/6103862#photo-guidelines" target="_blank">Google rekommenderar</a> foton med upplösningen 720px höjd, 720px bred. Fotona skall vara i JPG eller PNG format.
 * Använd **INTE** stockfoton under några som helst omständigheter! Google kommer hitta dem och radera dem!
 
-  
 **<h3 style="font-size:22px;">Generella riktlinjer <a href="https://support.google.com/business/answer/6123536" target="_blank">från Google</a> gällande antal och typer av foton:</h3>**
 
 * Minst tre foton från utsidan och tre foton från insidan. Gärna vid olika tidpunkter på dygnet och från de vanligaste perspektiven.
@@ -265,10 +256,7 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 
 **<span style="font-size:21px;">Så, nu vet du vad för foton du behöver!</span>**
 <a name="steg7"></a>
-  
-  
-  
-  
+
 **<h2 style="font-size:25px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
 ![last-pic](/images/post/battre-ranking-gmb.png)
 
@@ -280,7 +268,6 @@ Google är dessutom kända för att ständigt uppdatera sin algoritm vilket bety
 
 Så låt oss köra vidare lite till bara, <span style="font-size:20px;">har du hängt med hela vägen hit är du grym!</span> :muscle:
 
-  
 **<h3 style="font-size:22px;">Företagsbeskrivningen:</h3>**  
 Du har säkert redan skrivit en företagsbeskrivning, **men hur mycket tid & energi lade du på det egentligen?**
 
@@ -295,8 +282,7 @@ Målet med beskrivningen ska vara <mark>att informera besökarna om era USPs (Un
 När du skriver företagsbeskrivningen vill du också se till att **optimera texten för de nyckelord du vill ranka för.** Har du en firma där du utför golvslipning av parkettgolv så bör du få med det i beskrivningen. Du vill även få med de geografiska platserna där du utför dina tjänster.
 
 När du känner dig nöjd med vad du har skrivit så öppnar du din <a href="https://www.google.com/intl/sv_se/business/" target="_blank">Google My Business profil</a> och klickar på "Information" i menyn. Nästan längst ned på sidan hittar du rutan där du kan klistra in din text. Ibland kan det ta lite tid innan ändringen går igenom men du är nu färdig, **bra jobbat!**
-  
-  
+
 **<h3 style="font-size:22px;">Skapa en Q&A:</h3>**
 
 > **_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte möjligheten att "ställa en fråga" så är det inte fel hos dig, utan det är Google som försöker underlätta arbetet för sina anställda under rådande omständigheter. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
@@ -314,8 +300,7 @@ På det här viset tar du kontroll över din Q&A och slipper ha en massa konstig
 <mark>Det är emot reglerna att använda Q&A funktionen i marknadsföringssyfte, du får inte heller inkludera epostadresser eller telefonnummer.</mark>
 
 För mer läsning gällande riktlinjerna för Q&A's kan du klicka <a href="https://support.google.com/maps/answer/7421661?co=GENIE.Platform%3DAndroid&hl=sv" target="_blank">här.</a>
-  
-  
+
 **<h3 style="font-size:22px;">Lägg till särskilda öppettider:</h3>**  
 Sista punkten, jag ska hålla det här kort för det finns egentligen inte mycket att säga.
 
@@ -330,12 +315,10 @@ Men har du lagt till tider för särskilda öppettider?
 * Du får fram en lista med förslag på dagar där du kan lägga till tider. Fyll i dem allihop. Det spelar ingen roll om du anger alla som "stängt", ju mer information du fyller ut, desto bättre.
 
 ![redigera-sarskilda-gmb-oppettider-2](/images/post/gmb-lagg-till-sarskilda-oppettider2.png)
-  
+
 Om du tycker att det saknas några dagar eller om du någon gång i framtiden behöver ändra öppettiderna för en specifik dag så kan du göra det genom att klicka på "lägg till nytt datum".
 <a name="steg8"></a>
-  
-  
-  
+
 **<span style="font-size:25px;">Steg 8: Avslutande ord.</span>**
 
 Wow, vi gjorde det. High five! :smile:
