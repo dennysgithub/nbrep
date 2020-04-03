@@ -219,8 +219,7 @@ Det ser inte bara bra ut för användare som kikar på din profil utan Google ä
 
 Allt du behöver göra är att svara på en positiv recension med ett simpelt **"Tack så mycket \[namn\] för din fina recension!"** Försök att inte svara identiskt på varje recension utan ge det en liten twist hela tiden så folk ser att du bryr dig.
 
-**<h3 style="font-size:22px;">Negativa recensioner då?</h3>**  
-<span style="font-size:18px;">Här har du chansen att verkligen visa vad för slags företag ni är. Bemöt negativa recensioner på bästa möjliga sätt, be om ursäkt när något gått fel, be dem ringa dig för att arbeta fram en lösning, osv. Detta kommer inge en sån otrolig tillit hos dina framtida kunder så du anar inte!</span>
+**<h3 style="font-size:22px;">Negativa recensioner då?</h3>**<span style="font-size:18px;">Här har du chansen att verkligen visa vad för slags företag ni är. Bemöt negativa recensioner på bästa möjliga sätt, be om ursäkt när något gått fel, be dem ringa dig för att arbeta fram en lösning, osv. Detta kommer inge en sån otrolig tillit hos dina framtida kunder så du anar inte!</span>
 
 **<h3 style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</h3>**  
 Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="https://twitter.com/googlemybiz?lang=sv" target="_blank">@GoogleMyBiz</a> eller via deras <a href="https://www.facebook.com/GoogleMyBusiness/Facebook" target="_blank">Facebook sida.</a>
