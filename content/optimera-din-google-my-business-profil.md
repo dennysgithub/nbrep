@@ -256,7 +256,7 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 
 **<span style="font-size:21px;">Så, nu vet du vad för foton du behöver!</span>**
 <a name="steg7"></a>
-
+<br>
 **<h2 style="font-size:25px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
 ![last-pic](/images/post/battre-ranking-gmb.png)
 
