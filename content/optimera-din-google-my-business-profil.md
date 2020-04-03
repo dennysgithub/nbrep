@@ -219,10 +219,10 @@ Det ser inte bara bra ut för användare som kikar på din profil utan Google ä
 
 Allt du behöver göra är att svara på en positiv recension med ett simpelt **"Tack så mycket \[namn\] för din fina recension!"** Försök att inte svara identiskt på varje recension utan ge det en liten twist hela tiden så folk ser att du bryr dig.
 
-**<h3 style="font-size:22px;">Negativa recensioner då?</h3>**<span style="font-size:18px;">Här har du chansen att verkligen visa vad för slags företag ni är. Bemöt negativa recensioner på bästa möjliga sätt, be om ursäkt när något gått fel, be dem ringa dig för att arbeta fram en lösning, osv. Detta kommer inge en sån otrolig tillit hos dina framtida kunder så du anar inte!</span>
+**<h3 style="font-size:22px;">Negativa recensioner då?</h3>**  
+<span style="font-size:18px;">Här har du chansen att verkligen visa vad för slags företag ni är. Bemöt negativa recensioner på bästa möjliga sätt, be om ursäkt när något gått fel, be dem ringa dig för att arbeta fram en lösning, etc. Detta kommer inge en sån otrolig tillit hos dina framtida kunder så du anar inte!</span>
 
-**<h3 style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</h3>**  
-Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="https://twitter.com/googlemybiz?lang=sv" target="_blank">@GoogleMyBiz</a> eller via deras <a href="https://www.facebook.com/GoogleMyBusiness/Facebook" target="_blank">Facebook sida.</a>
+**<h3 style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</h3>**<span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="https://twitter.com/googlemybiz?lang=sv" target="_blank">@GoogleMyBiz</a> eller via deras <a href="https://www.facebook.com/GoogleMyBusiness/Facebook" target="_blank">Facebook sida.</a></span>
 
 Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De brukar svara inom en vecka och det kan dröja längre än så innan något händer, ibland kan det tyvärr vara svårt att få något att hända alls så man kan behöva jobba fram och tillbaka med Google ett tag.
 
@@ -248,13 +248,14 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 
 * Minst tre foton från utsidan och tre foton från insidan. Gärna vid olika tidpunkter på dygnet och från de vanligaste perspektiven.
 * Produktfoton för dina mest populära produkter och/eller tjänster.
-* Ett foto från diverse gemensamma ytor, vänterum, mötesrum, uteplatser, lunchrum, reception, etc.
+* Ett foto från diverse gemensamma ytor, uteplatser, lunchrum, reception, etc.
 * Minst tre foton på företagets medarbetare.
 * För hotell bör foton av de olika rummen laddas upp.
 * För restauranger, barer och dylikt så rekommenderas foton av de populäraste maträtterna och drinkarna.
 
-**<span style="font-size:21px;">Så, nu vet du vad för foton du behöver!</span>** <a name="steg7"></a><br><br>
-
+**<span style="font-size:21px;">Så, nu vet du vad för foton du behöver!</span>**
+<a name="steg7"></a>
+<br>
 **<h2 style="font-size:25px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
 ![last-pic](/images/post/battre-ranking-gmb.png)
 
