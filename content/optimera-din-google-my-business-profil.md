@@ -155,7 +155,7 @@ Väl där klickar du helt enkelt på den typen av inlägg du vill skapa och fyll
 _Simpelt exempel visas nedan_  
 ![gmb-skapa-inlagg](/images/post/google-my-business-create-post.gif)
 
-Nu vet du varför du ska pyssla med GMB inlägg och hur du gör det! Har du några frågor så är det bara att [kontakta mig](http://localhost:1313/kontakt/) eller slänga iväg en fråga i chatten.
+
 <a name="steg5"></a>
 
 **<h2 style="font-size:25px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
