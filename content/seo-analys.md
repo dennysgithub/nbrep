@@ -15,7 +15,7 @@ type = "post"
 
 <span style="font-size:22px;">Det finns hundratals faktorer som avgör hur många kunder som kommer hitta dig.</span>
 
-<span style="font-size:22px;">Jag identifierar **alla existerande problem** och levererar resultatet till dig i en excel rapport som vi går igenom tillsammans. **Givetvis så går vi även igenom vilka problem som är akuta samt tillvägagångssätt för att åtgärda samtliga identifierade problem.</span>**
+<span style="font-size:22px;">Jag identifierar **alla existerande problem** och levererar resultatet till dig i en excel rapport som vi går igenom tillsammans. Givetvis så går vi även igenom vilka problem som är akuta **samt tillvägagångssätt för att åtgärda samtliga identifierade problem.</span>**
 
 <span style="font-size:22px;">Under de rådande omständigheterna förlorar många företag kunder & affärer och gör inget annat än att sitta tillbaka och se på, väntandes på att det ska gå över.</span>
 
