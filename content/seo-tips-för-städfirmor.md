@@ -83,7 +83,7 @@ Om någon söker på "flyttstädning" så vill Google att den personen hamnar p�
 
 Se även till så det finns ordentligt med innehåll på dessa sidorna. Igen, **dra nytta av era konkurrenter som rankar bäst. Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**
 
-Det samma gäller om ni erbjuder städning i Göteborg, Borås och Partille. Det räcker inte att bunta ihop det här på en sida där ni berättar om var ni utför städning, utan det krävs specifika sidor för varje ort. (Satsa på de viktigtaste orterna) Och igen, se till så att det finns tillräckligt med relevant innehåll på dessa sidorna, och för bövelen, kopiera inte bara innehållet från de andra sidorna och byt ut stadsnamnet!
+Det samma gäller om ni erbjuder städning i <mark>Göteborg, Borås</mark> och <mark>Partille.</mark> Det räcker inte att bunta ihop det här på en sida där ni berättar om var ni utför städning, utan det krävs specifika sidor för varje ort för att ge tillräckligt starka signaler till Google. (Satsa på de viktigtaste orterna) Och igen, se till så att det finns tillräckligt med relevant innehåll på dessa sidorna, och för bövelen, kopiera inte bara innehållet från de andra sidorna och byt ut stadsnamnet!
 
 <br>
 
