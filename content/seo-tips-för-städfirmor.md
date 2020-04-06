@@ -137,4 +137,4 @@ Efter du genererat koden så lägger du till den inom ```<head>``` taggen på di
 
 Detta är så simpelt jag kan förklara det. Det är möjligt att jag skriver en helt separat guide om just strukturerad data i framtiden men för att inte göra det för stökigt just nu så håller jag det kort.
 
-För dokumentation och exempel kan du läsa mer på <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">schema.org.</a> tills vidare.
+För dokumentation och exempel kan du läsa mer på <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">schema.org</a> tills vidare.
