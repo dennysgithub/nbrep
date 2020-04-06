@@ -123,6 +123,12 @@ Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli 
 
 Det är Google som bestämmer hur bra din hemsida skall rankas. Men det är inga människor som sitter och går in på hemsidor och avgör detta så klart. Utan det finns något som kallas för "Google Crawlers", vilket du kan tänka på som ett gäng robot-spindlar som konstant kryper omkring på hemsidor och försöker läsa av dem. 
 
-Varför är detta viktigt? Jo, eftersom de inte är människor så avläser de hemsidor på ett annat vis. De läser av koden som finns på hemsidan och drar slutsatser om vad det sidan handlar om därefter. 
+Varför är detta viktigt? Jo, eftersom de är robotar så läser de inte av en hemsida på samma sätt som du och jag gör, utan de avläser koden på hemsidan och drar därefter slutsatser om vad sidan handlar om.
 
 Genom att lägga till strukturerad data på hemsidan så underlättar man det otroligt mycket för dessa små robot-spindlarna att avläsa hemsidan och det tycker Google om.
+
+**Så hur lägger man till strukturerad data?**
+
+Om ni har en Worpress hemsida så finns det plugins att tillgå vilket gör det busenkelt att lägga till den strukturerade datan på hemsidan. Schema Pro är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
+
+<a href="[https://www.w3schools.com](https://www.wpschema.com "Schema Pro")" target="_blank">Schema Pro</a>
