@@ -50,3 +50,7 @@ Ett bra sätt att skaffa inlänkar är genom att spana på era konkurrenter som 
 Var kommer länkarna från? Har ni en möjlighet att återskapa några av dessa? 
 
 SEO verktyg så som Ahrefs är ganska dyra att använda sig av tyvärr. (Ahrefs kostar från 1000-10.000 SEK per månad.) Men det går att registrera sig för endast 70 SEK för en sjudagars prövotid, vilket bör vara tillräckligt med tid för att spana in konkurrenter bland annat.
+
+Passa även på att kolla in era egna inlänkar. Har ni inlänkar som leder till trasiga sidor? Isåfall så tjänar de inlänkarna ingenting till. Goda nyheter är att allt ni behöver göra är att meddela de som länkar till er att ändra länken till en fungerande länk som ni ger dom, detta är det bästa alternativet. 
+
+Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem, då behöver ni göra en s.k 301 redirect så att den trasiga länken omdirigeras till en fungerande länk.
