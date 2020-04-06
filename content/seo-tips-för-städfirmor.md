@@ -113,7 +113,7 @@ Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem,
 
 Genom att kontakta de lokala nyhetssajterna och berätta att ni har grymma vår eller höst-städningstips som ni vill dela med er av. Eller varför inte ta möjligheten när något stort händer relaterat till er bransch och säg att ni vill bli intervjuade om det? Ett exempel skulle vara att dra nytta av den stora coronapandemin som råder just nu och säg att ni har de bästa tipsen för hur man sanerar hemmavid. 
 
-**Tips från coachen:** Googla fram artiklar om just städning från era lokala nyhetssajter och kontakta journalisterna som skrivit just de artiklarna. Chansen finns att de kommer vara intresserade av att skriva liknande artiklar igen, och många journalister jobbar dessutom för flera olika tidningar så det kan leda till mer än bara en artikel. 
+**Tips från coachen:** Googla fram artiklar om städning från era lokala nyhetssajter och kontakta journalisterna som skrivit just de artiklarna. Chansen finns att de kommer vara intresserade av att skriva liknande artiklar igen, och många journalister jobbar dessutom för flera olika tidningar så det kan leda till mer än bara en artikel. 
 
 Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli städfirman som alltid kontaktas när det är dags för en städ-relaterad artikel i tidningen. och inte bara få en massa inlänkar men också skapa ett enormt lokalt förtroende!
 
