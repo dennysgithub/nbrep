@@ -51,7 +51,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 SEO verktyg så som Ahrefs är ganska dyra att använda sig av tyvärr. (Ahrefs kostar från 1000-10.000 SEK per månad.) Men det går att registrera sig för endast 70 SEK för en sjudagars prövotid, vilket bör vara tillräckligt med tid för att spana in konkurrenter bland annat.
 
-**Passa även på att kolla in era egna inlänkar.** Har ni inlänkar som leder till trasiga sidor? Isåfall så tjänar de inlänkarna ingenting till. Goda nyheter är att allt ni behöver göra är att meddela de som länkar till er att ändra länken till en fungerande länk som ni ger dem, detta är det bästa alternativet. 
+**Passa även på att kolla in era egna inlänkar.** <mark>Har ni inlänkar som leder till trasiga sidor?</mark> Isåfall tjänar de inlänkarna ingenting till. Goda nyheter är att allt ni behöver göra är att meddela de som länkar till er att ändra länken till en fungerande länk som ni ger dem, detta är det bästa alternativet. 
 
 Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem, då behöver ni göra en s.k 301 redirect så att den trasiga länken omdirigeras till en fungerande länk.
 
@@ -61,7 +61,7 @@ Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem,
 
 Genom att kontakta de lokala nyhetssajterna och berätta att ni har grymma vår eller höst-städningstips som ni vill dela med er av. Eller varför inte ta möjligheten när något stort händer relaterat till er bransch och säg att ni vill bli intervjuade om det? Ett exempel skulle vara att dra nytta av den stora coronapandemin som råder just nu och säg att ni har de bästa tipsen för hur man sanerar hemmavid. 
 
-**Tips från coachen:** Googla fram artiklar om just städning från era lokala nyhetssajter och kontakta journalisterna som skrivit just de artiklarna. Chansen finns att de kommer vara intresserade av att skriva liknande artiklar igen, och många journalister jobbar dessutom för flera olika tidningar på samma gång så det kan leda till mer än bara en artikel. 
+**Tips från coachen:** Googla fram artiklar om just städning från era lokala nyhetssajter och kontakta journalisterna som skrivit just de artiklarna. Chansen finns att de kommer vara intresserade av att skriva liknande artiklar igen, och många journalister jobbar dessutom för flera olika tidningar så det kan leda till mer än bara en artikel. 
 
 Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli städfirman som alltid kontaktas när det är dags för en städ-relaterad artikel i tidningen. och inte bara få en massa inlänkar men också skapa ett enormt lokalt förtroende!
 
