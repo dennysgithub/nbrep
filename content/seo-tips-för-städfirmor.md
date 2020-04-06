@@ -116,3 +116,13 @@ Genom att kontakta de lokala nyhetssajterna och berätta att ni har grymma vår 
 **Tips från coachen:** Googla fram artiklar om just städning från era lokala nyhetssajter och kontakta journalisterna som skrivit just de artiklarna. Chansen finns att de kommer vara intresserade av att skriva liknande artiklar igen, och många journalister jobbar dessutom för flera olika tidningar så det kan leda till mer än bara en artikel. 
 
 Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli städfirman som alltid kontaktas när det är dags för en städ-relaterad artikel i tidningen. och inte bara få en massa inlänkar men också skapa ett enormt lokalt förtroende!
+
+<br>
+
+## Lägg till strukturerad data
+
+Det är Google som bestämmer hur bra din hemsida skall rankas. Men det är inga människor som sitter och går in på hemsidor och avgör detta så klart. Utan det finns något som kallas för "Google Crawlers", vilket du kan tänka på som ett gäng robot-spindlar som konstant kryper omkring på hemsidor och försöker läsa av dem. 
+
+Varför är detta viktigt? Jo, eftersom de inte är människor så avläser de hemsidor på ett annat vis. De läser av koden som finns på hemsidan och drar slutsatser om vad det sidan handlar om därefter. 
+
+Genom att lägga till strukturerad data på hemsidan så underlättar man det otroligt mycket för dessa små robot-spindlarna att avläsa hemsidan och det tycker Google om.
