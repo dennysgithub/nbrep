@@ -71,7 +71,7 @@ Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli 
 
 Gör det enkelt för Google att veta vad era sidor handlar om.
 
-Erbjuder ni golvrengöring, flyttstädning och fönsterputs till exempel så **skall** ni ha en separat sida för dessa olika tjänsterna.
+Erbjuder ni <mark>golvrengöring, flyttstädning</mark> och <mark>fönsterputs</mark> till exempel så **skall** ni ha en separat sida för dessa olika tjänsterna.
 
 Om någon söker på "flyttstädning" så vill Google att den personen hamnar på en sida om just flyttstädning. Inte på en sida om flyttstädning, golvrengöring och fönsterputs. Därför är det viktigt att ha separata sidor för detta. 
 
