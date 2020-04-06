@@ -140,3 +140,17 @@ Efter du genererat koden så lägger du till den inom ```<head>``` taggen på di
 Detta är så simpelt jag kan förklara det. Det är möjligt att jag skriver en helt separat guide om just strukturerad data i framtiden men för att inte göra det för stökigt just nu så håller jag det kort.
 
 För dokumentation och exempel kan du läsa mer på <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">schema.org</a> tills vidare.
+
+## Extra tips: Börja blogga
+
+Börja blogga, eller hyr någon som skriver ett par blogginlägg åt er då och då. Det behöver inte kosta skjortan. 
+
+**Bloggidéer:**
+
+**Enkla städtips för hemmet:** Det kan inte bara vara hjälpsamt för kunder men också göra ert jobb lite lättare om de följer era råd och har hemmet i lite bättre ordning innan ni kommer för att städa.
+
+**Vad är fördelarna med professionell städhjälp?:** Berätta varför det är så himla bra med professionell städhjälp, all tid kunderna kommer spara, gör en lista över alla fördelar med professionell städhjälp. 
+
+**Berätta om en städhjälte i ert team**: Har ni någon som verkligen utmärker sig eller någon med en intressant historia bakom sig? Berätta om hen! Det kommer ge ert företag en personlig touch och få er framstå som en städfirma som verkligen bryr sig. 
+
+### 
