@@ -129,4 +129,8 @@ Genom att lägga till strukturerad data på hemsidan så underlättar man det ot
 
 **Så hur lägger man till strukturerad data?**
 
-Om ni har en Worpress hemsida så finns det plugins att tillgå vilket gör det busenkelt att lägga till den strukturerade datan på hemsidan. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
+Om ni har en Wordpress hemsida så finns det plugins att tillgå vilket gör det busenkelt att lägga till den strukturerade datan på hemsidan. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
+
+Om ni inte har en Wordpress hemsida och er CMS inte har några plugins att tillgå för ändamålet så behöver ni lägga till den strukturerade datan manuellt. Det finns en jättebra hemsida som heter <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> där du enkelt kan generera den koden du behöver. 
+
+Efter du genererat koden så lägger du in den i <head> taggen på din hemsida. 
