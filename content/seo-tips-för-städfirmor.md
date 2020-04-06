@@ -129,6 +129,4 @@ Genom att lägga till strukturerad data på hemsidan så underlättar man det ot
 
 **Så hur lägger man till strukturerad data?**
 
-Om ni har en Worpress hemsida så finns det plugins att tillgå vilket gör det busenkelt att lägga till den strukturerade datan på hemsidan. Schema Pro är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
-
-<a href="[https://www.w3schools.com](https://www.wpschema.com "Schema Pro")" target="_blank">Schema Pro</a>
+Om ni har en Worpress hemsida så finns det plugins att tillgå vilket gör det busenkelt att lägga till den strukturerade datan på hemsidan. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
