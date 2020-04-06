@@ -19,49 +19,25 @@ Förutom den låga andelen klick som annonserna får så är det inte heller nå
 
 Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står emot jättar i sin bransch. Men målet behöver inte alltid vara att nå toppen. Det räcker med målsättningen att förbättra den nuvarande sökmotoroptimeringen så att fler sökare drivs till sidan än förut **= fler kunder och större vinst.**
 
-\\
-
 ![](/images/post/x.png)
 
 <h2 style="font-size:23px;">Optimera Google My Business</h2>
 
 <span style="font-size: 18px;">Att förbättra rankingen i Googles organiska sökresultat tar tid (Rom byggdes inte på en dag). Om någon som jobbar med SEO garanterar er förbättrad ranking på extremt kort tid så skulle jag råda er att springa åt andra hållet.</span>
 
-<br>
-
-<br>
-
 <span style="font-size: 18px;">Likt en fuskbyggare som kan bygga ett hus på rekordtid så leder det till större problem längre fram vilket kan innebära ett nedbrunnet hus eller i ert fall en hemsida som inte längre dyker upp på Google överhuvudtaget.</span>
-
-<br>
-
-<br>
 
 <span style="font-size: 18px;">En plats där det kan gå att förbättra rankingen snabbare däremot är faktiskt i Google Maps. Och det bästa av allt är att väldigt många användare väljer företag just därifrån när de ska hitta en städfirma som passar dem.</span>
 
-<br>
-
-<br>
-
 <span style="font-size: 18px;">Det finns många tips & trix för att optimera en Google My Business profil och det här inlägget skulle bli på tok för långt om jag gick igenom det här. Men jag har skrivit en <a href="[https://www.nordbergmedia.se/optimera-din-google-my-business-profil/](https://www.nordbergmedia.se/optimera-din-google-my-business-profil/ "https://www.nordbergmedia.se/optimera-din-google-my-business-profil/")" target="_blank">guide hur du optimerar Google My Business</a> där jag går igenom några av de viktiga stöttepelarna.
 
-<br>
-
-<br>
-
 <span style="font-size: 18px;">Med det sagt så är det fortfarande viktigt att ha en ordentligt sökmotoroptimerad hemsida, inte bara för det organiska sökresultatet men även för att knuffa upp rankingen i Google Maps.</span>
-
-<br>
 
 <br>
 
 <h2 style="font-size:23px;">Inlänkar & Interna länkar</h2>
 
 <span style="font-size: 18px;">För att en hemsida ska ranka högt så krävs det att Google tycker sidan verkar tillförlitlig. Om det finns många kvalitativa länkar som pekar mot just din hemsida så är det till stor hjälp.
-
-<br>
-
-<br>
 
 <span style="font-size: 18px;">Inlänkar är länkar som existerar på andra hemsidor som leder till din hemsida, även kallat för "backlinks".
 
