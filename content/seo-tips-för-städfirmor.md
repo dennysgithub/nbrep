@@ -39,6 +39,8 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <span style="font-size: 18px;">För att en hemsida ska ranka högt så krävs det att Google tycker sidan verkar tillförlitlig. Om det finns många kvalitativa länkar som pekar mot just din hemsida så är det till stor hjälp.
 
+<h3 style="font-size:20px;">Vad är Inlänkar?</h3>
+
 <span style="font-size: 18px;">Inlänkar är helt enkelt länkar som existerar på andra hemsidor som leder till din hemsida, även kallat för "backlinks".
 
 <span style="font-size: 18px;">Att bygga inlänkar är något som bör ske kontinuerligt. Större företag lägger ned tiotusentals kronor på länkbygge månadsvis, men vad kan man som en mindre städfirma göra på egen hand?</span>
