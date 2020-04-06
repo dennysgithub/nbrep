@@ -9,23 +9,19 @@ title = "SEO tips för städfirmor"
 type = "post"
 
 +++
-\**<span style="font-size:27px;">Inledning och målsättning.</span>**
+### **Inledning och målsättning**
 
 SEO (sökmotoroptimering) är en process där man optimerar en hemsida (och digitala profiler) så att de enkelt kan bli funna på sökmotorer så som Google vilket leder till fler leads/kunder.
 
-Sökmotoroptimering är ett gratis sätt att förbättra din visibilitet på internet. Sökresultaten som dyker upp överst i Google är förvisso ads (betald annonsering). **Men de betalda annonserna får endast 15% av alla klick <a href="[https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/](https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/ "https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/")" target="_blank">enligt Cliff Sarcona från Zero Limit Web.</a>** 
+Sökmotoroptimering är ett gratis sätt att förbättra din visibilitet på internet. Sökresultaten som dyker upp överst i Google är förvisso ads (betald annonsering). **Men de betalda annonserna får endast 15% av alla klick <a href="**[**https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/**](https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/ "https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/")**" target="_blank">enligt Cliff Sarcona från Zero Limit Web.</a>**
 
 Förutom den låga andelen klick som annonserna får så är det inte heller någon långsiktig investering **till skillnad från SEO där målet är att stärka företagets profil på nätet.**
 
-Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står emot jättar i sin bransch. Men målet behöver inte alltid vara att nå toppen. Det räcker med målsättningen att förbättra den nuvarande sökmotoroptimeringen så att fler sökare drivs till sidan än förut **= fler kunder och större vinst.** 
-
-<br>
-
-\*************************
+Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står emot jättar i sin bransch. Men målet behöver inte alltid vara att nå toppen. Det räcker med målsättningen att förbättra den nuvarande sökmotoroptimeringen så att fler sökare drivs till sidan än förut **= fler kunder och större vinst.**
 
 \\
 
-!\[infograpfikc\](/images/post/x.png)
+![](/images/post/x.png)
 
 <h2 style="font-size:23px;">Optimera Google My Business</h2>
 
@@ -37,7 +33,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <span style="font-size: 18px;">Likt en fuskbyggare som kan bygga ett hus på rekordtid så leder det till större problem längre fram vilket kan innebära ett nedbrunnet hus eller i ert fall en hemsida som inte längre dyker upp på Google överhuvudtaget.</span>
 
-<br>  
+<br>
 
 <br>
 
@@ -47,7 +43,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <br>
 
-<span style="font-size: 18px;">Det finns många tips & trix för att optimera en Google My Business profil och det här inlägget skulle bli på tok för långt om jag gick igenom det här. Men jag har skrivit en <a href="[https://www.nordbergmedia.se/optimera-din-google-my-business-profil/](https://www.nordbergmedia.se/optimera-din-google-my-business-profil/ "https://www.nordbergmedia.se/optimera-din-google-my-business-profil/")" target="_blank">guide hur du optimerar Google My Business</a> där jag går igenom några av de viktiga stöttepelarna.  
+<span style="font-size: 18px;">Det finns många tips & trix för att optimera en Google My Business profil och det här inlägget skulle bli på tok för långt om jag gick igenom det här. Men jag har skrivit en <a href="[https://www.nordbergmedia.se/optimera-din-google-my-business-profil/](https://www.nordbergmedia.se/optimera-din-google-my-business-profil/ "https://www.nordbergmedia.se/optimera-din-google-my-business-profil/")" target="_blank">guide hur du optimerar Google My Business</a> där jag går igenom några av de viktiga stöttepelarna.
 
 <br>
 
@@ -55,7 +51,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <span style="font-size: 18px;">Med det sagt så är det fortfarande viktigt att ha en ordentligt sökmotoroptimerad hemsida, inte bara för det organiska sökresultatet men även för att knuffa upp rankingen i Google Maps.</span>
 
-<br>  
+<br>
 
 <br>
 
@@ -67,6 +63,6 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <br>
 
-<span style="font-size: 18px;">Inlänkar är länkar som existerar på andra hemsidor som leder till din hemsida, även kallat för "backlinks". 
+<span style="font-size: 18px;">Inlänkar är länkar som existerar på andra hemsidor som leder till din hemsida, även kallat för "backlinks".
 
 <span style="font-size: 18px;">Att bygga inlänkar är något som bör ske kontinuerligt. Större företag lägger ned tiotusentals kronor på länkbygge månadsvis, men vad kan man som en mindre städfirma göra på egen hand?</span>
