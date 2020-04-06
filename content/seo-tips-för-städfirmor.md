@@ -78,3 +78,49 @@ Om någon söker på "flyttstädning" så vill Google att den personen hamnar p�
 Se även till så det finns ordentligt med innehåll på dessa sidorna. Igen, dra nytta av era konkurrenter som rankar bäst. Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?
 
 Det samma gäller om ni erbjuder städning i Göteborg, Borås och Partille. Det räcker inte att bunta ihop det här på en sida där ni berättar om var ni utför städning, utan det krävs specifika sidor för varje ort. (Satsa på de viktigtaste orterna) Och igen, se till så att det finns tillräckligt med relevant innehåll på dessa sidorna, och för bövelen, kopiera inte bara innehållet från de andra sidorna och byt ut stadsnamnet!
+
+<br>
+
+<h2 style="font-size:22px;">Sidtitlar och beskrivningar</h2>
+
+Sidtiteln du väljer på en sida är det första som läggs märke till av de som söker efter dina tjänster, därför är det viktigt att sälja in företaget redan här.
+
+Det är också något Google tittar på för att bestämma huruvida relevant din sida är för sökningen. Det är därför viktigt att se över de titlar man valt och om de kan göras bättre.
+
+Nedanför tar vi en titt på några exempel.
+
+_Exempel 1:_  
+
+![](/images/post/dalig-sidtitel-exempel-1.png)
+
+**Analys**:
+
+Det enda som finns med här är företagsnamnet, och det startar inte ens med en versal. Förutom att titeln inte sticker ut överhuvudtaget så lämnar den också många frågor. **Vad för tjänster erbjuder dem? Var befinner dom sig? Varför ska man välja dem?** 
+
+ _Exempel 2:_  
+
+![](/images/post/dalig-sidtitel-exempel-2.png)
+
+**Analys:** 
+
+Den här är bättre. De har fått med nyckelorden de vill ranka för "städfirma", "städbolag", "göteborg" & "kungälv". Det är dock på gränsen till s.k 'keyword stuffing'. De vill få träffar för både städfirma och städbolag men i själva verket späder de ut sig och kommer inte vara så relevanta för någon av termerna, mer är inte alltid bättre. Deras titel är dessutom så lång att Google har klippt av den och den är inte särskilt visuellt lockande heller. Vi ger även den här tummen ned. :thumbsdown:
+
+_Exempel 3:_ 
+
+![](/images/post/bra-sidtitel-exempel-1.png)
+
+**Analys:**
+
+Den här gillar jag! Den är perfekt. Nyckelorden "städfirma" och "stockholm" kommer **före företagsnamnet.** Och de har även fått med en anledning till varför man ska välja dem, se "proffsig". Den blir inte heller avklippt av Google utan är kort och koncis med sitt budskap. Tummen upp! :thumbsup:
+
+_Exempel 4:_
+
+![](/images/post/bra-sidtitel-exempel-2.png)
+
+**Analys:**
+
+Ytterliggare en bra sidtitel. Se hur nyckelorden kommer före företagsnamnet igen. Förutom "städfirma" & "stockholm" har de även lyckats få in "städning" & "hemstäd" plus företagsnamnet - utan att få texten avklippt av Google. Snyggt och koncist. 
+
+<span style="font-size: 20px;">Summering:</span>
+
+Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en bra titel på er startsida, men hur ser de resterande sidtitlarna ut? Gå igenom samtliga sidor som tjänster, kontakt, etc. Säkert finns det förbättringar att göra.
