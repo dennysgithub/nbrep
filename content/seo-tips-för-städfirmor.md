@@ -13,7 +13,7 @@ type = "post"
 
 SEO (sökmotoroptimering) är en process där man optimerar en hemsida (och digitala profiler) så att de enkelt kan bli funna på sökmotorer så som Google vilket leder till fler leads/kunder.
 
-Sökmotoroptimering är ett gratis sätt att förbättra din visibilitet på internet. Sökresultaten som dyker upp överst i Google är förvisso ads (betald annonsering). **Men de betalda annonserna får endast 15% av alla klick <a href="**[**https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/**](https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/ "https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/")**" target="_blank">enligt Cliff Sarcona från Zero Limit Web.</a>**
+Sökmotoroptimering är ett gratis sätt att förbättra din visibilitet på internet. Sökresultaten som dyker upp överst i Google är förvisso ads (betald annonsering). **Men de betalda annonserna får endast 15% av alla klick** [**enligt Cliff Sarcona från Zero Limit Web**]( https://www.zerolimitweb.com/organic-vs-ppc-2019-ctr-results-best-practices/)**.**
 
 Förutom den låga andelen klick som annonserna får så är det inte heller någon långsiktig investering **till skillnad från SEO där målet är att stärka företagets profil på nätet.**
 
