@@ -133,4 +133,4 @@ Om ni har en Wordpress hemsida så finns det plugins att tillgå vilket gör det
 
 Om ni inte har en Wordpress hemsida och er CMS inte har några plugins att tillgå för ändamålet så behöver ni lägga till den strukturerade datan manuellt. Det finns en jättebra hemsida som heter <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> där du enkelt kan generera den koden du behöver. 
 
-Efter du genererat koden så lägger du in den i <head> taggen på din hemsida. 
+Efter du genererat koden så lägger du in den inom ```<head>``` taggen på din hemsida. 
