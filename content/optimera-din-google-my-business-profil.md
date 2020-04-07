@@ -88,7 +88,7 @@ Igen, samma företag, men Google kommer se det som två olika = **sämre ranking
 
 Så var noga när du går igenom dina citations, och se till så du inte glömmer någon sida där du lagt till din företagsinformation. Detta gäller allt från din hemsida, din Google My Business profil, Eniro, etc, det ska se identiskt ut på samtliga plattformar.
 
-Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!** <a name="steg3"></a><br><br>
+Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!** <a name="steg3"></a><br><br><br>
 
 **<h2 style="font-size:25px;">Steg 3: Välj rätt företagskategori och under-kategori(er).</h2>**
 
@@ -130,6 +130,10 @@ Som vi ser ovan så använder de sig av en primär kategori (snickare) **och en 
 Hängde du med? **Grymt jobbat!** Nu har du förhoppningsvis en god idé om hur du väljer rätt i kategori-soppan! :thumbsup:
 <a name="steg4"></a>
 
+<br>
+
+<br>
+
 **<h2 style="font-size:25px;">Steg 4: Utnyttja Google Inlägg till fullo!</h2>**
 
 Google Inlägg är en väldigt effektiv funktion för att förmedla saker som pågående erbjudanden, kommande evenemang, produkter och tjänster ni tillhandahåller eller generella inlägg om vad som helst.
@@ -154,7 +158,6 @@ Väl där klickar du helt enkelt på den typen av inlägg du vill skapa och fyll
 
 _Simpelt exempel visas nedan_  
 ![gmb-skapa-inlagg](/images/post/google-my-business-create-post.gif)
-
 
 <a name="steg5"></a>
 
@@ -254,7 +257,7 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 
 **<span style="font-size:21px;">Så, nu vet du vad för foton du behöver!</span>** <a name="steg7"></a> <br><br>
 
- **<h2 style="font-size:25px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
+**<h2 style="font-size:25px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
 ![last-pic](/images/post/battre-ranking-gmb.png)
 
 Jag valde att ta med de här punkterna i slutet av guiden då tester inte har kunnat visa att Googles algoritm genererar en märkbar effekt på rankingen för de här funktionerna. (med undantag för öppettider som kan ha en betydande effekt i vissa fall)
