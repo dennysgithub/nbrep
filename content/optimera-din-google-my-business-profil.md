@@ -32,7 +32,7 @@ Den här guiden är tänkt att ge grundläggande kunskaper i hur man optimerar G
 * <a href="#steg8">Steg 8: Avslutande ord.</a><a name="steg1"></a>  
   <br></br>
 
-**<h2 style="font-size:25px;">Steg 1: Gör anspråk på din GMB profil och verifiera den.</h2>**<a href="#steg2">(hoppa till steg 2 om du redan gjort detta)</a>
+**<h2 style="font-size:35px;">Steg 1: Gör anspråk på din GMB profil och verifiera den.</h2>**<a href="#steg2">(hoppa till steg 2 om du redan gjort detta)</a>
 
 > **_Uppdatering 2020-03-21:_** _Pga covid-19 så kan verifieringar av profiler dröja längre än normalt. Så fort saker börjar rulla på som normalt i Google igen så skriver jag om det i bloggen._
 
@@ -56,7 +56,7 @@ Detta kanske låter svårare än vad det är för somliga, allt du behöver gör
 <a name="steg2"></a>
 
 <br></br>  
-**<h2 style="font-size:25px;">Steg 2: Se till så att din NAP är korrekt!</h2>** <a href="#steg3">(hoppa till steg 3 om du inte är ett lokalt företag)</a>
+**<h2 style="font-size:35px;">Steg 2: Se till så att din NAP är korrekt!</h2>** <a href="#steg3">(hoppa till steg 3 om du inte är ett lokalt företag)</a>
 
 Vad är NAP för något kanske du undrar?
 
@@ -90,7 +90,7 @@ Så var noga när du går igenom dina citations, och se till så du inte glömme
 
 Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!** <a name="steg3"></a><br><br><br>
 
-**<h2 style="font-size:25px;">Steg 3: Välj rätt företagskategori och under-kategori(er).</h2>**
+**<h2 style="font-size:35px;">Steg 3: Välj rätt företagskategori och under-kategori(er).</h2>**
 
 Vilken kategori ska du välja? Ska du bara ha en primär kategori? Eller måste du ha underkategorier också?
 
@@ -134,7 +134,7 @@ Hängde du med? **Grymt jobbat!** Nu har du förhoppningsvis en god idé om hur 
 
 <br>
 
-**<h2 style="font-size:25px;">Steg 4: Utnyttja Google Inlägg till fullo!</h2>**
+**<h2 style="font-size:35px;">Steg 4: Utnyttja Google Inlägg till fullo!</h2>**
 
 Google Inlägg är en väldigt effektiv funktion för att förmedla saker som pågående erbjudanden, kommande evenemang, produkter och tjänster ni tillhandahåller eller generella inlägg om vad som helst.
 
@@ -165,9 +165,9 @@ _Simpelt exempel visas nedan_
 
 <br>
 
-**<h2 style="font-size:25px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
+**<h2 style="font-size:35px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
 ![gmb-recensioner](/images/post/gmb-recensioner.png)  
-<h3 style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? Då är det dags att ändra på det!</h3>
+<span style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? Då är det dags att ändra på det!</span>
 
 Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa företaget väljer ofta det med flest och bäst recensioner och även Google älskar företag med många bra recensioner och ger de bättre ranking tack vare dem.
 
@@ -209,7 +209,7 @@ Och där har du din länk.
 
 Kopiera den och spara. **När någon använder länken så kommer de till din Google My Business profil och rutan för att lämna en recension poppar upp direkt.** Enklare blir det inte för en kund att lämna en recension. Testa länken själv!
 
-**<h3 style="font-size:23px;">Hur ska vi implementera det här nu då?</h3>**
+**<span style="font-size:23px;">Hur ska vi implementera det här nu då?</span>**
 
 Det finns många vägar att gå men jag ska nämna några stycken.
 
@@ -225,17 +225,17 @@ Det ser inte bara bra ut för användare som kikar på din profil utan Google ä
 
 Allt du behöver göra är att svara på en positiv recension med ett simpelt **"Tack så mycket \[namn\] för din fina recension!"** Försök att inte svara identiskt på varje recension utan ge det en liten twist hela tiden så folk ser att du bryr dig.
 
-**<h3 style="font-size:22px;">Negativa recensioner då?</h3>**  
+**<span style="font-size:22px;">Negativa recensioner då?</span>**  
 <span style="font-size:18px;">Här har du chansen att verkligen visa vad för slags företag ni är. Bemöt negativa recensioner på bästa möjliga sätt, be om ursäkt när något gått fel, be dem ringa dig för att arbeta fram en lösning, etc. Detta kommer inge en sån otrolig tillit hos dina framtida kunder så du anar inte!</span>
 
-**<h3 style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</h3>**<span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="https://twitter.com/googlemybiz?lang=sv" target="_blank">@GoogleMyBiz</a> eller via deras <a href="https://www.facebook.com/GoogleMyBusiness/Facebook" target="_blank">Facebook sida.</a></span>
+**<span style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</span>**<span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="https://twitter.com/googlemybiz?lang=sv" target="_blank">@GoogleMyBiz</a> eller via deras <a href="https://www.facebook.com/GoogleMyBusiness/Facebook" target="_blank">Facebook sida.</a></span>
 
 Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De brukar svara inom en vecka och det kan dröja längre än så innan något händer, ibland kan det tyvärr vara svårt att få något att hända alls så man kan behöva jobba fram och tillbaka med Google ett tag.
 
 * Skulle du tröttna på det här så går det alltid att anställa mig så sköter jag allt från optimering och hantering av recensioner till tråkiga och utdragna dispyter som dessa så du kan fokusera på det du gör bäst. Är det något du undrar så är det bara att [ta kontakt](https://www.nordbergmedia.se/kontakt/) eller slänga iväg en fråga i chatten. :thumbsup:
   <a name="steg6"></a><br></br><br></br>
 
-**<h2 style="font-size:25px;">Steg 6: Fyll din profil med foton för fler kunder.</h2>**
+**<h2 style="font-size:35px;">Steg 6: Fyll din profil med foton för fler kunder.</h2>**
 ![gmb-foton](/images/post/gmb-foton.png)
 
 <a href="https://support.google.com/business/answer/3038063" target="_blank">Google har rapporterat</a> att företag med foton får 42% fler förfrågningar för köransvisningar och 35% fler genomklickningar till deras hemsidor. **Bara från att ha laddat upp foton!** :camera:
@@ -267,7 +267,7 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 
 <br>
 
-**<h2 style="font-size:25px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
+**<h2 style="font-size:35px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
 ![last-pic](/images/post/battre-ranking-gmb.png)
 
 Jag valde att ta med de här punkterna i slutet av guiden då tester inte har kunnat visa att Googles algoritm genererar en märkbar effekt på rankingen för de här funktionerna. (med undantag för öppettider som kan ha en betydande effekt i vissa fall)
@@ -333,7 +333,7 @@ Om du tycker att det saknas några dagar eller om du någon gång i framtiden be
 
 <br>
 
-**<span style="font-size:25px;">Steg 8: Avslutande ord.</span>**
+**<span style="font-size:35px;">Steg 8: Avslutande ord.</span>**
 
 Wow, vi gjorde det. High five! :smile:
 
