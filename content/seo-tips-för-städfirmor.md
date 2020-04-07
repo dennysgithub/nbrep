@@ -119,7 +119,7 @@ _Exempel på vad ni inte ska göra:_
 
     www.ankeborgsstadfirma.se/kontorstadning-ankeborg
 
-Det är lätt att tro att det blir bättre ju mer fokuserad man är på vad man vill ranka för desto bättre. Och i vissa fall är detta sant, men i det här fallet så tunnar man bara ut sig 
+Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för desto bättre. Och i vissa fall är detta sant, men i det här fallet så sprider man bara ut sig och förlorar möjligheten att ranka bra. 
 
 <br>
 
