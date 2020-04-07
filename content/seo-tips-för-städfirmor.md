@@ -201,6 +201,6 @@ Kanske finns det någon som är sugen på att skapa lite content på städfirman
 
 ## Avslutande ord
 
-Det var allt för denna gången. Jag försökte hålla det så kort som möjligt så det var en del som inte kom med alls men det här är en bra start för att fixa till lite på egen hand. 
+Det var allt för denna gången. Jag försökte hålla det så kort som möjligt så det var en hel del som inte kom med alls men det här är en bra start för att fixa till lite på egen hand. 
 
 Vill du inte fixa till på egen hand så bistår jag som vanligt med hjälp. Kontakta mig via chatten eller [kontaktformuläret ](https://www.nordbergmedia.se/kontakt "kontaktformuläret")så snackar vi lite!
