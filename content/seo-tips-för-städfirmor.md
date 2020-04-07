@@ -149,10 +149,16 @@ Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om 
 
 Några content idéer för att komma igång:
 
-**Enkla städtips för hemmet/Bästa såpan/:** Det kan inte bara vara hjälpsamt för kunder men också göra ert jobb lite lättare om de följer era råd och har hemmet i lite bättre ordning innan ni kommer för att städa.
+**Städa hemma checklista**
 
-**Vad är fördelarna med professionell städhjälp?:** Berätta varför det är så himla bra med professionell städhjälp, all tid kunderna kommer spara, gör en lista över alla fördelar med professionell städhjälp. 
+**Vårstädning checklista**
 
-**Berätta om en städhjälte i ert team**: Har ni någon som verkligen utmärker sig eller någon med en intressant historia bakom sig? Berätta om hen! Det kommer ge ert företag en personlig touch och få er framstå som en städfirma som verkligen bryr sig. 
+**Hur ofta ska man städa?**
+
+**Hur städar man en lägenhet?**
+
+**Vad är fördelarna med professionell städhjälp?**
+
+**Berätta om en städhjälte i ert team**
 
 ### 
