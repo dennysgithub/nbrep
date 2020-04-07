@@ -103,7 +103,7 @@ _Ett kort & snabbt exempel för att förstå vad jag pratar om:_
 
 Inkludera recensioner på era plats-sidor, välj specifika recensioner där recensenten har nämnt just var städningen utfördes så det finns en relevant koppling till staden/området i fråga.
 
-Inkludera även foton från utförda jobb från platsen, helst kända byggnader eller områden så kopplingen finns även här. Glöm inte att namnge bilderna och ange en ALT-text så Google vet var fotona är från. Annars missar du lite Google-juice här, och vi vill komma åt varenda droppa vi kan få!
+Inkludera även foton från utförda jobb från platsen, helst kända byggnader eller områden så kopplingen finns även här. Glöm inte att namnge bilderna och ange en ALT-text så Google vet vad fotona visar. Annars missar du lite Google-juice här, och vi vill komma åt varenda droppe vi kan få!
 
 **<span style="font-size:22px;">3. Mer är inte bättre</span>**
 
