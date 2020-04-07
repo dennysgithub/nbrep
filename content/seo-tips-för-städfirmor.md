@@ -161,6 +161,8 @@ Några content idéer för att komma igång:
 
 **Berätta om en städhjälte i ert team**
 
+<br>
+
 ## Avslutande ord
 
 Lorem ipsum.
