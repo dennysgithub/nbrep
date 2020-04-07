@@ -19,7 +19,7 @@ Förutom den låga andelen klick som annonserna får så är det inte heller nå
 
 Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står emot jättar i sin bransch. Men målet behöver inte alltid vara att nå toppen. Det räcker med målsättningen att förbättra den nuvarande sökmotoroptimeringen så att fler sökare drivs till sidan än förut **= fler kunder och större vinst.**
 
-![](/images/post/x.png)
+![](/images/post/r.png)
 
 ## Optimera Google My Business
 
