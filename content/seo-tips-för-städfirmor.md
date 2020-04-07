@@ -177,7 +177,7 @@ För dokumentation och exempel kan du läsa mer på <a href="[https://schema.org
 
 ## Skapa content
 
-Genom att skapa content (innehåll på ren svenska) så engagerar du inte bara dina kunder men du kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte ens bor i områdena ni arbetar i, eller ens letar efter städhjälp!
+Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
 
 Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om att stärka er profil  hos Google. Och ju fler tillförlitliga sidor ni har som användare klickar på, desto bättre ranking kommer ni att få.
 
@@ -194,6 +194,8 @@ Några content idéer för att komma igång:
 **Vad är fördelarna med professionell städhjälp?**
 
 **Berätta om en städhjälte i ert team**
+
+Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. 
 
 <br>
 
