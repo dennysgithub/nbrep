@@ -113,11 +113,13 @@ Skapa inte heller för många plats-sidor för enskilda städer. Om ni utför 5 
 
 _Exempel på vad ni inte ska göra:_
 
-    `www.ankeborgsstadfirma.se/golvrengöring-ankeborg`
+    www.ankeborgsstadfirma.se/golvrengöring-ankeborg
 
-    `www.ankeborgsstadfirma.se/flyttstädning-ankeborg`
+    www.ankeborgsstadfirma.se/flyttstädning-ankeborg
 
-    `www.ankeborgsstadfirma.se/kontorstädning-ankeborg`
+    www.ankeborgsstadfirma.se/kontorstädning-ankeborg
+
+Det är lätt att tro att det blir bättre ju mer fokuserad man är på vad man vill ranka för desto bättre. Och i vissa fall är detta sant, men i det här fallet så tunnar man bara ut sig 
 
 <br>
 
