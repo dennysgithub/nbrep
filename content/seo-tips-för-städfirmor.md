@@ -99,6 +99,12 @@ _Ett kort & snabbt exempel för att förstå vad jag pratar om:_
 >
 > Vi har utfört <mark>\[olika slags städtjänster\]</mark> i <mark>\[stadsnamn\]</mark> och har i skrivande stund över <mark>\[X antal jobb\]</mark> under bältet sedan 2003! Vi har bland annat städat på <mark>\[skola i området\]</mark>, <mark>\[teater i området\]</mark> & <mark>\[kommunhus i området\]</mark>."
 
+**<span style="font-size:22px;">2. Recensioner & foton.</span>**
+
+Inkludera även recensioner på era plats-sidor, välj specifika recensioner där recensenten har nämnt just var städningen utfördes så det finns en relevant koppling till staden/området i fråga.
+
+Inkludera även foton från utförda jobb från platsen, helst kända byggnader eller områden så kopplingen finns även här. Glöm inte att namnge bilderna och ange en ALT-text så Google vet var fotona är från. Annars missar du lite Google-juice här, och vi vill komma åt varenda droppa vi kan få!
+
 <br>
 
 ## Bygg (in)länkar
