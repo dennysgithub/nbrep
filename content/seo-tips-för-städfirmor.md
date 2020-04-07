@@ -133,9 +133,7 @@ Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för d
 
 <span style="font-size: 18px;">Att bygga inlänkar är något som bör ske kontinuerligt. Större företag lägger ned tiotusentals kronor på länkbygge månadsvis, men vad kan man som en mindre städfirma göra på egen hand?</span>
 
-**Ett bra sätt att skaffa inlänkar är genom att spana på era konkurrenter som rankar bäst.** Använd ett SEO verktyg som t.ex. <a href="[https://www.ahrefs.com](https://www.ahrefs.com "https://www.ahrefs.com")" target="_blank">Ahrefs</a> och sök på era främsta konkurenter i städbranschen och ta en titt på vad de har för slags inlänkar.
-
-**Var kommer länkarna från? Har ni en möjlighet att återskapa några av dessa?**
+**Ett bra sätt att skaffa inlänkar är genom att spana på era konkurrenter som rankar bäst.** Använd ett SEO verktyg som t.ex. <a href="[https://www.ahrefs.com](https://www.ahrefs.com "https://www.ahrefs.com")" target="_blank">Ahrefs</a> och sök på era främsta konkurenter i städbranschen och ta en titt på vad de har för slags inlänkar. **Var kommer länkarna från? Har ni en möjlighet att återskapa några av dessa?**
 
 SEO verktyg så som Ahrefs är ganska dyra att använda sig av tyvärr. (Ahrefs kostar från 1000-10.000 SEK per månad.) Men det går att registrera sig för endast 70 SEK för en sjudagars prövotid, vilket bör vara tillräckligt med tid för att spana in konkurrenter bland annat.
 
