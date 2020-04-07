@@ -161,6 +161,10 @@ _Simpelt exempel visas nedan_
 
 <a name="steg5"></a>
 
+<br>
+
+<br>
+
 **<h2 style="font-size:25px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
 ![gmb-recensioner](/images/post/gmb-recensioner.png)  
 <h3 style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? Då är det dags att ändra på det!</h3>
