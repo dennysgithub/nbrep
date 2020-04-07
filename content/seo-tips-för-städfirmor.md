@@ -93,7 +93,7 @@ Se även till så det finns ordentligt med innehåll på dessa sidorna. **Dra ny
 
  **Berätta en historia istället och försök att få med nyckelorden på ett naturligt sätt.** Ni vill få med vilka tjänster ni utför men också **ge Google starka signaler om att ni verkligen kan er sak om staden/området i fråga. Så få med olika slags närområden och kända byggnader, etc.**
 
-_Ett snabbt exempel för att förstå vad jag pratar om:_
+_Ett kort & snabbt exempel för att förstå vad jag pratar om:_
 
 > Vi på <mark>\[städfirman\]</mark> har alltid haft en förkärlek för <mark>\[stad\]</mark>". Som barn växte \[Vår VD\] upp i <mark>\[stad\]</mark> och spenderade varje sommar med familjen i <mark>\[känt närområde\]</mark> med bad och grill. Det var alltid \[Vår VDs\] favoritställe som barn och än idag så åker vårt team till <mark>\[känt närområde\]</mark> för att koppla av och roa oss varje sommar. 
 >
