@@ -141,7 +141,7 @@ SEO verktyg som Ahrefs är ganska dyra att använda sig av tyvärr. (Ahrefs kost
 
 Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem, då behöver ni göra en s.k 301 redirect så att den trasiga länken omdirigeras till en fungerande länk.
 
-**Riktigt bra inlänkar** är länkar som kommer från lokala nyhetssajter då de lokala nyhetssajterna ofta har väldigt hög auktoritet hos Google och de kommer således ge mycket  "länkjuice" till er om ni får en länk därifrån.
+Exempel på **riktigt bra inlänkar** är länkar som kommer från lokala nyhetssajter då de lokala nyhetssajterna ofta har väldigt hög auktoritet hos Google samt starka lokala signaler och de kommer således ge mycket  "länkjuice" till er om ni får en länk därifrån.
 
 **Hur dyker man som städfirma upp i de lokala tidningarna?**
 
