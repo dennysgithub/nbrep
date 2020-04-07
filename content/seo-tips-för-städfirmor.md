@@ -141,11 +141,15 @@ Detta är så simpelt jag kan förklara det. Det är möjligt att jag skriver en
 
 För dokumentation och exempel kan du läsa mer på <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">schema.org</a> tills vidare.
 
-## Extra tips: Börja blogga
+<br>
 
-Börja blogga, eller hyr någon som skriver ett par blogginlägg åt er då och då. Det behöver inte kosta skjortan. 
+## Skapa content
 
-**Bloggidéer:**
+Genom att skapa content (innehåll på ren svenska) så engagerar du inte bara dina kunder men du kan också locka fler till hemsidan. Visst, det kanske låter konstigt, varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er? De flesta av besökarna kanske inte ens bor i områdena ni arbetar i!
+
+Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om att stärka er profil  hos Google. Och ju fler tillförlitliga sidor ni har som användare klickar på, desto bättre ranking kommer ni att få. 
+
+Några content idéer för att komma igång:
 
 **Enkla städtips för hemmet:** Det kan inte bara vara hjälpsamt för kunder men också göra ert jobb lite lättare om de följer era råd och har hemmet i lite bättre ordning innan ni kommer för att städa.
 
