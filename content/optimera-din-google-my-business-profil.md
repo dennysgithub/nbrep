@@ -259,7 +259,13 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 * För hotell bör foton av de olika rummen laddas upp.
 * För restauranger, barer och dylikt så rekommenderas foton av de populäraste maträtterna och drinkarna.
 
-**<span style="font-size:21px;">Så, nu vet du vad för foton du behöver!</span>** <a name="steg7"></a> <br><br>
+**<span style="font-size:21px;">Så, nu vet du vad för foton du behöver!</span>** <a name="steg7"></a> 
+
+<br>
+
+<br>
+
+<br>
 
 **<h2 style="font-size:25px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
 ![last-pic](/images/post/battre-ranking-gmb.png)
