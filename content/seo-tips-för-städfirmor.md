@@ -185,7 +185,7 @@ Några content idéer för att komma igång:
 
 **Städa hemma checklista**
 
-**Vårstädning checklista**
+**Vår/höststädning checklista**
 
 **Hur ofta ska man städa?**
 
