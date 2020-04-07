@@ -117,8 +117,6 @@ Genom att kontakta de lokala nyhetssajterna och berätta att ni har grymma vår 
 
 Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli städfirman som alltid kontaktas när det är dags för en städ-relaterad artikel i tidningen. och inte bara få en massa inlänkar men också skapa ett enormt lokalt förtroende!
 
-Ett annat sätt att 
-
 <br>
 
 ## Lägg till strukturerad data
