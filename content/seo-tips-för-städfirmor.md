@@ -81,13 +81,23 @@ Erbjuder ni <mark>golvrengöring, flyttstädning</mark> och <mark>fönsterputs</
 
 Om någon söker på "flyttstädning" så vill Google att den personen hamnar på en sida om just flyttstädning. Inte på en sida om flyttstädning, golvrengöring och fönsterputs. Därför är det viktigt att ha separata sidor för detta.
 
-Se även till så det finns ordentligt med innehåll på dessa sidorna. Igen, **dra nytta av era konkurrenter som rankar bäst. Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**
+Se även till så det finns ordentligt med innehåll på dessa sidorna. **Dra nytta av era konkurrenter som rankar bäst. Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**
 
-<br>
+<span style="font-size:20px;">När det gäller era plats-sidor så är de extremt viktiga för att ranka högt för de plats-specifika nyckelorden.</span> Om ni inte har specifika sidor för era viktigaste orter/platser redan så är det dags att sätta igång med det. Om ni redan har specifika sidor för detta, hur bra är dom? Nedan går jag igenom några enkla tips ni bör använda er av.
 
-Det samma gäller era plats-sidor, de specifika sidorna ni har (bör ha) för städerna ni utför era städtjänster i.
+**<span style="font-size:22px;">1. Berätta en historia.</span>**
 
-**Tips gällande era plats-sidor:**
+Era plats-sidor måste vara unika. Ös inte bara på med det gamla vanliga "vi utför flyttstädning, kontorsstädning och blabla i \[Stad\]" Visst, nyckelorden ska vara med **men gå djupare än så.**
+
+ <span style="font-size:20px;>Har ni någon koppling till staden förutom att ni utför städtjänster där? Växte någon upp där? Kommer de flesta från ert team därifrån? Fick ni ert första jobb här för x antal år sedan?</span>
+
+ **Berätta en historia istället och försök att få med nyckelorden på ett naturligt sätt.** Ni vill få med vilka tjänster ni utför men också **ge starka signaler om att ni verkligen kan er sak om staden/området i fråga. Så få med olika slags närområden och kända byggnader, etc.**
+
+_Ett snabbt exempel för att förstå vad jag pratar om:_
+
+> Vi på <mark>\[städfirman\]</mark> har alltid haft en förkärlek för <mark>\[stad\]</mark>". Som barn växte \[Vår VD\] upp i <mark>\[stad\]</mark> och spenderade varje sommar med familjen i <mark>\[känt närområde\]</mark> med bad och grill. Det var alltid \[Vår VDs\] favoritställe som barn och än idag så åker vårt team till <mark>\[känt närområde\]</mark> för att koppla av och roa oss varje sommar. 
+>
+> Vi har utfört <mark>\[olika slags städtjänster\]</mark> i <mark>\[stadsnamn\]</mark> och har i skrivande stund över <mark>\[X antal jobb\]</mark> under bältet sedan 2003! Vi har bland annat städat på <mark>\[skola i området\]</mark>, <mark>\[teater i området\]</mark> & <mark>\[kommunhus i området\]</mark>."
 
 <br>
 
