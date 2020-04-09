@@ -341,3 +341,7 @@ Har du följt med genom hela guiden så har du garanterat en bättre förståels
 Det kan mycket väl komma en uppföljning av den här guiden någon gång i framtiden, men för stunden så får den här ligga och gro lite på egen hand.
 
 Tack så mycket för att ni tog er tid att läsa! Nu är det bara att implementera allt om ni inte redan har gjort det och sedan se på när rankingen stiger och fler kunder börjar ringa in!
+
+<br>
+
+<span style="font-size:25px;">**Lycka till!**</span>
