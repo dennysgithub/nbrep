@@ -3,10 +3,36 @@ date = 2020-03-15T05:00:00Z
 description = "Ta stegen dina konkurrenter inte gör och optimera din Google My Business profil och håva in fler nya kunder än vad du någonsin gjort från Google tidigare."
 image = "/images/post/optimera-google-my-business-profil.png"
 kategorier = ["Google My Business"]
-title = "GUIDE: Hur du optimerar din Google My Business profil 2020"
+title = "GUIDE: Optimera Google My Business 2020"
 type = "post"
 
 +++
+<br>
+
+***
+
+<h2 style="font-size:25px;">Hur du gör för att optimera Google My Business</h2>
+
+<ol>
+
+<li><a href="#steg1">Gör anspråk på din GMB profil och verifiera den.</a></li>
+
+<li><a href="#steg2">Se till så att din NAP är korrekt.</a></li>
+
+<li><a href="#steg3"> Välj rätt företagskategori & underkategori(er).</a></li>
+
+<li><a href="#steg4">Utnyttja Google Inlägg till fullo!</a></li>
+
+<li><a href="#steg5">Generera & hantera recensioner för ditt företag.</a></li>
+
+<li><a href="#steg6">Fyll din profil med foton för fler kunder.</a></li>
+
+<li><a href="#steg7">Lägg till företagsbeskrivning, Q&A och Öppettider.</a></li>
+
+***
+
+<br>
+
 **<span style="font-size:21px;">Varför lägga tid på att optimera Google My Business?</span>**
 
 Enkelt, det är gratis och om du optimerar din profil korrekt så har du chansen att få minst lika mycket kunder om inte fler från din Google My Business profil som du hade fått från en annons för tiotusentals kronor.
@@ -21,15 +47,8 @@ _(exempel på Googles 3-pack inrutat i grönt nedan)_
 **<span style="font-size:25px;">Intro</span>**  
 Den här guiden är tänkt att ge grundläggande kunskaper i hur man gör för att optimera Google My Business och är inte tänkt att avse avancerade strategier eller stora mängder smådetaljer. Förhoppningen är att guiden kommer ge den "gemene företagaren" som vill göra det här på egen hand kött på benen och i slutändan gå härifrån med en klart förbättrad profil och snart därefter fler kunder. <br></br>
 
-* <a href="#steg1">Steg 1: Gör anspråk på din GMB profil och verifiera den.</a>
-* <a href="#steg2">Steg 2: Se till så att din NAP är korrekt.</a>
-* <a href="#steg3">Steg 3: Välj rätt företagskategori & underkategori(er).</a>
-* <a href="#steg4">Steg 4: Utnyttja Google Inlägg till fullo!</a>
-* <a href="#steg5">Steg 5: Generera & hantera recensioner för ditt företag.</a>
-* <a href="#steg6">Steg 6: Fyll din profil med foton för fler kunder.</a>
-* <a href="#steg7">Steg 7: Företagsbeskrivning, Q&A och Öppettider.</a>
-* <a href="#steg8">Steg 8: Avslutande ord.</a><a name="steg1"></a>  
-  <br></br>
+<a name="steg1"></a>  
+<br></br>
 
 **<h2 style="font-size:35px;">Steg 1: Gör anspråk på din GMB profil och verifiera den.</h2>**<a href="#steg2">(hoppa till steg 2 om du redan gjort detta)</a>
 
