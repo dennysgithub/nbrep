@@ -44,7 +44,7 @@ Inte nog med att det är gratis, <a href="https://searchenginewatch.com/sew/opin
 _(exempel på Googles 3-pack inrutat i grönt nedan)_
 ![Google-My-Business-3-pack](/images/post/3-pack.png)
 
-**<span style="font-size:25px;">Intro</span>**  
+**<span style="font-size:25px;">Målsättning</span>**  
 Den här guiden är tänkt att ge grundläggande kunskaper i hur man gör för att optimera Google My Business och är inte tänkt att avse avancerade strategier eller stora mängder smådetaljer. Förhoppningen är att guiden kommer ge den "gemene företagaren" som vill göra det här på egen hand kött på benen och i slutändan gå härifrån med en klart förbättrad profil och snart därefter fler kunder. <br></br>
 
 <a name="steg1"></a>  
