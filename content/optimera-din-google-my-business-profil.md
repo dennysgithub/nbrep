@@ -336,7 +336,7 @@ Om du tycker att det saknas några dagar eller om du någon gång i framtiden be
 
 Wow, vi gjorde det. High five! :smile:
 
-Har du följt med genom hela guiden så har du garanterat en bättre optimerad Google My Business profil än de flesta! Och vi har inte ens gått igenom allt man kan göra ännu och jag har dessutom försökt hålla ned på detaljerna så att inte ögonen skulle gå i kors på er till slut.
+Har du följt med genom hela guiden så har du garanterat en bättre förståelse hur man gör för att optimera Google My Business! Och vi har inte ens gått igenom allt man kan göra och jag har dessutom försökt hålla ned på detaljerna så att inte ögonen skulle gå i kors på er till slut.
 
 Det kan mycket väl komma en uppföljning av den här guiden någon gång i framtiden, men för stunden så får den här ligga och gro lite på egen hand.
 
