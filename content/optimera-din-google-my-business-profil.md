@@ -19,7 +19,7 @@ _(exempel på Googles 3-pack inrutat i grönt nedan)_
 ![Google-My-Business-3-pack](/images/post/3-pack.png)
 
 **<span style="font-size:25px;">Intro</span>**  
-Den här guiden är tänkt att ge grundläggande kunskaper i hur man gör för att optimera Google My Business och är inte tänkt att avse avancerade strategier eller stora mängder detaljer. Förhoppningen är att guiden kommer ge den "gemene företagaren" som vill göra det här på egen hand kött på benen och i slutändan gå härifrån med en klart förbättrad profil och snart därefter fler kunder. <br></br>
+Den här guiden är tänkt att ge grundläggande kunskaper i hur man gör för att optimera Google My Business och är inte tänkt att avse avancerade strategier eller stora mängder smådetaljer. Förhoppningen är att guiden kommer ge den "gemene företagaren" som vill göra det här på egen hand kött på benen och i slutändan gå härifrån med en klart förbättrad profil och snart därefter fler kunder. <br></br>
 
 * <a href="#steg1">Steg 1: Gör anspråk på din GMB profil och verifiera den.</a>
 * <a href="#steg2">Steg 2: Se till så att din NAP är korrekt.</a>
