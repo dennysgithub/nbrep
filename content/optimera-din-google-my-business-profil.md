@@ -11,7 +11,7 @@ type = "post"
 
 Enkelt, det är gratis och om du optimerar din profil korrekt så har du chansen att få minst lika mycket kunder om inte fler från din Google My Business profil som du hade fått från en annons för tiotusentals kronor.
 
-Det går dessutom rykten i SEO-branschen att Google i framtiden kommer börja ta betalt för att låta företag utnyttja tjänsten, vilket inte vore helt orimligt, så jag rekommenderar att du utnyttjar tjänsten till fullo genom att optimera Google My Business så bra du kan.
+Det går dessutom rykten i SEO-branschen att Google i framtiden kommer börja ta betalt för att låta företag utnyttja tjänsten, vilket inte vore helt orimligt, så jag rekommenderar att du drar nytta av att det är gratis idag och ser till att optimera Google My Business. 
 
 Inte nog med att det är gratis, <a href="https://searchenginewatch.com/sew/opinion/2423578/google-local-pack-is-233-percent-more-important" target="_blank">en studie gjord av Search Engine Watch</a> <mark>visade att hela 68% av användarna föredrog Googles 3-pack,</mark> 27% föredrog det organiska sökresultatet nedanför, och bara 10% litade på betalda annonser.
 
