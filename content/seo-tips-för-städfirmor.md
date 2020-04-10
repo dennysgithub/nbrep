@@ -33,8 +33,6 @@ type = "post"
 
 <br>
 
-![seo-tips-for-stadfirmor](/images/post/r.png "seo-tips--infografik")
-
 ### **Inledning och målsättning**
 
 SEO (sökmotoroptimering) är en process där man optimerar en hemsida (och digitala profiler) så att de enkelt kan bli funna på sökmotorer så som Google vilket leder till fler leads/kunder.
@@ -44,6 +42,10 @@ Sökmotoroptimering är ett gratis sätt att förbättra din visibilitet på int
 Förutom den låga andelen klick som annonserna får så är det inte heller någon långsiktig investering **till skillnad från SEO där målet är att stärka företagets profil på nätet.**
 
 Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står emot jättar i sin bransch. Men målet behöver inte alltid vara att nå toppen. Det räcker med målsättningen att förbättra den nuvarande sökmotoroptimeringen så att fler sökare drivs till sidan än förut **= fler kunder och större vinst.**
+
+***
+
+![seo-tips-for-stadfirmor](/images/post/r.png "seo-tips--infografik")
 
 ## 1. Optimera Google My Business
 
