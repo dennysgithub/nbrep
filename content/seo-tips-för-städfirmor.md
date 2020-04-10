@@ -9,6 +9,30 @@ title = "SEO tips för städfirmor 2020"
 type = "post"
 
 +++
+<br>
+
+***
+
+<h2 style="font-size:25px;">SEO tips för städfirmor 2020</h2>
+
+<ol>
+
+<li><a href="#steg1">Optimera Google My Business.</a></li>
+
+<li><a href="#steg2">Snygga till sidtitlar.</a></li>
+
+<li><a href="#steg3">Skapa sidor för tjänster & platser.</a></li>
+
+<li><a href="#steg4">Bygg och se över länkar.</a></li>
+
+<li><a href="#steg5">Lägg till strukturerad data.</a></li>
+
+<li><a href="#steg6">Skapa content.</a></li>
+
+***
+
+<br>
+
 ### **Inledning och målsättning**
 
 SEO (sökmotoroptimering) är en process där man optimerar en hemsida (och digitala profiler) så att de enkelt kan bli funna på sökmotorer så som Google vilket leder till fler leads/kunder.
@@ -89,13 +113,13 @@ Se även till så det finns ordentligt med innehåll på dessa sidorna. **Dra ny
 
 **Era plats-sidor måste vara unika.** Ös inte bara på med det gamla vanliga "vi utför flyttstädning, kontorsstädning och blabla i \[Stad\]" Visst, nyckelorden ska vara med **men gå djupare än så.**
 
- <span style="font-size:20px;">Har ni någon koppling till staden förutom att ni utför städtjänster där? Växte någon upp där? Kommer de flesta från ert team därifrån? Fick ni ert första jobb här för x antal år sedan?</span>
+<span style="font-size:20px;">Har ni någon koppling till staden förutom att ni utför städtjänster där? Växte någon upp där? Kommer de flesta från ert team därifrån? Fick ni ert första jobb här för x antal år sedan?</span>
 
- **Berätta en historia istället och försök att få med nyckelorden på ett naturligt sätt.** Ni vill få med vilka tjänster ni utför men också **ge Google starka signaler om att ni verkligen kan er sak om staden/området i fråga. Så få med olika slags närområden och kända byggnader, etc.**
+**Berätta en historia istället och försök att få med nyckelorden på ett naturligt sätt.** Ni vill få med vilka tjänster ni utför men också **ge Google starka signaler om att ni verkligen kan er sak om staden/området i fråga. Så få med olika slags närområden och kända byggnader, etc.**
 
 _Ett kort & snabbt exempel för att förstå vad jag pratar om:_
 
-> Vi på <mark>\[städfirman\]</mark> har alltid haft en förkärlek för <mark>\[stad\]</mark>". Som barn växte \[Vår VD\] upp i <mark>\[stad\]</mark> och spenderade varje sommar med familjen i <mark>\[känt närområde\]</mark> med bad och grill. Det var alltid \[Vår VDs\] favoritställe som barn och än idag så åker vårt team till <mark>\[känt närområde\]</mark> för att koppla av och roa oss varje sommar. 
+> Vi på <mark>\[städfirman\]</mark> har alltid haft en förkärlek för <mark>\[stad\]</mark>". Som barn växte \[Vår VD\] upp i <mark>\[stad\]</mark> och spenderade varje sommar med familjen i <mark>\[känt närområde\]</mark> med bad och grill. Det var alltid \[Vår VDs\] favoritställe som barn och än idag så åker vårt team till <mark>\[känt närområde\]</mark> för att koppla av och roa oss varje sommar.
 >
 > Vi har utfört <mark>\[olika slags städtjänster\]</mark> i <mark>\[stadsnamn\]</mark> och har i skrivande stund över <mark>\[X antal jobb\]</mark> under bältet sedan 2003! Vi har bland annat städat på <mark>\[skola i området\]</mark>, <mark>\[teater i området\]</mark> & <mark>\[kommunhus i området\]</mark>."
 
@@ -107,19 +131,19 @@ Inkludera även foton från utförda jobb från platsen, helst kända byggnader 
 
 **<span style="font-size:22px;">3. Mer är inte bättre</span>**
 
-Om ni arbetar i 25 olika mindre orter så vill ni säkert ranka bra i samtliga orter, men fokusera istället på 2-3 orter max där ni får in den största delen av era kunder. Lägg krutet där det gör mest nytta. 
+Om ni arbetar i 25 olika mindre orter så vill ni säkert ranka bra i samtliga orter, men fokusera istället på 2-3 orter max där ni får in den största delen av era kunder. Lägg krutet där det gör mest nytta.
 
-Skapa inte heller för många plats-sidor för enskilda städer. Om ni utför 5 olika städtjänster i en viss stad. Skapa då inte en plats-sida för varje tjänst i den staden. 
+Skapa inte heller för många plats-sidor för enskilda städer. Om ni utför 5 olika städtjänster i en viss stad. Skapa då inte en plats-sida för varje tjänst i den staden.
 
 _Exempel på vad ni inte ska göra:_
 
     www.ankeborgsstadfirma.se/golvrengoring-ankeborg
-
+    
     www.ankeborgsstadfirma.se/flyttstadning-ankeborg
-
+    
     www.ankeborgsstadfirma.se/kontorstadning-ankeborg
 
-Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för desto bättre. Och i vissa fall är detta sant, men i det här fallet så sprider man bara ut sig jämfört med om alla tjänster var samlade på samma plats-sida. 
+Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för desto bättre. Och i vissa fall är detta sant, men i det här fallet så sprider man bara ut sig jämfört med om alla tjänster var samlade på samma plats-sida.
 
 <br>
 
@@ -195,12 +219,12 @@ Några content idéer för att komma igång:
 
 **Berätta om en städhjälte i ert team**
 
-Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. 
+Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan.
 
 <br>
 
 ## Avslutande ord
 
-Det var allt för denna gången. Jag försökte hålla det så kort som möjligt så det var en hel del som inte kom med alls men det här är en bra start för att fixa till lite på egen hand. 
+Det var allt för denna gången. Jag försökte hålla det så kort som möjligt så det var en hel del som inte kom med alls men det här är en bra start för att fixa till lite på egen hand.
 
 Vill du inte fixa till på egen hand så bistår jag som vanligt med hjälp. Kontakta mig via chatten eller [kontaktformuläret ](https://www.nordbergmedia.se/kontakt "kontaktformuläret")så snackar vi lite!
