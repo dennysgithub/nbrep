@@ -52,7 +52,11 @@ Den här guiden är tänkt att ge grundläggande kunskaper i hur man gör för a
 
 **<h2 style="font-size:35px;">Steg 1: Gör anspråk på din GMB profil och verifiera den.</h2>**<a href="#steg2">(hoppa till steg 2 om du redan gjort detta)</a>
 
-> **_Uppdatering 2020-03-21:_** _Pga covid-19 så kan verifieringar av profiler dröja längre än normalt. Så fort saker börjar rulla på som normalt i Google igen så skriver jag om det i bloggen._
+***
+
+**_Uppdatering 2020-03-21:_** _Pga covid-19 så kan verifieringar av profiler dröja längre än normalt. Så fort saker börjar rulla på som normalt i Google igen så skriver jag om det i bloggen._
+
+***
 
 Att inte ha lagt anspråk på sin GMB profil innebär att vem som helst kan göra det, med katastrofala följder. Låt inte det ske.
 
@@ -216,9 +220,13 @@ Du har nu en kort & snygg länk som går direkt till din Google My Business prof
 
 <mark>Men om du tänker dela med dig av länken i syftet att skaffa recensioner så finns det ett steg till vi vill ta.</mark>
 
-> **_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte rutan i din kontrollpanel så är det inte fel hos dig, utan det är Google som försöker underlätta arbetet för sina anställda under rådande omständigheter. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
->
-> **Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://www.nordbergmedia.se/google-my-business-nu-kan-du-svara-p%C3%A5-recensioner-igen/ "här").
+***
+
+**_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte rutan i din kontrollpanel så är det inte fel hos dig, utan det är Google som försöker underlätta arbetet för sina anställda under rådande omständigheter. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
+
+**Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://www.nordbergmedia.se/google-my-business-nu-kan-du-svara-p%C3%A5-recensioner-igen/ "här").
+
+***
 
 På startsidan hittar du rutan nedan, **klicka på "Dela recension från"**
 
