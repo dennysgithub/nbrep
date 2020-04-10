@@ -45,7 +45,7 @@ Förutom den låga andelen klick som annonserna får så är det inte heller nå
 
 Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står emot jättar i sin bransch. Men målet behöver inte alltid vara att nå toppen. Det räcker med målsättningen att förbättra den nuvarande sökmotoroptimeringen så att fler sökare drivs till sidan än förut **= fler kunder och större vinst.**
 
-## Optimera Google My Business
+## 1. Optimera Google My Business
 
 <span style="font-size: 18px;">Att förbättra rankingen i Googles organiska sökresultat tar tid (Rom byggdes inte på en dag). Om någon som jobbar med SEO garanterar er förbättrad ranking på extremt kort tid så skulle jag råda er att springa åt andra hållet.</span>
 
@@ -59,7 +59,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <br>
 
-## Snygga till era sidtitlar
+## 2. Snygga till era sidtitlar
 
 Sidtiteln du väljer på en sida är det första som läggs märke till av de som söker efter dina tjänster, därför är det viktigt att sälja in företaget redan här.
 
@@ -97,7 +97,7 @@ Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en b
 
 <br>
 
-## Skapa sidor för tjänster & platser
+## 3. Skapa sidor för tjänster & platser
 
 Gör det enkelt för Google att veta vad era sidor handlar om.
 
@@ -147,7 +147,7 @@ Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för d
 
 <br>
 
-## Bygg och se över länkar
+## 4. Bygg och se över länkar
 
 <span style="font-size: 18px;">För att en hemsida ska ranka högt så krävs det att Google tycker sidan verkar tillförlitlig. Om det finns många kvalitativa länkar som pekar mot just din hemsida så är det till stor hjälp.
 
@@ -177,7 +177,7 @@ Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli 
 
 <br>
 
-## Lägg till strukturerad data
+## 5. Lägg till strukturerad data
 
 Det är Google som bestämmer hur bra din hemsida skall rankas. Men det är inga människor som sitter och går in på hemsidor och avgör detta så klart. Utan det finns något som kallas för "Google Crawlers", vilket du kan tänka på som ett gäng robot-spindlar som konstant kryper omkring på hemsidor och försöker läsa av dem.
 
@@ -199,7 +199,7 @@ För dokumentation och exempel kan du läsa mer på <a href="[https://schema.org
 
 <br>
 
-## Skapa content
+## 6. Skapa content
 
 Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
 
@@ -219,7 +219,7 @@ Några content idéer för att komma igång:
 
 **Berätta om en städhjälte i ert team**
 
-Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan.
+Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. Och kom ihåg att det är en investering likt frön man sår för att senare få njuta av fruktens grönska. 
 
 <br>
 
