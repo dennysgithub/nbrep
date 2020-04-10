@@ -98,13 +98,13 @@ Mer än så går jag inte in på det här, men det är möjligt att jag skriver 
 
 Innan du ger dig ut på jakt efter citations att fixa till så kan det vara bra att bestämma dig för exakt hur du vill att företagets citation ska se ut och skriva ned det till punkt och pricka i ett textdokument på datorn redo till hands.
 
-<mark>Nedan visar jag några exempel så du får en idé över hur noggrann du behöver vara.</mark>
+**Nedan visar jag några exempel så du får en idé över hur noggrann du behöver vara.**
 
-| Stengatan 4 lgh 1201, 11641, Stockholm | Stengatan 4, 11641, Stockholm |
+<mark>| Stengatan 4 lgh 1201, 11641, Stockholm | Stengatan 4, 11641, Stockholm |</mark>
 
 Adresserna ovan leder givetvis till samma plats, men Google kommer se det som två olika adresser, **inte bra.**
 
-| Tommys Takmåleri AB | Tommys Takmåleri |
+<mark>| Tommys Takmåleri AB | Tommys Takmåleri |</mark>
 
 Igen, samma företag, men Google kommer se det som två olika = **sämre ranking** :thumbsdown:
 
