@@ -323,9 +323,13 @@ När du känner dig nöjd med vad du har skrivit så öppnar du din <a href="htt
 
 **<h3 style="font-size:22px;">Skapa en Q&A:</h3>**
 
-> **_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte möjligheten att "ställa en fråga" så är det inte fel hos dig, utan det är Google som försöker underlätta arbetet för sina anställda under rådande omständigheter. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
->
-> **Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://www.nordbergmedia.se/google-my-business-nu-kan-du-svara-p%C3%A5-recensioner-igen/ "här").
+***
+
+**_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte möjligheten att "ställa en fråga" så är det inte fel hos dig, utan det är Google som försöker underlätta arbetet för sina anställda under rådande omständigheter. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
+
+**Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://www.nordbergmedia.se/google-my-business-nu-kan-du-svara-p%C3%A5-recensioner-igen/ "här").
+
+***
 
 Du har säkert sett att användare kan ställa frågor på Google My Business profiler och du som ägare eller andra användare som vet svaren kan svara på frågorna.
 
