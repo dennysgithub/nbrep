@@ -2,7 +2,6 @@
 author = "Nordberg Media"
 date = 2020-04-09T22:00:00Z
 description = "Google öppnar upp för att svara på recensioner igen. Nya recensioner och foton från användare och Q&A kommer bli tillgängligt så småningom."
-draft = true
 image = "/images/post/google-logo.jpg"
 kategorier = []
 title = "Google My Business - Nu kan du svara på recensioner igen"
