@@ -1,5 +1,5 @@
 +++
-author = "Nordberg Media"
+author = ""
 date = 2020-04-09T22:00:00Z
 description = "Google öppnar upp för att svara på recensioner igen. Nya recensioner och foton från användare och Q&A kommer bli tillgängligt så småningom."
 image = "/images/post/google-logo.jpg"
