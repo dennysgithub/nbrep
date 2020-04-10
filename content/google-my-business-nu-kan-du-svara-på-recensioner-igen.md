@@ -3,7 +3,7 @@ author = ""
 date = 2020-04-09T22:00:00Z
 description = "Google öppnar upp för att svara på recensioner igen. Nya recensioner och foton från användare och Q&A kommer bli tillgängligt så småningom."
 image = "/images/post/google-logo.jpg"
-kategorier = []
+kategorier = ["Google My Business"]
 title = "Google My Business - Nu kan du svara på recensioner igen"
 type = "post"
 
