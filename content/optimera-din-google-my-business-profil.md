@@ -37,7 +37,7 @@ type = "post"
 
 Enkelt, det är gratis och om du optimerar din profil korrekt så har du chansen att få minst lika mycket kunder om inte fler från din Google My Business profil som du hade fått från en annons för tiotusentals kronor.
 
-Det går dessutom rykten i SEO-branschen att Google i framtiden kommer börja ta betalt för att låta företag utnyttja tjänsten, vilket inte vore helt orimligt, så jag rekommenderar att du drar nytta av att det är gratis idag och ser till att optimera Google My Business. 
+Det går dessutom rykten i SEO-branschen att Google i framtiden kommer börja ta betalt för att låta företag utnyttja tjänsten, vilket inte vore helt orimligt, så jag rekommenderar att du drar nytta av att det är gratis idag och ser till att optimera Google My Business.
 
 Inte nog med att det är gratis, <a href="https://searchenginewatch.com/sew/opinion/2423578/google-local-pack-is-233-percent-more-important" target="_blank">en studie gjord av Search Engine Watch</a> <mark>visade att hela 68% av användarna föredrog Googles 3-pack,</mark> 27% föredrog det organiska sökresultatet nedanför, och bara 10% litade på betalda annonser.
 
@@ -217,6 +217,8 @@ Du har nu en kort & snygg länk som går direkt till din Google My Business prof
 <mark>Men om du tänker dela med dig av länken i syftet att skaffa recensioner så finns det ett steg till vi vill ta.</mark>
 
 > **_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte rutan i din kontrollpanel så är det inte fel hos dig, utan det är Google som försöker underlätta arbetet för sina anställda under rådande omständigheter. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
+>
+> **Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://www.nordbergmedia.se/google-my-business-nu-kan-du-svara-p%C3%A5-recensioner-igen/ "här").
 
 På startsidan hittar du rutan nedan, **klicka på "Dela recension från"**
 
@@ -314,6 +316,8 @@ När du känner dig nöjd med vad du har skrivit så öppnar du din <a href="htt
 **<h3 style="font-size:22px;">Skapa en Q&A:</h3>**
 
 > **_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte möjligheten att "ställa en fråga" så är det inte fel hos dig, utan det är Google som försöker underlätta arbetet för sina anställda under rådande omständigheter. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
+>
+> **Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://www.nordbergmedia.se/google-my-business-nu-kan-du-svara-p%C3%A5-recensioner-igen/ "här").
 
 Du har säkert sett att användare kan ställa frågor på Google My Business profiler och du som ägare eller andra användare som vet svaren kan svara på frågorna.
 
