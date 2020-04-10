@@ -147,7 +147,7 @@ Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för d
 
 <br>
 
-## Bygg (in)länkar
+## Bygg och se över länkar
 
 <span style="font-size: 18px;">För att en hemsida ska ranka högt så krävs det att Google tycker sidan verkar tillförlitlig. Om det finns många kvalitativa länkar som pekar mot just din hemsida så är det till stor hjälp.
 
