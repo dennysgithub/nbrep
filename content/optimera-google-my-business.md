@@ -3,7 +3,7 @@ date = 2020-03-15T05:00:00Z
 description = "Ta stegen dina konkurrenter inte gör och optimera din Google My Business profil och håva in fler nya kunder än vad du någonsin gjort från Google tidigare."
 image = "/images/post/optimera-google-my-business-profil.png"
 kategorier = ["Google My Business"]
-title = "GUIDE: Optimera Google My Business 2020"
+title = "GUIDE: Optimera  din Google My Business profil 2020"
 type = "post"
 
 +++
