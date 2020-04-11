@@ -65,7 +65,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 Sidtiteln du väljer på en sida är det första som läggs märke till av de som söker efter dina tjänster, därför är det viktigt att sälja in företaget redan här.
 
-Det är också något Google tittar på för att bestämma huruvida relevant din sida är för sökningen. Det är därför betydelsefullt att se över de titlar man valt och om de kan göras bättre.
+Det är också något Google tittar på för att bestämma huruvida relevant din sida är för sökningen. Det är därför också väldigt betydelsefullt att se över de titlar man valt och om de kan göras bättre.
 
 Nedanför tar vi en titt på några exempel.
 
