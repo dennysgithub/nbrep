@@ -175,7 +175,7 @@ Ett exempel på **riktigt bra inlänkar** är länkar som kommer från lokala ny
 
 **Hur dyker man som städfirma upp i de lokala tidningarna?**
 
-Googla fram artiklar om städning från era lokala nyhetssajter och kontakta journalisterna som skrivit just de artiklarna. Chansen finns att de kommer vara intresserade av att skriva liknande artiklar igen, och många journalister jobbar dessutom för flera olika tidningar så det kan leda till mer än bara en artikel.
+Googla fram städ-relaterade artiklar från era lokala nyhetssajter och kontakta journalisterna som skrivit just de artiklarna. Chansen finns att de kommer vara intresserade av att skriva liknande artiklar igen, och många journalister jobbar dessutom för flera olika tidningar så det kan leda till mer än bara en artikel.
 
 Ni kan dela med er av era bästa vår och höststädnings-tips, hur man håller sig frisk i influensatider med städning, hur man städar som ett proffs, möjligheterna är oändliga för att dyka upp i tidningen.
 
