@@ -251,7 +251,11 @@ Det finns många vägar att gå men jag ska nämna några stycken.
 * Skapa en QR-kod för länken och ha med den på alla slags lämpliga papper du skickar ut till kunder, fakturor, etc. Självklart med en uppmaning om att lämna recension så folk förstår vad det är för något.
 * Använd samma QR-kod och designa en snygg skylt/plakat som du kan ha i receptionen i ditt hotell, ovanpå kassan i frisörsalongen, etc. **Var kreativ!**
 
+***
+
 **<mark>OBS!</mark>** Byt **INTE** ut rabatter eller dylikt mot recensioner. <mark>**Detta är strikt förbjudet enligt Google**</mark> och du riskerar att inte bara förlora alla dina recensioner om de kommer på dig utan även hela profilen.
+
+***
 
 Bra, nu har vi löst hur du ska generera recensionerna. Men en väldigt värdefull sak som många företagare helt struntar i är att **<span style="font-size:22px;">faktiskt svara på recensionerna.</span>**
 
