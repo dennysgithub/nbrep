@@ -19,7 +19,7 @@ type = "post"
 
 <li><a href="#steg1">Optimera Google My Business.</a></li>
 
-<li><a href="#steg2">Snygga till sidtitlar.</a></li>
+<li><a href="#steg2">Optimera sidtitlar.</a></li>
 
 <li><a href="#steg3">Skapa sidor för tjänster & platser.</a></li>
 
@@ -61,7 +61,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <br>
 
-## 2. Snygga till era sidtitlar
+## 2. Optimera sidtitlar
 
 Sidtiteln du väljer på en sida är det första som läggs märke till av de som söker efter dina tjänster, därför är det viktigt att sälja in företaget redan här.
 
