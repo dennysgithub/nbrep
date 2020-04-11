@@ -117,7 +117,7 @@ Se även till så det finns ordentligt med innehåll på dessa sidorna. **Dra ny
 
 <span style="font-size:20px;">Har ni någon koppling till staden förutom att ni utför städtjänster där? Växte någon upp där? Kommer de flesta från ert team därifrån? Fick ni ert första jobb här för x antal år sedan?</span>
 
-**Berätta en historia istället och försök att få med nyckelorden på ett naturligt sätt.** Ni vill få med vilka tjänster ni utför men också **ge Google starka signaler om att ni verkligen kan er sak om staden/området i fråga. Så få med olika slags närområden och kända byggnader, etc.**
+**Berätta en historia istället och försök att få med nyckelorden på ett naturligt sätt.** Ni vill få med vilka tjänster ni utför men också **ge Google starka signaler om att ni verkligen kan er sak om staden/området i fråga. Så få med olika slags närområden, kända byggnader, etc.**
 
 _Ett kort & snabbt exempel för att förstå vad jag pratar om:_
 
