@@ -137,9 +137,9 @@ Inkludera även foton från utförda jobb från platsen, helst kända byggnader 
 
 **<span style="font-size:22px;">3. Mer är inte bättre</span>**
 
-Om ni arbetar i 25 olika mindre orter så vill ni säkert ranka bra i samtliga orter, men fokusera istället på 2-3 orter max där ni får in den största delen av era kunder. Lägg krutet där det gör mest nytta.
+Om ni arbetar i 25 olika mindre orter så vill ni säkert ranka bra i samtliga orter, men fokusera istället på de viktigaste områdena där ni får in den största delen av era kunder. Lägg alltså krutet där det gör mest nytta.
 
-Skapa inte heller för många plats-sidor för enskilda städer. Om ni utför 5 olika städtjänster i en viss stad. Skapa då inte en plats-sida för varje tjänst i den staden.
+Skapa inte heller flera plats-sidor för enskilda städer. Om ni utför 5 olika städtjänster i en viss stad. Skapa då inte en plats-sida för varje tjänst i den staden.
 
 _Exempel på vad ni inte ska göra:_
 
