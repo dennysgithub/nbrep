@@ -85,7 +85,7 @@ _Exempel 3:_
 
 ![](/images/post/bra-sidtitel-exempel-1.png)
 
-**Analys:** Den här gillar jag! Den är perfekt. Nyckelorden "städfirma" och "stockholm" kommer **före företagsnamnet.** Och de har även fått med en anledning till varför man ska välja dem, se "proffsig". Den blir inte heller avklippt av Google utan är kort och koncis med sitt budskap. Tummen upp! :thumbsup:
+**Analys:** Den här gillar jag! Den är perfekt. Nyckelorden "städfirma" och "stockholm" kommer **före företagsnamnet.** Och de har även fått med en anledning till varför man ska välja dem, se "**proffsig**". Den blir inte heller avklippt av Google utan är kort och koncis med sitt budskap. Tummen upp! :thumbsup:
 
 _Exempel 4:_
 
