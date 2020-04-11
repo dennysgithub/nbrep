@@ -10,6 +10,6 @@
   from = "/optimera-din-google-my-business-profil"
   to = "/optimera-google-my-business-2020"
   status = 301
-  force = false
+  force = true
   query = {path = ":path"}
   conditions = {Language = ["sv"], Country = ["SE"], Role = ["admin"]}
