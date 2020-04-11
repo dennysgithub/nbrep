@@ -121,9 +121,13 @@ Se även till så det finns ordentligt med innehåll på dessa sidorna. **Dra ny
 
 _Ett kort & snabbt exempel för att förstå vad jag pratar om:_
 
-> Vi på <mark>\[städfirman\]</mark> har alltid haft en förkärlek för <mark>\[stad\]</mark>". Som barn växte \[Vår VD\] upp i <mark>\[stad\]</mark> och spenderade varje sommar med familjen i <mark>\[känt närområde\]</mark> med bad och grill. Det var alltid \[Vår VDs\] favoritställe som barn och än idag så åker vårt team till <mark>\[känt närområde\]</mark> för att koppla av och roa oss varje sommar.
->
-> Vi har utfört <mark>\[olika slags städtjänster\]</mark> i <mark>\[stadsnamn\]</mark> och har i skrivande stund över <mark>\[X antal jobb\]</mark> under bältet sedan 2003! Vi har bland annat städat på <mark>\[skola i området\]</mark>, <mark>\[teater i området\]</mark> & <mark>\[kommunhus i området\]</mark>."
+***
+
+Vi på <mark>\[städfirman\]</mark> har alltid haft en förkärlek för <mark>\[stad\]</mark>". Som barn växte \[Vår VD\] upp i <mark>\[stad\]</mark> och spenderade varje sommar med familjen i <mark>\[känt närområde\]</mark> med bad och grill. Det var alltid \[Vår VDs\] favoritställe som barn och än idag så åker vårt team till <mark>\[känt närområde\]</mark> för att koppla av och roa oss varje sommar.
+
+Vi har utfört <mark>\[olika slags städtjänster\]</mark> i <mark>\[stadsnamn\]</mark> och har i skrivande stund över <mark>\[X antal jobb\]</mark> under bältet sedan 2003! Vi har bland annat städat på <mark>\[skola i området\]</mark>, <mark>\[teater i området\]</mark> & <mark>\[kommunhus i området\]</mark>."
+
+***
 
 **<span style="font-size:22px;">2. Recensioner & foton.</span>**
 
@@ -179,6 +183,10 @@ Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli 
 
 <br>
 
+## 5. Gå efter smarta nyckelord
+
+Nyckelord, även kallat för keywords.
+
 ## 5. Lägg till strukturerad data
 
 Det är Google som bestämmer hur bra din hemsida skall rankas. Men det är inga människor som sitter och går in på hemsidor och avgör detta så klart. Utan det finns något som kallas för "Google Crawlers", vilket du kan tänka på som ett gäng robot-spindlar som konstant kryper omkring på hemsidor och försöker läsa av dem.
@@ -221,7 +229,7 @@ Några content idéer för att komma igång:
 
 **Berätta om en städhjälte i ert team**
 
-Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. Och kom ihåg att det är en investering likt frön man sår för att senare få njuta av fruktens grönska. 
+Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. Och kom ihåg att det är en investering likt frön man sår för att senare få njuta av fruktens grönska.
 
 <br>
 
