@@ -215,7 +215,7 @@ Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopier
 
 Gå tillbaka till <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> och se om du lyckades!
 
-<span style="20px;">Om ni har en Wordpress hemsida</span> så kan detta lösas enklare med hjälp av en plugin. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
+Om ni har en Wordpress hemsida så kan detta lösas enklare med hjälp av en plugin. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
 
 ## 6. Skapa content
 
