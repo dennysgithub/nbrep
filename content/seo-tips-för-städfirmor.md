@@ -223,6 +223,8 @@ Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara e
 
 Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om att stärka er profil  hos Google. Och ju fler tillförlitliga sidor ni har som användare klickar på, desto bättre ranking kommer ni att få.
 
+***
+
 Några content idéer för att komma igång:
 
 **Städa hemma checklista**
@@ -236,6 +238,8 @@ Några content idéer för att komma igång:
 **Vad är fördelarna med professionell städhjälp?**
 
 **Berätta om en städhjälte i ert team**
+
+***
 
 Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. Och kom ihåg att det är en investering likt frön man sår för att senare få njuta av fruktens grönska.
 
