@@ -101,6 +101,8 @@ Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en b
 
 ## 3. Skapa sidor för tjänster & platser
 
+![](/images/post/tjanster-och-platssidor-thumbnail.png)
+
 Gör det enkelt för Google att veta vad era sidor handlar om.
 
 Erbjuder ni <mark>golvrengöring, flyttstädning</mark> och <mark>fönsterputs</mark> till exempel så **skall** ni ha en separat sida för dessa tjänster.
@@ -154,6 +156,8 @@ Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för d
 <br>
 
 ## 4. Bygg och se över (in)länkar
+
+![](/images/post/inlankar.png)
 
 <span style="font-size: 18px;">För att en hemsida ska ranka högt så krävs det att Google tycker sidan verkar tillförlitlig. Om det finns många kvalitativa länkar som pekar mot just din hemsida så är det till stor hjälp.
 
