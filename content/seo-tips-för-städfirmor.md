@@ -207,7 +207,7 @@ Det mesta är ganska rättframt och allt du behöver göra är att fylla i ditt 
 
 Se dock till så att du väljer "Local Business" överst och på "type" så ska du välja "Professional Service"
 
-Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på logotypen och kopiera bildadress och klistra sedan in adressen i fältet för "Logo"
+Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på logotypen, välj kopiera bildadress och klistra sedan in adressen i fältet för "Logo"
 
 ![schema-generator](/images/post/schema-generator.gif "schema-generator")
 
