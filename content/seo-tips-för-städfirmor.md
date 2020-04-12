@@ -211,7 +211,7 @@ Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på
 
 Se exempel nedan.
 
-![](/images/post/schema-generator.gif)
+![schema-generator](/images/post/schema-generator.gif "schema-generator")
 
 Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopiera den och klistra in den inom `<head>` taggen på din hemsida.
 
