@@ -27,7 +27,7 @@ type = "post"
 
 <li><a href="#steg5">Lägg till strukturerad data.</a></li>
 
-<li><a href="#steg6">Skapa content.</a></li>
+<li><a href="#steg6">Hitta nyckelord med Google Keyword Planner.</a></li>
 
 ***
 
