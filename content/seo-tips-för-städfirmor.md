@@ -189,17 +189,19 @@ Nyckelord, även kallat för keywords.
 
 ## 5. Lägg till strukturerad data
 
-Det är Google som bestämmer hur bra din hemsida skall rankas. Men det är inga människor som sitter och går in på hemsidor och avgör detta så klart. Utan det finns något som kallas för "Google Crawlers", vilket du kan tänka på som ett gäng robot-spindlar som konstant kryper omkring på hemsidor och försöker läsa av dem.
-
-Varför är detta viktigt? Jo, eftersom de är robotar så läser de inte av en hemsida på samma sätt som du och jag gör, utan de avläser koden på hemsidan och drar därefter slutsatser om vad sidan handlar om.
-
-Genom att lägga till strukturerad data på hemsidan så underlättar man det otroligt mycket för dessa små robot-spindlarna att avläsa hemsidan och det tycker Google om.
+Strukturerad data är något som Google och de andra sökmotorerna gemensamt skapade år 2011. Den strukturerade datan hjälper sökmotorerna att avläsa hemsidor enklare.
 
 Om du inte vet om ni har strukturerad data tillagd på er hemsida så kan du använda dig av <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> för att se efter direkt.
 
 Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer det dyka upp strukturerad data, om det finns någon. Se exempel nedan.
 
 ![](/images/post/schema-checker.gif)
+
+På <a href="[https://schema.org/LocalBusiness](https://schema.org/LocalBusiness "https://schema.org/LocalBusiness")" target="_blank">schema.org</a> kan du läsa mer om alla typer av strukturerad data som finns och själv snickra ihop den perfekta strukturerade datan för din hemsida. 
+
+Det kan dock verka lite krångligt så det finns en enklare väg att gå för den oerfarne. 
+
+Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig.
 
 **Så hur lägger man till strukturerad data?**
 
