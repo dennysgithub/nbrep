@@ -109,9 +109,9 @@ Erbjuder ni <mark>golvrengöring, flyttstädning</mark> och <mark>fönsterputs</
 
 Om någon söker på "flyttstädning" så vill Google att den personen hamnar på en sida om just flyttstädning. Inte på en sida om flyttstädning, golvrengöring och fönsterputs. Därför är det viktigt att ha separata sidor för detta.
 
-Se även till så det finns ordentligt med innehåll på dessa sidorna. **Dra nytta av era konkurrenter som rankar bäst. Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**
+Se även till så det finns ordentligt med innehåll på dessa sidorna. <span style="font-size:22px;">**Dra nytta av era konkurrenter som rankar bäst. Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**</span>
 
-<span style="font-size:20px;">När det gäller era plats-sidor så är de extremt viktiga för att ranka högt för de plats-specifika nyckelorden.</span> Om ni inte har specifika sidor för era viktigaste orter/platser redan så är det dags att sätta igång med det. **Om ni redan har specifika sidor för detta, hur bra är dom?** Nedan går jag igenom några enkla tips ni bör använda er av.
+<mark>När det gäller era plats-sidor så är de extremt viktiga för att ranka högt för de plats-specifika nyckelorden.</mark> Om ni inte har specifika sidor för era viktigaste orter/platser redan så är det dags att sätta igång med det. **Om ni redan har specifika sidor för detta, hur bra är dom?** Nedan går jag igenom några enkla tips ni bör använda er av.
 
 **<span style="font-size:22px;">1. Berätta en historia.</span>**
 
