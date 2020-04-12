@@ -201,21 +201,21 @@ På <a href="[https://schema.org/LocalBusiness](https://schema.org/LocalBusiness
 
 Det kan dock verka lite krångligt så det finns en enklare väg att gå för den oerfarne. 
 
-Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig.
+Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig. 
 
-**Så hur lägger man till strukturerad data?**
+Det mesta är ganska rättframt och allt du behöver göra är att fylla i ditt företags uppgifter helt enkelt. 
 
-Om ni har en Wordpress hemsida så finns det plugins att tillgå vilket gör det busenkelt att lägga till den strukturerade datan på hemsidan. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
+Se dock till så att du väljer "Local Business" överst och på "type" så ska du välja "Professional Service"
 
-Om ni inte har en Wordpress hemsida och er CMS inte har några plugins att tillgå för ändamålet så behöver ni lägga till den strukturerade datan manuellt. Det finns en jättebra hemsida som heter <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> där du enkelt kan generera den koden du behöver.
+Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på logotypen och kopiera bildadress och klistra sedan in adressen i fältet för "Logo"
 
-Efter du genererat koden så lägger du till den inom `<head>` taggen på din hemsida.
+![](/images/post/schema-generator.gif)
 
-Detta är så simpelt jag kan förklara det. Det är möjligt att jag skriver en helt separat guide om just strukturerad data i framtiden men för att inte göra det för stökigt just nu så håller jag det kort.
+Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopiera den och klistra in den inom `<head>` taggen på din hemsida.
 
-För dokumentation och exempel kan du läsa mer på <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">schema.org</a> tills vidare.
+Gå tillbaka till <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> och se om du lyckades!
 
-<br>
+<span style="20px;">Om ni har en Wordpress hemsida</span> så kan detta lösas enklare med hjälp av en plugin. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
 
 ## 6. Skapa content
 
