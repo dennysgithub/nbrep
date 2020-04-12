@@ -209,6 +209,8 @@ Se dock till så att du väljer "Local Business" överst och på "type" så ska 
 
 Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på logotypen och kopiera bildadress och klistra sedan in adressen i fältet för "Logo"
 
+Se exempel nedan.
+
 ![](/images/post/schema-generator.gif)
 
 Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopiera den och klistra in den inom `<head>` taggen på din hemsida.
