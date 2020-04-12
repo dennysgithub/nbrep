@@ -101,7 +101,7 @@ Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en b
 
 ## 3. Skapa sidor för tjänster & platser
 
-![](/images/post/tjanster-och-platssidor-thumbnail.png)
+![](/images/post/tjanster-platser.png)
 
 Gör det enkelt för Google att veta vad era sidor handlar om.
 
@@ -157,7 +157,7 @@ Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för d
 
 ## 4. Bygg och se över (in)länkar
 
-![](/images/post/inlankar.png)
+![](/images/post/inlankar-tb.png)
 
 <span style="font-size: 18px;">För att en hemsida ska ranka högt så krävs det att Google tycker sidan verkar tillförlitlig. Om det finns många kvalitativa länkar som pekar mot just din hemsida så är det till stor hjälp.
 
@@ -221,7 +221,7 @@ Om ni har en Wordpress hemsida så kan detta lösas enklare med hjälp av en plu
 
 ## 6. Skapa content
 
-![](/images/post/content.png)
+![](/images/post/skapa-content.png)
 
 Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
 
