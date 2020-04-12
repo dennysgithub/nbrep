@@ -195,7 +195,11 @@ Varför är detta viktigt? Jo, eftersom de är robotar så läser de inte av en 
 
 Genom att lägga till strukturerad data på hemsidan så underlättar man det otroligt mycket för dessa små robot-spindlarna att avläsa hemsidan och det tycker Google om.
 
-Om du inte vet om ni har strukturerad data tillagd på er hemsida så kan du använda dig av <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a>
+Om du inte vet om ni har strukturerad data tillagd på er hemsida så kan du använda dig av <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> för att se efter direkt.
+
+Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer det dyka upp strukturerad data, om det finns någon. Se exempel nedan.
+
+![](/images/post/schema-checker.gif)
 
 **Så hur lägger man till strukturerad data?**
 
