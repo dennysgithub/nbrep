@@ -187,10 +187,6 @@ Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli 
 
 <br>
 
-## 5. Gå efter smarta nyckelord
-
-Nyckelord, även kallat för keywords.
-
 ## 5. Lägg till strukturerad data
 
 Strukturerad data är något som Google och de andra sökmotorerna gemensamt skapade år 2011. Den strukturerade datan hjälper sökmotorerna att avläsa hemsidor enklare.
