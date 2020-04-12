@@ -195,7 +195,7 @@ Om du inte vet om ni har strukturerad data tillagd på er hemsida så kan du anv
 
 Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer det dyka upp strukturerad data, om det finns någon. Se exempel nedan.
 
-![](/images/post/schema-checker.gif)
+![schema-checker](/images/post/schema-checker.gif)
 
 På <a href="[https://schema.org/LocalBusiness](https://schema.org/LocalBusiness "https://schema.org/LocalBusiness")" target="_blank">schema.org</a> kan du läsa mer om alla typer av strukturerad data som finns och själv snickra ihop den perfekta strukturerade datan för din hemsida. 
 
@@ -211,7 +211,7 @@ Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på
 
 Se exempel nedan.
 
-![](/images/post/schema-generator.gif)
+![schema-generator](/images/post/schema-generator.gif)
 
 Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopiera den och klistra in den inom `<head>` taggen på din hemsida.
 
