@@ -197,13 +197,13 @@ Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer
 
 ![schema-checker](/images/post/schema-checker.gif)
 
-På <a href="[https://schema.org/LocalBusiness](https://schema.org/LocalBusiness "https://schema.org/LocalBusiness")" target="_blank">schema.org</a> kan du läsa mer om alla typer av strukturerad data som finns och själv snickra ihop den perfekta strukturerade datan för din hemsida. 
+På <a href="[https://schema.org/LocalBusiness](https://schema.org/LocalBusiness "https://schema.org/LocalBusiness")" target="_blank">schema.org</a> kan du läsa mer om alla typer av strukturerad data som finns och själv snickra ihop den perfekta strukturerade datan för din hemsida.
 
-Det kan dock verka lite krångligt så det finns en enklare väg att gå för den oerfarne. 
+Det kan dock verka lite krångligt så det finns en enklare väg att gå för den oerfarne.
 
-Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig. 
+Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig.
 
-Det mesta är ganska rättframt och allt du behöver göra är att fylla i ditt företags uppgifter helt enkelt. 
+Det mesta är ganska rättframt och allt du behöver göra är att fylla i ditt företags uppgifter helt enkelt.
 
 Se dock till så att du väljer "Local Business" överst och på "type" så ska du välja "Professional Service"
 
@@ -211,7 +211,7 @@ Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på
 
 Se exempel nedan.
 
-![schema-generator](/images/post/schema-generator.gif)
+![](/images/post/schema-generator.gif)
 
 Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopiera den och klistra in den inom `<head>` taggen på din hemsida.
 
