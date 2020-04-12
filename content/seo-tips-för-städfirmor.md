@@ -221,6 +221,8 @@ Om ni har en Wordpress hemsida så kan detta lösas enklare med hjälp av en plu
 
 ## 6. Skapa content
 
+![](/images/post/content.png)
+
 Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
 
 Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om att stärka er profil  hos Google. Och ju fler tillförlitliga sidor ni har som användare klickar på, desto bättre ranking kommer ni att få.
