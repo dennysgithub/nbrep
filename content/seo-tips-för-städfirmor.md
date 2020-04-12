@@ -209,8 +209,6 @@ Se dock till så att du väljer "Local Business" överst och på "type" så ska 
 
 Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på logotypen, välj kopiera bildadress och klistra sedan in adressen i fältet för "Logo"
 
-![schema-generator](/images/post/schema-generator.gif "schema-generator")
-
 Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopiera den och klistra in den inom `<head>` taggen på din hemsida.
 
 Gå tillbaka till <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> och se om du lyckades!
