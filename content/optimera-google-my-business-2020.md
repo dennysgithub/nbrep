@@ -278,9 +278,8 @@ Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De br
 * Skulle du tröttna på det här så går det alltid att anställa mig så sköter jag allt från optimering och hantering av recensioner till tråkiga och utdragna dispyter som dessa så du kan fokusera på det du gör bäst. Är det något du undrar så är det bara att [ta kontakt](https://www.nordbergmedia.se/kontakt/) eller slänga iväg en fråga i chatten. :thumbsup:
   <a name="steg6"></a><br></br><br></br>
 
-**Steg 6: Fyll din profil med foton för fler kunder.**
+**<h2 style="font-size:40px;">Steg 6: Fyll din profil med foton för fler kunder.</h2>**
 ![gmb-foton](/images/post/gmb-foton.png)
--
 
 <a href="https://support.google.com/business/answer/3038063" target="_blank">Google har rapporterat</a> att företag med foton får 42% fler förfrågningar för köransvisningar och 35% fler genomklickningar till deras hemsidor. **Bara från att ha laddat upp foton!** :camera:
 
@@ -311,9 +310,8 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 
 <br>
 
-**Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.**
+**<h2 style="font-size:40px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
 ![last-pic](/images/post/battre-ranking-gmb.png)
--
 
 Jag valde att ta med de här punkterna i slutet av guiden då tester inte har kunnat visa att Googles algoritm genererar en märkbar effekt på rankingen för de här funktionerna. (med undantag för öppettider som kan ha en betydande effekt i vissa fall)
 
