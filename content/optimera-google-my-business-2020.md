@@ -325,8 +325,6 @@ Så låt oss köra vidare lite till bara, <span style="font-size:20px;">har du h
 
 **<h3 style="font-size:22px;">Företagsbeskrivning:</h3>**
 
-Det är lätt att tro att "det är ändå ingen som läser där", men det är fel. Det kan vara en avgörande faktor när en potentiell kund ska välja företag.
-
 Du vill ha en beskrivning som är engagerande på ett genuint vis. Det är här du säljer in ditt företag.
 
 **_OBS:_** _Det är emot Googles riktlinjer att inkludera PR i form av rabatter och länkar i beskrivningen. Du får dock inkludera telefonnummer och epostadress._
