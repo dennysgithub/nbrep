@@ -322,7 +322,7 @@ Google är dessutom kända för att ständigt uppdatera sin algoritm vilket bety
 Så låt oss köra vidare lite till bara, <span style="font-size:20px;">har du hängt med hela vägen hit är du grym!</span> :muscle:
 
 **<h3 style="font-size:22px;">Företagsbeskrivningen:</h3>**  
-Du har säkert redan skrivit en företagsbeskrivning, men är den något att ha?
+<span style="font-size:18px;">Du har säkert redan skrivit en företagsbeskrivning, men är den något att ha?</span>
 
 Det är lätt att tro att "det är ändå ingen som läser där", men det är fel. Det kan vara en avgörande faktor när en potentiell kund ska välja företag.
 
