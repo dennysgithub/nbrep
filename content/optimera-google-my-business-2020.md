@@ -363,8 +363,7 @@ För mer läsning gällande riktlinjerna för Q&A's kan du klicka <a href="https
 
 ***
 
-**<h3 style="font-size:22px;">Lägg till särskilda öppettider:</h3>**  
-Sista punkten, jag ska hålla det här kort för det finns egentligen inte mycket att säga.
+**<h3 style="font-size:22px;">Lägg till särskilda öppettider:</h3>**
 
 Att lägga till öppettider har du med största sannolikhet gjort.
 
