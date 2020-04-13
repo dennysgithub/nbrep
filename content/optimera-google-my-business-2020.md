@@ -52,7 +52,9 @@ Den här guiden är tänkt att ge grundläggande kunskaper i hur man gör för a
 <a name="steg1"></a>  
 <br></br>
 
-**<h2 style="font-size:35px;">Steg 1: Gör anspråk på din GMB profil och verifiera den.</h2>**<a href="#steg2">(hoppa till steg 2 om du redan gjort detta)</a>
+## **Steg 1: Gör anspråk på din GMB profil och verifiera den.**
+
+<a href="#steg2">(hoppa till steg 2 om du redan gjort detta)</a>
 
 ***
 
@@ -76,11 +78,14 @@ Den sista rutan du kommer till efter att du har klickat på "Slutför" är verif
 
 <mark>Efter 1-2 veckor kommer ett brev från Google dyka upp med en verifierings-kod som du sedan knappar in i din Google My Business kontrollpanel.</mark>
 
-Detta kanske låter svårare än vad det är för somliga, allt du behöver göra är att logga in i din Google My Business profil och du kommer få uppmaningar från Google att verifiera ditt företag, det går inte att missa. 
+Detta kanske låter svårare än vad det är för somliga, allt du behöver göra är att logga in i din Google My Business profil och du kommer få uppmaningar från Google att verifiera ditt företag, det går inte att missa.
 <a name="steg2"></a>
 
-<br></br>  
-**<h2 style="font-size:35px;">Steg 2: Se till så att din NAP är korrekt!</h2>** <a href="#steg3">(hoppa till steg 3 om du inte är ett lokalt företag)</a>
+<br></br>
+
+## **Steg 2: Se till så att din NAP är korrekt!** 
+
+<a href="#steg3">(hoppa till steg 3 om du inte är ett lokalt företag)</a>
 
 Vad är NAP för något kanske du undrar?
 
@@ -118,7 +123,7 @@ Så var noga när du går igenom dina citations, och se till så du inte glömme
 
 Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!** <a name="steg3"></a><br><br><br>
 
-**<h2 style="font-size:35px;">Steg 3: Välj rätt företagskategori och under-kategori(er).</h2>**
+## **Steg 3: Välj rätt företagskategori och under-kategori(er).**
 
 Vilken kategori ska du välja? Ska du bara ha en primär kategori? Eller måste du ha underkategorier också?
 
@@ -162,7 +167,7 @@ Hängde du med? **Grymt jobbat!** Nu har du förhoppningsvis en god idé om hur 
 
 <br>
 
-**<h2 style="font-size:35px;">Steg 4: Utnyttja Google Inlägg till fullo!</h2>**
+## **Steg 4: Utnyttja Google Inlägg till fullo!**
 
 Google Inlägg är en väldigt effektiv funktion för att förmedla saker som pågående erbjudanden, kommande evenemang, produkter och tjänster ni tillhandahåller eller generella inlägg om vad som helst.
 
@@ -193,7 +198,7 @@ _Simpelt exempel visas nedan_
 
 <br>
 
-**<h2 style="font-size:35px;">Steg 5: Generera & hantera recensioner för ditt företag.</h2>**  
+## **Steg 5: Generera & hantera recensioner för ditt företag.**  
 ![gmb-recensioner](/images/post/gmb-recensioner.png)  
 <span style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? Då är det dags att ändra på det!</span>
 
@@ -273,8 +278,9 @@ Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De br
 * Skulle du tröttna på det här så går det alltid att anställa mig så sköter jag allt från optimering och hantering av recensioner till tråkiga och utdragna dispyter som dessa så du kan fokusera på det du gör bäst. Är det något du undrar så är det bara att [ta kontakt](https://www.nordbergmedia.se/kontakt/) eller slänga iväg en fråga i chatten. :thumbsup:
   <a name="steg6"></a><br></br><br></br>
 
-**<h2 style="font-size:35px;">Steg 6: Fyll din profil med foton för fler kunder.</h2>**
+**Steg 6: Fyll din profil med foton för fler kunder.**
 ![gmb-foton](/images/post/gmb-foton.png)
+-
 
 <a href="https://support.google.com/business/answer/3038063" target="_blank">Google har rapporterat</a> att företag med foton får 42% fler förfrågningar för köransvisningar och 35% fler genomklickningar till deras hemsidor. **Bara från att ha laddat upp foton!** :camera:
 
@@ -305,8 +311,9 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 
 <br>
 
-**<h2 style="font-size:35px;">Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.</h2>**
+**Steg 7: Lägg till Företagsbeskrivning, Q&A och Öppettider.**
 ![last-pic](/images/post/battre-ranking-gmb.png)
+-
 
 Jag valde att ta med de här punkterna i slutet av guiden då tester inte har kunnat visa att Googles algoritm genererar en märkbar effekt på rankingen för de här funktionerna. (med undantag för öppettider som kan ha en betydande effekt i vissa fall)
 
