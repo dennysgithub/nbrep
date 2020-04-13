@@ -302,7 +302,7 @@ Du behöver ingen proffs-fotograf, se bara till så fotona är av bra kvalité n
 * För hotell bör foton av de olika rummen laddas upp.
 * För restauranger, barer och dylikt så rekommenderas foton av de populäraste maträtterna och drinkarna.
 
-**<span style="font-size:21px;">Så, nu vet du vad för foton du behöver!</span>** <a name="steg7"></a>
+**</span>** <a name="steg7"></a>
 
 <br>
 
