@@ -321,7 +321,11 @@ Google är dessutom kända för att ständigt uppdatera sin algoritm vilket bety
 
 Så låt oss köra vidare lite till bara, <span style="font-size:20px;">har du hängt med hela vägen hit är du grym!</span> :muscle:
 
-**<h3 style="font-size:22px;">Företagsbeskrivning:</h3>**Det är lätt att tro att "det är ändå ingen som läser där", men det är fel. Det kan vara en avgörande faktor när en potentiell kund ska välja företag.
+***
+
+**<h3 style="font-size:22px;">Företagsbeskrivning:</h3>**
+
+Det är lätt att tro att "det är ändå ingen som läser där", men det är fel. Det kan vara en avgörande faktor när en potentiell kund ska välja företag.
 
 Du vill ha en beskrivning som är engagerande på ett genuint vis. Det är här du säljer in ditt företag.
 
@@ -332,6 +336,8 @@ Målet med beskrivningen ska vara <mark>att informera besökarna om era USPs (Un
 När du skriver företagsbeskrivningen vill du också se till att **optimera texten för de nyckelord du vill ranka för.** Har du en firma där du utför golvslipning av parkettgolv så bör du få med det i beskrivningen. Du vill även få med de geografiska platserna där du utför dina tjänster.
 
 När du känner dig nöjd med vad du har skrivit så öppnar du din <a href="https://www.google.com/intl/sv_se/business/" target="_blank">Google My Business profil</a> och klickar på "Information" i menyn. Nästan längst ned på sidan hittar du rutan där du kan klistra in din text. Ibland kan det ta lite tid innan ändringen går igenom men du är nu färdig, **bra jobbat!**
+
+***
 
 **<h3 style="font-size:22px;">Skapa en Q&A:</h3>**
 
@@ -356,6 +362,8 @@ På det här viset tar du kontroll över din Q&A och slipper ha en massa konstig
 <mark>Det är emot reglerna att använda Q&A funktionen i marknadsföringssyfte, du får inte heller inkludera epostadresser eller telefonnummer.</mark>
 
 För mer läsning gällande riktlinjerna för Q&A's kan du klicka <a href="https://support.google.com/maps/answer/7421661?co=GENIE.Platform%3DAndroid&hl=sv" target="_blank">här.</a>
+
+***
 
 **<h3 style="font-size:22px;">Lägg till särskilda öppettider:</h3>**  
 Sista punkten, jag ska hålla det här kort för det finns egentligen inte mycket att säga.
