@@ -58,7 +58,7 @@ Den här guiden är tänkt att ge grundläggande kunskaper i hur man gör för a
 
 ***
 
-**_Uppdatering 2020-03-21:_** _Pga covid-19 så kan verifieringar av profiler dröja längre än normalt. Så fort saker börjar rulla på som normalt i Google igen så skriver jag om det i bloggen._
+**_Uppdatering 2020-03-21:_** _Pga rådande omständigheter så kan verifieringar av profiler dröja längre än normalt. Så fort saker börjar rulla på som normalt i Google igen så skriver jag om det i bloggen._
 
 ***
 
@@ -233,7 +233,7 @@ Du har nu en kort & snygg länk som går direkt till din Google My Business prof
 
 ***
 
-**_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte rutan i din kontrollpanel så är det inte fel hos dig, utan det är Google som har stängt ned funktionen tillfälligt. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
+**_Uppdatering 2020-03-21:_** _Pga rådande omständigheter så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte rutan i din kontrollpanel så är det inte fel hos dig, utan det är Google som har stängt ned funktionen tillfälligt. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
 
 **Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://support.google.com/business/answer/9792336?hl=en).
 
@@ -340,7 +340,7 @@ När du känner dig nöjd med vad du har skrivit så öppnar du din <a href="htt
 
 ***
 
-**_Uppdatering 2020-03-21:_** _Pga covid-19 så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte möjligheten att "ställa en fråga" så är det inte fel hos dig, utan det är Google som har stängt ned funktionen. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
+**_Uppdatering 2020-03-21:_** _Pga rådande omständigheter så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte möjligheten att "ställa en fråga" så är det inte fel hos dig, utan det är Google som har stängt ned funktionen. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
 
 **Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://support.google.com/business/answer/9792336?hl=en).
 
