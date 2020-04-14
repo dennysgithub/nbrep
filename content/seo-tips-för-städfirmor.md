@@ -201,6 +201,8 @@ Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli 
 
 Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om att stärka er profil  hos Google. Och ju fler tillförlitliga sidor ni har som användare klickar på, desto bättre ranking kommer ni att få.
 
+Och gällande inlänkarna, ja, skriver ni något bra som är väldigt hjälpsamt så kommer folk att vilja dela med sig av det på sociala medier och på sina hemsidor.
+
 ***
 
 Några content idéer för att komma igång:
