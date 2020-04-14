@@ -221,8 +221,6 @@ Några content idéer för att komma igång:
 
 **Vad är fördelarna med professionell städhjälp?**
 
-**Berätta om en städhjälte i ert team**
-
 ***
 
 Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. Och kom ihåg att det är en investering likt frön man sår för att senare få njuta av fruktens grönska.
