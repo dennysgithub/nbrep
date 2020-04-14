@@ -233,7 +233,7 @@ Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem,
 
 ## 5. Lägg till strukturerad data
 
-<br>
+![](/images/post/search-engine-76519_1280.png)
 
 ### Vad är strukturerad data?
 
