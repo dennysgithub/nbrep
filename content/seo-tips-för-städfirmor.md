@@ -105,7 +105,7 @@ Vi har utfört <mark>\[olika slags städtjänster\]</mark> i <mark>\[stadsnamn\]
 
 ***
 
-Varje gång ni nämner byggnader eller platser med lokala anknytningar, passa på att länka till dessa vare sig det är en wikipedia-sida eller direkt till exempelvis en skolas hemsida. 
+Varje gång ni nämner byggnader eller platser med lokala anknytningar, passa på att länka till dessa vare sig det är en wikipedia-sida eller direkt till exempelvis en skolas hemsida.
 
 **<span style="font-size:22px;">2. Recensioner & foton.</span>**
 
@@ -207,19 +207,31 @@ Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om 
 
 Och gällande inlänkarna, ja, skriver ni något bra som är väldigt hjälpsamt så kommer folk att vilja dela med sig av det på sociala medier och på sina hemsidor.
 
+
+| Några content idéer för att komma igång |
+| --- |
+| Städa hemma checklista |
+| Vårstädning checklista |
+| Höststädning checklista |
+| Flyttstädning checklista |
+| Hur ofta ska man städa? |
+| Hur städar man en lägenhet? |
+| Vad är fördelarna med professionell städhjälp? |
+  
+
 ***
 
 Några content idéer för att komma igång:
 
-**Städa hemma checklista**
+****
 
-**Vår/höststädning checklista**
+****
 
-**Hur ofta ska man städa?**
+****
 
-**Hur städar man en lägenhet?**
+****
 
-**Vad är fördelarna med professionell städhjälp?**
+****
 
 ***
 
