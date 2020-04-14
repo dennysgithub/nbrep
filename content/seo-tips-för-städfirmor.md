@@ -207,7 +207,7 @@ Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com
 
 Det mesta är ganska rättframt och allt du behöver göra är att fylla i ditt företags uppgifter helt enkelt.
 
-Se dock till så att du väljer "Local Business" överst och på "type" så ska du välja "Professional Service"
+**Se dock till så att du väljer "Local Business" överst och på "type" så ska du välja "Professional Service"**
 
 Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på logotypen, välj kopiera bildadress och klistra sedan in adressen i fältet för "Logo"
 
