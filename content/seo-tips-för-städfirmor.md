@@ -199,7 +199,7 @@ Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer
 
 ![schema-checker](/images/post/schema-checker.gif)
 
-På <a href="[https://schema.org/LocalBusiness](https://schema.org/LocalBusiness "https://schema.org/LocalBusiness")" target="_blank">schema.org</a> kan du läsa mer om alla typer av strukturerad data som finns och själv snickra ihop den perfekta strukturerade datan för din hemsida.
+_På <a href="_[_https://schema.org/LocalBusiness_](https://schema.org/LocalBusiness "https://schema.org/LocalBusiness")_" target="_blank">schema.org</a> kan du läsa mer om alla typer av strukturerad data som finns och själv snickra ihop den perfekta strukturerade datan för din hemsida._
 
 Det kan dock verka lite krångligt så det finns en enklare väg att gå för den oerfarne.
 
