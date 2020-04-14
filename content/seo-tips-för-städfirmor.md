@@ -237,7 +237,7 @@ Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem,
 
 ### Vad är strukturerad data?
 
-Strukturerad data är något som Google och de andra sökmotorerna gemensamt skapade år 2011. Den strukturerade datan hjälper sökmotorerna att avläsa hemsidor enklare. Med den s.k uppmärkta datan så kan du skicka ännu starkare signaler till Google om vad ditt företag gör och var du befinner dig geografiskt sätt.
+Strukturerad data är något som Google och de andra sökmotorerna gemensamt skapade år 2011. Den strukturerade datan hjälper sökmotorerna att avläsa hemsidor enklare. Med den s.k uppmärkta datan så kan du skicka ännu starkare signaler till Google om var du befinner dig geografiskt och vad ditt företag gör.
 
 ### Jag kanske redan har strukturerad data på hemsidan?
 
