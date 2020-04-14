@@ -109,7 +109,7 @@ Ni kanske redan har separata sidor för detta, men hur väl optimerade är dem? 
 
 ### Skapa optimerade sidor för era viktigaste områden
 
-<mark>När det gäller era plats-sidor så är de extremt viktiga för att ranka högt för de plats-specifika nyckelorden.</mark> Om ni inte har specifika sidor för era viktigaste orter/platser redan så är det dags att sätta igång med det. **Om ni redan har specifika sidor för detta, hur bra är dom?** Nedan går jag igenom några enkla tips.
+När det gäller era plats-sidor så är de <mark>extremt viktiga för att ranka högt för de plats-specifika nyckelorden.</mark> Om ni inte har specifika sidor för era viktigaste orter/platser redan så är det dags att sätta igång med det. **Om ni redan har specifika sidor för detta, hur bra är dom?** Nedan går jag igenom några enkla tips.
 
 **<span style="font-size:22px;">1. Berätta en historia.</span>**
 
