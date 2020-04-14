@@ -225,13 +225,15 @@ Content idéerna ovan är sökfraser som folk söker efter regelbundet så se ti
 
 ### Se över era egna inlänkar
 
-**<span style="font-size:20px;">Passa även på att kolla in era egna inlänkar.</span>** <mark>Har ni inlänkar som leder till trasiga sidor?</mark> Isåfall tjänar de inlänkarna ingenting till. Goda nyheter är att allt ni behöver göra är att meddela de som länkar till er att ändra länken till en fungerande länk som ni ger dem, detta är det bästa alternativet.
+Köpte ni sjudagars prövotiden hos <a href="[https://www.ahrefs.com](https://www.ahrefs.com "https://www.ahrefs.com")" target="_blank">Ahrefs</a> för att kunna spana in era konkurrenters inlänkar?**<span style="font-size:25px;">Passa även på att spana in era egna inlänkar på samma gång.</span>** <mark>Har ni inlänkar som leder till trasiga sidor?</mark> Isåfall tjänar de inlänkarna ingenting till. Goda nyheter är att allt ni behöver göra är att meddela de som länkar till er att ändra länken till en fungerande länk som ni ger dem, detta är det bästa alternativet.
 
 Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem, då behöver ni göra en s.k 301 redirect så att den trasiga länken omdirigeras till en fungerande länk.
 
 <br>
 
 ## 5. Lägg till strukturerad data
+
+<br>
 
 ### Vad är strukturerad data?
 
