@@ -181,6 +181,8 @@ För att en hemsida ska ranka högt så krävs det att Google tycker sidan verka
 
 Att bygga inlänkar är något som bör ske kontinuerligt. Större företag lägger ned tiotusentals kronor på länkbygge månadsvis, men vad kan man som en mindre städfirma göra på egen hand?
 
+<br>
+
 ### Hur skaffar man inlänkar?
 
 **<span style="font-size:25px;">Spana på era konkurrenter som rankar bäst:</span>** Använd ett SEO verktyg som t.ex. <a href="[https://www.ahrefs.com](https://www.ahrefs.com "https://www.ahrefs.com")" target="_blank">Ahrefs</a> och sök på era främsta konkurenter i städbranschen och ta en titt på vad de har för slags inlänkar. **Var kommer länkarna från? Har ni en möjlighet att återskapa några av dessa?**
@@ -218,6 +220,8 @@ Och gällande inlänkarna, ja, skriver ni något bra som är väldigt hjälpsamt
 | Vad är fördelarna med professionell städhjälp? |
 
 Content idéerna ovan är sökfraser som folk söker efter regelbundet så se till att optimera sidorna med samma formuleringar så att ni kan dyka upp nästa gång en användare söker på någon av fraserna.
+
+<br>
 
 ### Se över era egna inlänkar
 
