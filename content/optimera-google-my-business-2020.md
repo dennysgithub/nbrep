@@ -1,6 +1,7 @@
 +++
 date = 2020-03-15T05:00:00Z
 description = "Optimera Google My Business och ranka högre i Google Maps för att få fler nya kunder varje dag."
+summary = "Optimera Google My Business och ranka högre i Google Maps för att få fler nya kunder varje dag."
 image = "/images/post/optimera-google-my-business-profil.png"
 kategorier = ["Google My Business"]
 title = "Optimera Google My Business 2020: Fullständig Guide"
