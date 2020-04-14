@@ -103,7 +103,9 @@ Erbjuder ni <mark>golvrengöring, flyttstädning</mark> och <mark>fönsterputs</
 
 Om någon söker på "flyttstädning" så vill Google att den personen hamnar på en sida om just flyttstädning. Inte på en sida om flyttstädning, golvrengöring och fönsterputs. Därför är det viktigt att ha separata sidor för detta.
 
-Se även till så det finns ordentligt med innehåll på dessa sidorna. <span style="font-size:22px;">**Dra nytta av era konkurrenter som rankar bäst. Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**</span>
+Ni kanske redan har separata sidor för detta, men hur väl optimerade är dem? Ett enkelt knep att ta till är att helt enkelt spana på era konkurrenter som rankar bäst.
+
+<span style="font-size:23px;">**Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**</span>
 
 ***
 
