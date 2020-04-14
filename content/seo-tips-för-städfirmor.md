@@ -129,6 +129,8 @@ Vi har utfört <mark>\[olika slags städtjänster\]</mark> i <mark>\[stadsnamn\]
 
 ***
 
+Varje gång ni nämner byggnader eller platser med lokala anknytningar, passa på att länka till dessa vare sig det är en wikipedia-sida eller direkt till exempelvis en skolas hemsida. 
+
 **<span style="font-size:22px;">2. Recensioner & foton.</span>**
 
 Inkludera recensioner på era plats-sidor, **välj specifika recensioner där recensenten har nämnt just var städningen utfördes så det finns en relevant koppling till staden/området i fråga.**
