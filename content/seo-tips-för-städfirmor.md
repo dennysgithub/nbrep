@@ -251,7 +251,11 @@ Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer
 
 Om ni har en Wordpress hemsida så kan detta lösas enkelt med hjälp av en plugin. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
 
-Har ni inte en Wordpress hemsida och er CMS tillhandahåller inget sätt att implementera strukturerad data så kan ni behöva **lägga till det manuellt:**
+Har ni inte en Wordpress hemsida och er CMS tillhandahåller inget sätt att implementera strukturerad data så kan ni behöva lägga till det manuellt.
+
+#### Så här lägger du till strukturerad data manuellt
+
+Nedan visar jag så simpelt det går hur du gör detta manuellt men jag rekommenderar ändå att läsa på <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">schema.org</a> för bättre förståelse.
 
 Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig.
 
