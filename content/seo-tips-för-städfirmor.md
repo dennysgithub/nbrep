@@ -19,15 +19,15 @@ type = "post"
 
 <li><a href="#steg1">Optimera Google My Business.</a></li>
 
-<li><a href="#steg2">Optimera sidtitlar.</a></li>
+<li><a href="#steg6">Hitta nyckelord med Google Keyword Planner.</a></li>
 
 <li><a href="#steg3">Skapa sidor för tjänster & platser.</a></li>
+
+<li><a href="#steg2">Optimera sidtitlar.</a></li>
 
 <li><a href="#steg4">Bygg och se över länkar.</a></li>
 
 <li><a href="#steg5">Lägg till strukturerad data.</a></li>
-
-<li><a href="#steg6">Hitta nyckelord med Google Keyword Planner.</a></li>
 
 ***
 
