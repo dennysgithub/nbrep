@@ -183,11 +183,11 @@ Att bygga inlänkar är något som bör ske kontinuerligt. Större företag läg
 
 ### Hur skaffar man inlänkar?
 
-**<span style="font-size:22px;">Spana på era konkurrenter som rankar bäst:</span>** Använd ett SEO verktyg som t.ex. <a href="[https://www.ahrefs.com](https://www.ahrefs.com "https://www.ahrefs.com")" target="_blank">Ahrefs</a> och sök på era främsta konkurenter i städbranschen och ta en titt på vad de har för slags inlänkar. **Var kommer länkarna från? Har ni en möjlighet att återskapa några av dessa?**
+**<span style="font-size:25px;">Spana på era konkurrenter som rankar bäst:</span>** Använd ett SEO verktyg som t.ex. <a href="[https://www.ahrefs.com](https://www.ahrefs.com "https://www.ahrefs.com")" target="_blank">Ahrefs</a> och sök på era främsta konkurenter i städbranschen och ta en titt på vad de har för slags inlänkar. **Var kommer länkarna från? Har ni en möjlighet att återskapa några av dessa?**
 
 SEO verktyg som Ahrefs är ganska dyra att använda sig av tyvärr. (Ahrefs kostar från 1000-10.000 SEK per månad.) Men det går att registrera sig för endast 70 SEK för en sjudagars prövotid, vilket bör vara tillräckligt med tid för att spana in konkurrenter bland annat.
 
-**<span style="font-size:22px;">Börja figurera i lokala tidningar:</span>** Ett exempel på **riktigt bra inlänkar** är länkar som kommer från lokala nyhetssajter då de lokala nyhetssajterna ofta har väldigt hög auktoritet hos Google samt starka lokala signaler och de kommer således ge mycket  "länkjuice" till er om ni får en länk därifrån.
+**<span style="font-size:25px;">Börja figurera i lokala tidningar:</span>** Ett exempel på **riktigt bra inlänkar** är länkar som kommer från lokala nyhetssajter då de lokala nyhetssajterna ofta har väldigt hög auktoritet hos Google samt starka lokala signaler och de kommer således ge mycket  "länkjuice" till er om ni får en länk därifrån.
 
 **Hur dyker man som städfirma upp i de lokala tidningarna?**
 
@@ -197,7 +197,7 @@ Ni kan dela med er av era bästa vår och höststädnings-tips, hur man håller 
 
 Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli städfirman som alltid kontaktas när det är dags för en städ-relaterad artikel i tidningen. och inte bara få en massa inlänkar men också skapa ett enormt lokalt förtroende!
 
-**<span style="font-size:22px;">Skapa content:**</span> Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
+**<span style="font-size:25px;">Skapa content:**</span> Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
 
 Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om att stärka er profil  hos Google. Och ju fler tillförlitliga sidor ni har som användare klickar på, desto bättre ranking kommer ni att få.
 
