@@ -185,7 +185,7 @@ Googla fram städ-relaterade artiklar från era lokala nyhetssajter och kontakta
 
 Ni kan dela med er av era bästa vår och höststädnings-tips, hur man håller sig frisk i influensatider med städning, hur man städar som ett proffs, möjligheterna är oändliga för att dyka upp i tidningen. Förbered något och börja sedan kontakta journalister & tidningar.
 
-Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli städfirman som alltid kontaktas när det är dags för en städ-relaterad artikel i tidningen. och inte bara få en massa inlänkar men också skapar ett enormt lokalt förtroende!
+Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli städfirman som alltid kontaktas när det är dags för en städ-relaterad artikel i tidningen. och inte bara få en massa inlänkar men också skapa ett enormt lokalt förtroende!
 
 <br>
 
