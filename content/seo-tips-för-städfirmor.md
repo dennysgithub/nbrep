@@ -233,7 +233,11 @@ Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem,
 
 ## 5. Lägg till strukturerad data
 
+### Vad är strukturerad data?
+
 Strukturerad data är något som Google och de andra sökmotorerna gemensamt skapade år 2011. Den strukturerade datan hjälper sökmotorerna att avläsa hemsidor enklare.
+
+### Jag kanske redan har strukturerad data på hemsidan?
 
 Om du inte vet om ni har strukturerad data tillagd på er hemsida så kan du använda dig av <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> för att se efter direkt.
 
@@ -241,9 +245,11 @@ Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer
 
 ![schema-checker](/images/post/schema-checker.gif)
 
-_På <a href="_[_https://schema.org/LocalBusiness_](https://schema.org/LocalBusiness "https://schema.org/LocalBusiness")_" target="_blank">schema.org</a> kan du läsa mer om alla typer av strukturerad data som finns och själv snickra ihop den perfekta strukturerade datan för din hemsida._
+### Hur lägger jag till strukturerad data?
 
-Det kan dock verka lite krångligt så det finns en enklare väg att gå för den oerfarne.
+Om ni har en Wordpress hemsida så kan detta lösas enkelt med hjälp av en plugin. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
+
+Har ni inte en Wordpress hemsida och er CMS tillhandahåller inget sätt att implementera strukturerad data så kan ni behöva lägga till det manuellt.
 
 Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig.
 
@@ -256,8 +262,6 @@ Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på
 Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopiera den och klistra in den inom `<head>` taggen på din hemsida.
 
 Gå tillbaka till <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> och se om du lyckades!
-
-Om ni har en Wordpress hemsida så kan detta lösas enklare med hjälp av en plugin. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
 
 ## Avslutande ord
 
