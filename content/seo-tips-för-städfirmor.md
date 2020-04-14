@@ -207,13 +207,11 @@ Att bygga inlänkar är något som bör ske kontinuerligt. Större företag läg
 
 ### Hur skaffar man inlänkar?
 
-**Ett bra sätt att skaffa inlänkar är genom att spana på era konkurrenter som rankar bäst.** Använd ett SEO verktyg som t.ex. <a href="[https://www.ahrefs.com](https://www.ahrefs.com "https://www.ahrefs.com")" target="_blank">Ahrefs</a> och sök på era främsta konkurenter i städbranschen och ta en titt på vad de har för slags inlänkar. **Var kommer länkarna från? Har ni en möjlighet att återskapa några av dessa?**
+#### **Spana på era konkurrenter som rankar bäst.** 
+
+Använd ett SEO verktyg som t.ex. <a href="[https://www.ahrefs.com](https://www.ahrefs.com "https://www.ahrefs.com")" target="_blank">Ahrefs</a> och sök på era främsta konkurenter i städbranschen och ta en titt på vad de har för slags inlänkar. **Var kommer länkarna från? Har ni en möjlighet att återskapa några av dessa?**
 
 SEO verktyg som Ahrefs är ganska dyra att använda sig av tyvärr. (Ahrefs kostar från 1000-10.000 SEK per månad.) Men det går att registrera sig för endast 70 SEK för en sjudagars prövotid, vilket bör vara tillräckligt med tid för att spana in konkurrenter bland annat.
-
-**<span style="font-size:20px;">Passa även på att kolla in era egna inlänkar.</span>** <mark>Har ni inlänkar som leder till trasiga sidor?</mark> Isåfall tjänar de inlänkarna ingenting till. Goda nyheter är att allt ni behöver göra är att meddela de som länkar till er att ändra länken till en fungerande länk som ni ger dem, detta är det bästa alternativet.
-
-Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem, då behöver ni göra en s.k 301 redirect så att den trasiga länken omdirigeras till en fungerande länk.
 
 Ett exempel på **riktigt bra inlänkar** är länkar som kommer från lokala nyhetssajter då de lokala nyhetssajterna ofta har väldigt hög auktoritet hos Google samt starka lokala signaler och de kommer således ge mycket  "länkjuice" till er om ni får en länk därifrån.
 
@@ -224,6 +222,10 @@ Googla fram städ-relaterade artiklar från era lokala nyhetssajter och kontakta
 Ni kan dela med er av era bästa vår och höststädnings-tips, hur man håller sig frisk i influensatider med städning, hur man städar som ett proffs, möjligheterna är oändliga för att dyka upp i tidningen. Förbered något och börja sedan kontakta journalister & tidningar.
 
 Vårda sedan dessa kontakterna som ni skapat och helt plötsligt så kan ni bli städfirman som alltid kontaktas när det är dags för en städ-relaterad artikel i tidningen. och inte bara få en massa inlänkar men också skapa ett enormt lokalt förtroende!
+
+**<span style="font-size:20px;">Passa även på att kolla in era egna inlänkar.</span>** <mark>Har ni inlänkar som leder till trasiga sidor?</mark> Isåfall tjänar de inlänkarna ingenting till. Goda nyheter är att allt ni behöver göra är att meddela de som länkar till er att ändra länken till en fungerande länk som ni ger dem, detta är det bästa alternativet.
+
+Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem, då behöver ni göra en s.k 301 redirect så att den trasiga länken omdirigeras till en fungerande länk.
 
 <br>
 
