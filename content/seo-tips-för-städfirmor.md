@@ -63,7 +63,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 ## 6. Hitta nyckelord med Google Keyword Planner
 
-![](/images/post/skapa-content.png)
+![](/images/post/hitta-nyckelord.png)
 
 Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
 
