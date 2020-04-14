@@ -217,7 +217,7 @@ Och gällande inlänkarna, ja, skriver ni något bra som är väldigt hjälpsamt
 | Hur städar man en lägenhet? |
 | Vad är fördelarna med professionell städhjälp? |
 
-Content idéerna ovan är sökfraser som folk söker efter regelbundet så se till att optimera sidorna med samma formuleringar så att ni kan dyka upp nästa gång någon söker på någon av fraserna.
+Content idéerna ovan är sökfraser som folk söker efter regelbundet så se till att optimera sidorna med samma formuleringar så att ni kan dyka upp nästa gång en användare söker på någon av fraserna.
 
 Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. Och kom ihåg att det är en investering likt frön man sår för att senare få njuta av fruktens grönska.
 
