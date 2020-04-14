@@ -255,7 +255,7 @@ Har ni inte en Wordpress hemsida och er CMS tillhandahåller inget sätt att imp
 
 #### Så här lägger du till strukturerad data manuellt
 
-Nedan visar jag så simpelt det går hur du gör detta manuellt men jag rekommenderar ändå att läsa på <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">schema.org</a> för bättre förståelse.
+Nedan visar jag så simpelt det går hur du gör detta manuellt men jag rekommenderar ändå att läsa på <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">schema.org</a> för en bättre förståelse om strukturerad data och dess möjligheter.
 
 Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig.
 
