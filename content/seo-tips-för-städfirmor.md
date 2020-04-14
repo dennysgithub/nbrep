@@ -95,11 +95,9 @@ Kanske finns det någon som är sugen på att skapa lite content på städfirman
 
 ![](/images/post/tjanster-platser.png)
 
-Gör det enkelt för Google att veta vad era sidor handlar om.
-
 ### Skapa optimerade sidor samtliga tjänster ni erbjuder
 
-Erbjuder ni <mark>golvrengöring, flyttstädning</mark> och <mark>fönsterputs</mark> till exempel så **skall** ni ha en separat sida för dessa tjänster.
+Gör det enkelt för Google att veta vad era sidor handlar om. Erbjuder ni <mark>golvrengöring, flyttstädning</mark> och <mark>fönsterputs</mark> till exempel så **skall** ni ha en separat sida för dessa tjänster.
 
 Om någon söker på "flyttstädning" så vill Google att den personen hamnar på en sida om just flyttstädning. Inte på en sida om flyttstädning, golvrengöring och fönsterputs. Därför är det viktigt att ha separata sidor för detta.
 
