@@ -105,6 +105,8 @@ Ni kanske redan har separata sidor för detta, men hur väl optimerade är dem? 
 
 <span style="font-size:23px;">**Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**</span>
 
+<br>
+
 ### Skapa optimerade sidor för era viktigaste områden
 
 <mark>När det gäller era plats-sidor så är de extremt viktiga för att ranka högt för de plats-specifika nyckelorden.</mark> Om ni inte har specifika sidor för era viktigaste orter/platser redan så är det dags att sätta igång med det. **Om ni redan har specifika sidor för detta, hur bra är dom?** Nedan går jag igenom några enkla tips.
