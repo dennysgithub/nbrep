@@ -61,41 +61,33 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <br>
 
-## 2. Optimera sidtitlar
+## 6. Hitta nyckelord med Google Keyword Planner
 
-Sidtiteln du väljer på en sida är det första som läggs märke till av de som söker efter dina tjänster, därför är det viktigt att sälja in företaget redan här.
+![](/images/post/skapa-content.png)
 
-Det är också något Google tittar på för att bestämma huruvida relevant din sida är för sökningen. Det är därför också väldigt betydelsefullt att se över de titlar man valt och om de kan göras bättre.
+Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
 
-Nedanför tar vi en titt på några exempel.
+Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om att stärka er profil  hos Google. Och ju fler tillförlitliga sidor ni har som användare klickar på, desto bättre ranking kommer ni att få.
 
-_Exempel 1:_
+***
 
-![](/images/post/dalig-sidtitel-exempel-1.png)
+Några content idéer för att komma igång:
 
-**Analys**: Det enda som finns med här är företagsnamnet, och det startar inte ens med en versal. Förutom att titeln inte sticker ut överhuvudtaget så lämnar den också många frågor. **Vad för tjänster erbjuder dem? Var befinner dom sig? Varför ska man välja dem?**
+**Städa hemma checklista**
 
-_Exempel 2:_
+**Vår/höststädning checklista**
 
-![](/images/post/dalig-sidtitel-exempel-2.png)
+**Hur ofta ska man städa?**
 
-**Analys:** Den här är lite bättre. De har fått med nyckelorden de vill ranka för "städfirma", "städbolag", "göteborg" & "kungälv". Det är dock på gränsen till s.k 'keyword stuffing'. De vill få träffar för både städfirma och städbolag men i själva verket späder de ut sig och kommer inte vara så relevanta för någon av termerna, mer är inte alltid bättre. Deras titel är dessutom så lång att Google har klippt av den och den är inte särskilt visuellt lockande heller. Vi ger även den här tummen ned. :thumbsdown:
+**Hur städar man en lägenhet?**
 
-_Exempel 3:_
+**Vad är fördelarna med professionell städhjälp?**
 
-![](/images/post/bra-sidtitel-exempel-1.png)
+**Berätta om en städhjälte i ert team**
 
-**Analys:** Den här gillar jag! Den är perfekt. Nyckelorden "städfirma" och "stockholm" kommer **före företagsnamnet.** Och de har även fått med en anledning till varför man ska välja dem, se "**proffsig**". Den blir inte heller avklippt av Google utan är kort och koncis med sitt budskap. Tummen upp! :thumbsup:
+***
 
-_Exempel 4:_
-
-![](/images/post/bra-sidtitel-exempel-2.png)
-
-**Analys:** Ytterliggare en bra sidtitel. Se hur nyckelorden kommer före företagsnamnet igen. Förutom "städfirma" & "stockholm" har de även lyckats få in "städning" & "hemstäd" plus företagsnamnet - utan att få texten avklippt av Google. Snyggt och koncist.
-
-### Summering:
-
-Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en bra titel på er startsida, men hur ser de resterande sidtitlarna ut? Gå igenom samtliga sidor som tjänster, kontakt, etc. Säkert finns det förbättringar att göra.
+Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. Och kom ihåg att det är en investering likt frön man sår för att senare få njuta av fruktens grönska.
 
 <br>
 
@@ -154,6 +146,44 @@ _Exempel på vad ni inte ska göra:_
     www.ankeborgsstadfirma.se/kontorstadning-ankeborg
 
 Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för desto bättre. Och i vissa fall är detta sant, men i det här fallet så späder man bara ut sig jämfört med om alla tjänster var samlade på samma plats-sida.
+
+<br>
+
+## 2. Optimera sidtitlar
+
+Sidtiteln du väljer på en sida är det första som läggs märke till av de som söker efter dina tjänster, därför är det viktigt att sälja in företaget redan här.
+
+Det är också något Google tittar på för att bestämma huruvida relevant din sida är för sökningen. Det är därför också väldigt betydelsefullt att se över de titlar man valt och om de kan göras bättre.
+
+Nedanför tar vi en titt på några exempel.
+
+_Exempel 1:_
+
+![](/images/post/dalig-sidtitel-exempel-1.png)
+
+**Analys**: Det enda som finns med här är företagsnamnet, och det startar inte ens med en versal. Förutom att titeln inte sticker ut överhuvudtaget så lämnar den också många frågor. **Vad för tjänster erbjuder dem? Var befinner dom sig? Varför ska man välja dem?**
+
+_Exempel 2:_
+
+![](/images/post/dalig-sidtitel-exempel-2.png)
+
+**Analys:** Den här är lite bättre. De har fått med nyckelorden de vill ranka för "städfirma", "städbolag", "göteborg" & "kungälv". Det är dock på gränsen till s.k 'keyword stuffing'. De vill få träffar för både städfirma och städbolag men i själva verket späder de ut sig och kommer inte vara så relevanta för någon av termerna, mer är inte alltid bättre. Deras titel är dessutom så lång att Google har klippt av den och den är inte särskilt visuellt lockande heller. Vi ger även den här tummen ned. :thumbsdown:
+
+_Exempel 3:_
+
+![](/images/post/bra-sidtitel-exempel-1.png)
+
+**Analys:** Den här gillar jag! Den är perfekt. Nyckelorden "städfirma" och "stockholm" kommer **före företagsnamnet.** Och de har även fått med en anledning till varför man ska välja dem, se "**proffsig**". Den blir inte heller avklippt av Google utan är kort och koncis med sitt budskap. Tummen upp! :thumbsup:
+
+_Exempel 4:_
+
+![](/images/post/bra-sidtitel-exempel-2.png)
+
+**Analys:** Ytterliggare en bra sidtitel. Se hur nyckelorden kommer före företagsnamnet igen. Förutom "städfirma" & "stockholm" har de även lyckats få in "städning" & "hemstäd" plus företagsnamnet - utan att få texten avklippt av Google. Snyggt och koncist.
+
+### Summering:
+
+Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en bra titel på er startsida, men hur ser de resterande sidtitlarna ut? Gå igenom samtliga sidor som tjänster, kontakt, etc. Säkert finns det förbättringar att göra.
 
 <br>
 
@@ -216,36 +246,6 @@ Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopier
 Gå tillbaka till <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> och se om du lyckades!
 
 Om ni har en Wordpress hemsida så kan detta lösas enklare med hjälp av en plugin. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
-
-## 6. Skapa content
-
-![](/images/post/skapa-content.png)
-
-Genom att skapa content (innehåll på ren svenska) så engagerar ni inte bara era kunder men ni kan också locka fler till hemsidan. Visst, det kanske låter konstigt, **varför skulle en sida som handlar om exempelvis "enkla städtips" leda till fler kunder för er?** De flesta av besökarna kanske inte bor i områdena ni arbetar i, eller ens letar efter städhjälp!
-
-Men faktum är att det inte är av betydelse i det här fallet. Allt handlar om att stärka er profil  hos Google. Och ju fler tillförlitliga sidor ni har som användare klickar på, desto bättre ranking kommer ni att få.
-
-***
-
-Några content idéer för att komma igång:
-
-**Städa hemma checklista**
-
-**Vår/höststädning checklista**
-
-**Hur ofta ska man städa?**
-
-**Hur städar man en lägenhet?**
-
-**Vad är fördelarna med professionell städhjälp?**
-
-**Berätta om en städhjälte i ert team**
-
-***
-
-Kanske finns det någon som är sugen på att skapa lite content på städfirman och är dessutom duktig på det? Om inte så går det alltid att hyra in någon för ett par artiklar då och då, det behöver inte kosta skjortan. Och kom ihåg att det är en investering likt frön man sår för att senare få njuta av fruktens grönska.
-
-<br>
 
 ## Avslutande ord
 
