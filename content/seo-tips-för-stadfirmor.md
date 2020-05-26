@@ -43,7 +43,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 ***
 
-![seo-tips-for-stadfirmor](/images/post/r.png "seo-tips--infografik")
+![](/images/post/seo-tips-infografik-1.png)
 
 <a name="steg1"></a>
 
