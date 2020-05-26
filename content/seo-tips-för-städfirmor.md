@@ -45,6 +45,10 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 ![seo-tips-for-stadfirmor](/images/post/r.png "seo-tips--infografik")
 
+<a name="steg1"></a>
+
+<br>
+
 ## 1. Optimera Google My Business
 
 <span style="font-size: 18px;">Att förbättra rankingen i Googles organiska sökresultat tar tid (Rom byggdes inte på en dag). Om någon som jobbar med SEO garanterar er förbättrad ranking på extremt kort tid så skulle jag råda er att springa åt andra hållet.</span>
