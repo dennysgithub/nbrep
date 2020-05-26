@@ -47,7 +47,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <a name="steg1"></a>
 
-<br>
+<br><br><br>
 
 ## 1. Optimera Google My Business
 
@@ -60,6 +60,8 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 <span style="font-size: 18px;">Det finns många tips & trix för att optimera en Google My Business profil och det här inlägget skulle bli på tok för långt om jag gick igenom det här. Men jag har skrivit en <a href="[https://www.nordbergmedia.se/optimera-din-google-my-business-profil/](https://www.nordbergmedia.se/optimera-din-google-my-business-profil/ "https://www.nordbergmedia.se/optimera-din-google-my-business-profil/")" target="_blank">guide hur du optimerar Google My Business</a> där jag går igenom några av de viktigaste hörnstenarna.
 
 <span style="font-size: 18px;">Med det sagt så är det fortfarande viktigt att ha en ordentligt sökmotoroptimerad hemsida, inte bara för det organiska sökresultatet men även för att knuffa upp rankingen i Google Maps.</span>
+
+<a name="steg2"></a>
 
 <br>
 
@@ -127,7 +129,9 @@ _Exempel på vad ni inte ska göra:_
 
 Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för desto bättre. Och i vissa fall är detta sant, men i det här fallet så späder man bara ut sig jämfört med om alla tjänster var samlade på samma plats-sida.
 
-<br>
+<a name="steg3"></a>
+
+<br><br>
 
 ## 3. Optimera sidtitlar
 
@@ -165,7 +169,9 @@ _Exempel 4:_
 
 Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en bra titel på er startsida, men hur ser de resterande sidtitlarna ut? Gå igenom samtliga sidor som tjänster, kontakt, etc. Säkert finns det förbättringar att göra.
 
-<br>
+<a name="steg4"></a>
+
+<br><br>
 
 ## 4. Bygg och se över (in)länkar
 
@@ -227,7 +233,9 @@ Köpte ni sjudagars prövotiden hos <a href="[https://www.ahrefs.com](https://ww
 
 Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem, då behöver ni göra en s.k 301 redirect så att den trasiga länken omdirigeras till en fungerande länk.
 
-<br>
+<a name="steg5"></a>
+
+<br><br>
 
 ## 5. Lägg till strukturerad data
 
@@ -273,6 +281,6 @@ Gå tillbaka till <a href="[https://search.google.com/structured-data/testing-to
 
 ## Avslutande ord
 
-Det var allt för denna gången. Jag försökte hålla det så kort som möjligt så det var en hel del som inte kom med alls men det här är en bra start för att fixa till lite på egen hand.
+Det var allt för denna gången. Jag försökte hålla det så kort som möjligt så det var en hel del tekniska delar som inte kom med alls men det här är en bra start för att fixa till lite på egen hand.
 
 Vill du inte fixa på egen hand så bistår jag som vanligt med hjälp. Kontakta mig via chatten eller [kontaktformuläret ](https://www.nordbergmedia.se/kontakt "kontaktformuläret")så snackar vi!
