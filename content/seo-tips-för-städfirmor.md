@@ -61,7 +61,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <br>
 
-## 3. Skapa sidor för tjänster & platser
+## 2. Skapa sidor för tjänster & platser
 
 ![](/images/post/tjanster-platser.png)
 
@@ -125,7 +125,7 @@ Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för d
 
 <br>
 
-## 4. Optimera sidtitlar
+## 3. Optimera sidtitlar
 
 Sidtiteln du väljer på en sida är det första som läggs märke till av de som söker efter dina tjänster, därför är det viktigt att sälja in företaget redan här.
 
@@ -163,7 +163,7 @@ Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en b
 
 <br>
 
-## 5. Bygg och se över (in)länkar
+## 4. Bygg och se över (in)länkar
 
 ![](/images/post/inlankar-tb.png)
 
