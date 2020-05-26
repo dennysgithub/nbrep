@@ -19,15 +19,13 @@ type = "post"
 
 <li><a href="#steg1">Optimera Google My Business.</a></li>
 
-<li><a href="#steg2">Hitta nyckelord med Google Keyword Planner.</a></li>
+<li><a href="#steg2">Skapa sidor för tjänster & platser.</a></li>
 
-<li><a href="#steg3">Skapa sidor för tjänster & platser.</a></li>
+<li><a href="#steg3">Optimera sidtitlar.</a></li>
 
-<li><a href="#steg4">Optimera sidtitlar.</a></li>
+<li><a href="#steg4">Bygg och se över länkar.</a></li>
 
-<li><a href="#steg5">Bygg och se över länkar.</a></li>
-
-<li><a href="#steg6">Lägg till strukturerad data.</a></li>
+<li><a href="#steg5">Lägg till strukturerad data.</a></li>
 
 ***
 
@@ -60,10 +58,6 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 <span style="font-size: 18px;">Med det sagt så är det fortfarande viktigt att ha en ordentligt sökmotoroptimerad hemsida, inte bara för det organiska sökresultatet men även för att knuffa upp rankingen i Google Maps.</span>
 
 <br>
-
-## 2. Hitta nyckelord med Google Keyword Planner
-
-![](/images/post/hitta-nyckelord.png)
 
 <br>
 
