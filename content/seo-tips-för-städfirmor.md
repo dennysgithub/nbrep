@@ -245,7 +245,7 @@ Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem,
 
 Strukturerad data är något som Google och de andra sökmotorerna gemensamt skapade år 2011. Den strukturerade datan hjälper sökmotorerna att avläsa hemsidor enklare. Med den s.k uppmärkta datan så kan du skicka ännu starkare signaler till Google om var du befinner dig geografiskt och vad ditt företag gör.
 
-Du kan även med hjälp av strukturerad data få ett s.k "featured snippet" och hamna överst i Google och dessutom ta upp mer plats om du sköter dina kort rätt. Se nedan.
+Du kan även med hjälp av strukturerad data få ett s.k "featured snippet" och hamna överst i Google och dessutom ta upp mer plats om du sköter dina kort rätt. **Se nedan**.
 
 ![](/images/post/featured-snippet.gif)
 
