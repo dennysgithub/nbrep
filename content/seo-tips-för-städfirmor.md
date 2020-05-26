@@ -19,15 +19,15 @@ type = "post"
 
 <li><a href="#steg1">Optimera Google My Business.</a></li>
 
-<li><a href="#steg6">Hitta nyckelord med Google Keyword Planner.</a></li>
+<li><a href="#steg2">Hitta nyckelord med Google Keyword Planner.</a></li>
 
 <li><a href="#steg3">Skapa sidor för tjänster & platser.</a></li>
 
-<li><a href="#steg2">Optimera sidtitlar.</a></li>
+<li><a href="#steg4">Optimera sidtitlar.</a></li>
 
-<li><a href="#steg4">Bygg och se över länkar.</a></li>
+<li><a href="#steg5">Bygg och se över länkar.</a></li>
 
-<li><a href="#steg5">Lägg till strukturerad data.</a></li>
+<li><a href="#steg6">Lägg till strukturerad data.</a></li>
 
 ***
 
@@ -61,7 +61,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <br>
 
-## 6. Hitta nyckelord med Google Keyword Planner
+## 2. Hitta nyckelord med Google Keyword Planner
 
 ![](/images/post/hitta-nyckelord.png)
 
@@ -131,7 +131,7 @@ Det är lätt att tro att ju mer fokuserad man är på vad man vill ranka för d
 
 <br>
 
-## 2. Optimera sidtitlar
+## 4. Optimera sidtitlar
 
 Sidtiteln du väljer på en sida är det första som läggs märke till av de som söker efter dina tjänster, därför är det viktigt att sälja in företaget redan här.
 
@@ -169,7 +169,7 @@ Det är så här ni vill att era sidtitlar skall se ut. Kanske har ni redan en b
 
 <br>
 
-## 4. Bygg och se över (in)länkar
+## 5. Bygg och se över (in)länkar
 
 ![](/images/post/inlankar-tb.png)
 
@@ -238,6 +238,10 @@ Ibland vill de inte ändra på länken och ibland får man inte ens tag på dem,
 ### Vad är strukturerad data?
 
 Strukturerad data är något som Google och de andra sökmotorerna gemensamt skapade år 2011. Den strukturerade datan hjälper sökmotorerna att avläsa hemsidor enklare. Med den s.k uppmärkta datan så kan du skicka ännu starkare signaler till Google om var du befinner dig geografiskt och vad ditt företag gör.
+
+Du kan även med hjälp av strukturerad data få ett s.k "featured snippet" och hamna överst i Google och dessutom ta upp mer plats om du sköter dina kort rätt. Se nedan.
+
+![](/images/post/featured-snippet.gif)
 
 ### Jag kanske redan har strukturerad data på hemsidan?
 
