@@ -40,7 +40,7 @@ bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "En SEO nörd som bloggar & hjälper lokala företagare få fler kunder."
 [params.cta]
-description = "**ENORM RABATT** i dessa tider, **adaptera och väx ifrån konkurrenterna medan de står still** med en SEO-analys av er hemsida. Först till kvarn gäller."
+description = "**FÖRST TILL KVARN: 10st ANALYSER REAS BORT **adaptera och väx ifrån konkurrenterna medan de står still** med en SEO-analys av er hemsida."
 enable = true
 image = "images/hugo-muscot.png"
 title = "<mark>Just Nu! 75% på SEO-analys ~~15000:-~~ 3750:-</mark>"
