@@ -56,7 +56,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <span style="font-size: 18px;">**En plats där det kan gå att förbättra rankingen snabbare däremot är faktiskt i Google Maps.** Och det bästa av allt är att väldigt många användare väljer företag just därifrån när de ska hitta en städfirma som passar dem.</span>
 
-<span style="font-size: 18px;">Det finns många tips & trix för att optimera en Google My Business profil och det här inlägget skulle bli på tok för långt om jag gick igenom det här. Men jag har skrivit en <a href="[https://www.nordbergmedia.se/optimera-din-google-my-business-profil/](https://www.nordbergmedia.se/optimera-din-google-my-business-profil/ "https://www.nordbergmedia.se/optimera-din-google-my-business-profil/")" target="_blank">guide hur du optimerar Google My Business</a> där jag går igenom några av de viktigaste hörnstenarna.
+<span style="font-size: 18px;">Det finns många tips & trix för att optimera en Google My Business profil och det här inlägget skulle bli på tok för långt om jag gick igenom det här. Men jag har skrivit en [guide hur du optimerar Google My Business](https://www.nordbergmedia.se/optimera-din-google-my-business-profil/) där jag går igenom några av de viktigaste hörnstenarna.
 
 <span style="font-size: 18px;">Med det sagt så är det fortfarande viktigt att ha en ordentligt sökmotoroptimerad hemsida, inte bara för det organiska sökresultatet men även för att knuffa upp rankingen i Google Maps.</span>
 
