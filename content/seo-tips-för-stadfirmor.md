@@ -260,15 +260,15 @@ Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer
 
 ### Hur lägger jag till strukturerad data?
 
-Om ni har en Wordpress hemsida så kan detta lösas enkelt med hjälp av en plugin. <a href="[https://www.wpschema.com](https://www.wpschema.com "https://www.wpschema.com")" target="_blank">Schema Pro</a> är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
+Om ni har en Wordpress hemsida så kan detta lösas enkelt med hjälp av en plugin.  [Schema Pro](https://www.wpschema.com) är en plugin med goda betyg, jag har dock själv aldrig använt plugins utan jag brukar lägga till koden manuellt.
 
 Har ni inte en Wordpress hemsida och er CMS tillhandahåller inget sätt att implementera strukturerad data så kan ni behöva lägga till det manuellt.
 
 #### Så här lägger du till strukturerad data manuellt
 
-_Nedan visar jag så simpelt det går hur du gör detta manuellt men jag rekommenderar ändå att läsa på_ <a href="[https://schema.org/](https://schema.org/ "https://schema.org/")" target="_blank">_schema.org_</a> _för en bättre förståelse om hur strukturerad data fungerar och dess möjligheter._
+_Nedan visar jag så simpelt det går hur du gör detta manuellt men jag rekommenderar ändå att läsa på_ [_schema.org_](https://schema.org/ ) _för en bättre förståelse om hur strukturerad data fungerar och dess möjligheter._
 
-Surfa in på <a href="[https://jsonld.com/json-ld-generator/](https://jsonld.com/json-ld-generator/ "https://jsonld.com/json-ld-generator/")" target="_blank">Steal Our JSON-LD</a> och fyll i formulären så genereras din strukturerade data för dig.
+Surfa in på [Steal Our JSON-LD](https://jsonld.com/json-ld-generator/ ) och fyll i formulären så genereras din strukturerade data för dig.
 
 Det mesta är ganska rättframt och allt du behöver göra är att fylla i ditt företags uppgifter helt enkelt.
 
@@ -278,7 +278,7 @@ Du behöver även ange en logotyp, surfa in på din hemsida och högerklicka på
 
 Efter du har fyllt i alla fälten så har du din kod färdig till höger. Kopiera den och klistra in den inom `<head>` taggen på din hemsida.
 
-Gå tillbaka till <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> och se om du lyckades!
+Gå tillbaka till[ Googles testverktyg]() och se om du lyckades!
 
 ## Avslutande ord
 
