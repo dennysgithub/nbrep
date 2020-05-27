@@ -252,7 +252,7 @@ Du kan även med hjälp av strukturerad data få ett s.k "featured snippet" och 
 
 ### Jag kanske redan har strukturerad data på hemsidan?
 
-Om du inte vet om ni har strukturerad data tillagd på er hemsida så kan du använda dig av <a href="[https://search.google.com/structured-data/testing-tool?hl=sv](https://search.google.com/structured-data/testing-tool?hl=sv "https://search.google.com/structured-data/testing-tool?hl=sv")" target="_blank">Googles testverktyg</a> för att se efter direkt.
+Om du inte vet om ni har strukturerad data tillagd på er hemsida så kan du använda dig av [Googles testverktyg](https://search.google.com/structured-data/testing-tool?hl=sv ) för att se efter direkt.
 
 Du knappar helt enkelt in er webbadress i fältet och på höger sida så kommer det dyka upp strukturerad data, om det finns någon. Se exempel nedan.
 
