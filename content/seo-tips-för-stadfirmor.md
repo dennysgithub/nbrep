@@ -78,7 +78,7 @@ Om någon söker på "flyttstädning" så vill Google att den personen hamnar p�
 
 Ni kanske redan har separata sidor för detta, men hur väl optimerade är dem? Ett enkelt knep att ta till är att helt enkelt spana på era konkurrenter som rankar bäst.
 
-<span style="font-size:23px;">**Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?**</span>
+<span style="font-size:23px;">Vad har de gjort annorlunda med sina olika sidor för tjänsterna de erbjuder? Kan ni göra något liknande?</span>
 
 <br>
 
