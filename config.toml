@@ -47,7 +47,7 @@ title = "<mark>Just Nu! 75% på SEO-analys ~~15000:-~~ 3750:-</mark>"
 [params.cta.button]
 enable = true
 label = "mer info"
-link = "/seo-analys/"
+link = "https://tjanster.nordbergmedia.se/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
