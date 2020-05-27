@@ -62,9 +62,7 @@ Det kan kännas som en önskedröm att nå toppen av sökresultaten om man står
 
 <a name="steg2"></a>
 
-<br>
-
-<br>
+<br><br><br>
 
 ## 2. Skapa sidor för tjänster & platser
 
