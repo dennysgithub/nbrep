@@ -17,6 +17,10 @@ URL = "verktyg"
 name = "Verktyg"
 weight = 2
 [[menu.main]]
+link = "https://www.tjanster.nordbergmedia.se/"
+name = "Tjänster"
+weight = 1
+[[menu.main]]
 URL = "kontakt"
 name = "Kontakt"
 weight = 1
