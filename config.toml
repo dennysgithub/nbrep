@@ -32,7 +32,7 @@ weight = 2
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Nordberg Media"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/mzbjewkd"
 copyright = "Nordberg Media &copy; 2020 Alla rättigheter reserverade | [Privacy Policy](/privacy-policy)"
 description = "En SEO nörd som bloggar om nyheter, trender, guider & tips för alla som vill synas bättre på Google."
 google_analitycs_id = "UA-167768998-1"
