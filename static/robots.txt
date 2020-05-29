@@ -3,3 +3,5 @@ Disallow:
 Disallow: /author
 Disallow: /search
 Disallow: /author/john-doe
+
+Sitemap: https://www.nordbergmedia.se/robots.txt 
