@@ -9,7 +9,7 @@ title = "Nordberg Media"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-URL = "hem"
+URL = "/"
 name = "Hem"
 weight = 1
 [[menu.footer]]
