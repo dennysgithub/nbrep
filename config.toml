@@ -19,11 +19,11 @@ weight = 2
 [[menu.footer]]
 URL = "verktyg"
 name = "Verktyg"
-weight = 1
+weight = 3
 [[menu.footer]]
 URL = "kontakt"
 name = "Kontakt"
-weight = 1
+weight = 4
 [[menu.main]]
 URL = "https://www.tjanster.nordbergmedia.se/"
 name = "SEO Analys"
