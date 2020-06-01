@@ -81,3 +81,4 @@ preloader = ""
 enable = false
 [taxonomies]
 category = "kategorier"
+disableKinds= ["sitemap"]
