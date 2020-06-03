@@ -13,10 +13,6 @@ URL = "/"
 name = "Hem"
 weight = 1
 [[menu.footer]]
-URL = "https://www.tjanster.nordbergmedia.se/"
-name = "SEO Analys"
-weight = 2
-[[menu.footer]]
 URL = "verktyg"
 name = "Verktyg"
 weight = 3
@@ -24,10 +20,6 @@ weight = 3
 URL = "kontakt"
 name = "Kontakt"
 weight = 4
-[[menu.main]]
-URL = "https://www.tjanster.nordbergmedia.se/"
-name = "SEO Analys"
-weight = 1
 [[menu.main]]
 URL = "kontakt"
 name = "Kontakt"
