@@ -47,7 +47,7 @@ title = "En SEO nörd som bloggar & hjälper lokala företagare få fler kunder.
 description = "Läs min guide hur du optimerar er Google My Business profil för att ranka högre & få fler kunder."
 enable = true
 image = "images/hugo-muscot.png"
-title = "Få fler kunder från Google idag"
+title = "Få fler kunder från Google idag."
 [params.cta.button]
 enable = true
 label = "Till Guiden"
