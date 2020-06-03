@@ -52,14 +52,14 @@ bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "En SEO nörd som bloggar & hjälper lokala företagare få fler kunder."
 [params.cta]
-description = "**FÖRST TILL KVARN: 10st analyser finns kvar!** Täpp igen läckorna och få fler kunder med hjälp av en SEO-analys av er hemsida. Använd kampanjkoden: **NBM2020**."
+description = "Optimera Google My Business"
 enable = true
 image = "images/hugo-muscot.png"
-title = "<mark>Just Nu! 70% på SEO-analys ~~15000:-~~ 4500:-</mark>"
+title = "Rusta upp er google my business profil och få fler kunder per dag. Kolla in min guide."
 [params.cta.button]
 enable = true
-label = "mer info"
-link = "https://www.tjanster.nordbergmedia.se/"
+label = "Till Guiden"
+link = "https://www.nordbergmedia.se/optimera-google-my-business-2020/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
