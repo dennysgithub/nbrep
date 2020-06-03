@@ -44,10 +44,10 @@ bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "En SEO nörd som bloggar & hjälper lokala företagare få fler kunder."
 [params.cta]
-description = "Rusta upp er google my business profil och få fler kunder per dag. Kolla in min guide."
+description = "Läs min guide hur du optimerar er Google My Business profil för att ranka högre & få fler kunder."
 enable = true
 image = "images/hugo-muscot.png"
-title = "Optimera Google My Business"
+title = "Få fler kunder från Google idag"
 [params.cta.button]
 enable = true
 label = "Till Guiden"
